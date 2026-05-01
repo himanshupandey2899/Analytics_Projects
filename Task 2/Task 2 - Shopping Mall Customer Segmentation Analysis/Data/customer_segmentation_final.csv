@@ -125,7 +125,7 @@ af9762ae-ed8e-4aa0-b32c-922d500b4cf1,53,Female,156298,35,46-55,High Income - Low
 2cb233a0-5916-49e0-800d-01869340347d,65,Male,156022,49,56-65,High Income - Low Spending,1
 2bcc1223-2182-4117-ba07-1e3aa9d9b4bd,22,Male,158363,83,18-25,High Income - High Spending,1
 6abe4dbc-1b70-4a8f-b0b1-7d1bff27fc65,23,Female,114512,25,18-25,High Income - Low Spending,2
-0947cfd7-72d1-456a-8524-947bf653fa57,18,Female,96397,64,,Low Income - High Spending,0
+0947cfd7-72d1-456a-8524-947bf653fa57,18,Female,96397,64,18-25,Low Income - High Spending,0
 ee9dbbc6-b790-4c28-a8b3-07272787b57d,44,Female,171517,76,36-45,High Income - High Spending,1
 90f1ac1f-07e1-4817-bfde-7e5f23f3e17e,38,Female,181538,68,36-45,High Income - High Spending,1
 ea1cdcc7-425d-4679-83b5-25b8332b5e6a,54,Male,47403,42,46-55,Low Income - Low Spending,3
@@ -291,7 +291,7 @@ c17d862a-d452-483e-98db-abebf2a59c4d,32,Female,118656,21,26-35,High Income - Low
 20e9a636-f643-4017-8a0d-3ce805d7b7c1,47,Male,70702,66,46-55,Low Income - High Spending,0
 86cc129e-2e37-4d6f-886d-76030c177dfe,28,Male,82523,10,26-35,Low Income - Low Spending,0
 e98c5f4a-b9a8-45bd-8482-44fbc183dc1b,63,Male,42330,88,56-65,Low Income - High Spending,3
-da000695-9784-4a92-af48-5d689ee890e9,18,Male,178560,90,,High Income - High Spending,1
+da000695-9784-4a92-af48-5d689ee890e9,18,Male,178560,90,18-25,High Income - High Spending,1
 39a12692-e72f-4a0f-bd56-7cb781f7b6d7,55,Male,129907,39,46-55,High Income - Low Spending,2
 3b514d1a-485b-4fce-83bd-b9a58dceb229,46,Female,134580,1,46-55,High Income - Low Spending,2
 a42124cc-e365-4043-a41f-213589b4e7be,72,Female,107376,38,66-75,Low Income - Low Spending,0
@@ -365,7 +365,7 @@ a89bd9bc-80df-43cd-8304-aee824e2f8cb,58,Male,38318,60,56-65,Low Income - High Sp
 c31c7f85-2eac-42de-8cf7-2cc98cb185b9,79,Male,117332,26,76-90,High Income - Low Spending,2
 a61dbcfd-b5ac-4490-a6c2-08ef6cd332c9,52,Female,174466,55,46-55,High Income - High Spending,1
 60ffb19f-7110-47bc-993c-1739aeb1d231,85,Female,101361,96,76-90,Low Income - High Spending,0
-14deeb50-9d65-427d-babd-137e86ccdb5f,18,Male,98304,58,,Low Income - High Spending,0
+14deeb50-9d65-427d-babd-137e86ccdb5f,18,Male,98304,58,18-25,Low Income - High Spending,0
 1adee7ee-0f65-483f-959e-0a719b870400,41,Female,144752,78,36-45,High Income - High Spending,2
 c8864ef3-b849-4dec-9600-953a882fe63e,82,Female,24320,23,76-90,Low Income - Low Spending,3
 38520282-8c74-4bd1-b64b-ffb002dce3fb,54,Male,106714,20,46-55,Low Income - Low Spending,0
@@ -400,7 +400,7 @@ bc2f737f-f1f2-4db9-ab4d-2097eafb1867,60,Male,178052,54,56-65,High Income - High 
 f6eb2491-0ac4-4822-84b7-896349f6ca46,23,Female,106726,22,18-25,Low Income - Low Spending,0
 4c33493f-20fd-4437-a338-7990a2b1d797,45,Male,198713,19,36-45,High Income - Low Spending,1
 032a65ef-055d-4c22-a863-8cb0bca5f018,63,Male,92958,25,56-65,Low Income - Low Spending,0
-2bb15076-9b3e-4f3f-b9dd-cf877c455218,18,Male,159187,56,,High Income - High Spending,1
+2bb15076-9b3e-4f3f-b9dd-cf877c455218,18,Male,159187,56,18-25,High Income - High Spending,1
 54da95d0-b48b-4791-a6fa-bb9055f48d8f,71,Male,93430,16,66-75,Low Income - Low Spending,0
 e87795ae-1dc1-4eb6-b208-c55be553f799,24,Female,42163,74,18-25,Low Income - High Spending,3
 070d9fd6-3c66-49d9-a5b1-57bbb23c4f6f,71,Female,122521,66,66-75,High Income - High Spending,2
@@ -702,7 +702,7 @@ fd8eba67-7e17-408a-b240-c84144f977ad,88,Male,39342,67,76-90,Low Income - High Sp
 8d51ba5e-a9b7-4d3d-8511-1b27831642d5,70,Male,179860,41,66-75,High Income - Low Spending,1
 2a570f1e-468f-4a39-88b1-73258edd6ab9,83,Male,180766,80,76-90,High Income - High Spending,1
 96d2144f-8ab1-427d-9280-e775ed91affa,31,Female,197347,72,26-35,High Income - High Spending,1
-f90b2c9b-d9aa-4ef3-a1ae-e38586a45255,18,Male,132488,87,,High Income - High Spending,2
+f90b2c9b-d9aa-4ef3-a1ae-e38586a45255,18,Male,132488,87,18-25,High Income - High Spending,2
 1cff38e7-d3ee-40ae-9c83-712334839a57,86,Male,68477,32,76-90,Low Income - Low Spending,0
 8c0c4a01-ebaa-4217-8270-af67fef75783,82,Male,100445,77,76-90,Low Income - High Spending,0
 2c8bc215-6724-4e79-91fe-eb52d4b9fa18,86,Male,96699,35,76-90,Low Income - Low Spending,0
@@ -722,9 +722,9 @@ c1b20dff-0ce8-429a-9d0d-f93b7eed447d,90,Male,163256,4,76-90,High Income - Low Sp
 d3042a42-b171-454a-bce5-9fffde29c367,78,Female,45558,72,76-90,Low Income - High Spending,3
 03cf4257-d6ef-4c30-9d4e-5955006f2204,61,Female,159298,70,56-65,High Income - High Spending,1
 ff552efd-fb47-492f-a2a8-dd12391f1e7e,64,Female,166158,55,56-65,High Income - High Spending,1
-aeff892e-3d2c-4111-b4a2-c90770558d75,18,Male,154195,30,,High Income - Low Spending,2
+aeff892e-3d2c-4111-b4a2-c90770558d75,18,Male,154195,30,18-25,High Income - Low Spending,2
 e01e948e-95dd-4a67-bfe1-03827e86ad5d,35,Female,76966,71,26-35,Low Income - High Spending,0
-f1965d4e-b109-46a1-bbbd-54478a0c96b6,18,Female,33355,2,,Low Income - Low Spending,3
+f1965d4e-b109-46a1-bbbd-54478a0c96b6,18,Female,33355,2,18-25,Low Income - Low Spending,3
 be468f94-0bc7-42c2-b3dd-c2e876ab1107,83,Female,119458,21,76-90,High Income - Low Spending,2
 63b6849d-5055-4779-938e-b52ad603f667,58,Male,30990,37,56-65,Low Income - Low Spending,3
 dbe6c63b-35ae-4e3d-b545-a53033c7825e,20,Female,45574,88,18-25,Low Income - High Spending,3
@@ -739,7 +739,7 @@ dbe6c63b-35ae-4e3d-b545-a53033c7825e,20,Female,45574,88,18-25,Low Income - High 
 a3223eba-f48a-46f2-9fc7-7968facf126d,19,Male,120882,56,18-25,High Income - High Spending,2
 54b18a0d-34d2-4a10-8d23-7f3322cf9041,35,Male,181792,42,26-35,High Income - Low Spending,1
 0b3b5239-c943-4338-8b48-7452c90e9dbd,27,Male,59681,34,26-35,Low Income - Low Spending,3
-40f2d403-15a2-4c8f-831b-eb67bec3d898,18,Male,122518,85,,High Income - High Spending,2
+40f2d403-15a2-4c8f-831b-eb67bec3d898,18,Male,122518,85,18-25,High Income - High Spending,2
 001b8f2a-e3e5-45ca-8a5f-05473b923a05,63,Male,114478,99,56-65,High Income - High Spending,2
 4e3db335-9f2d-429b-b6c1-f7072cfe4a99,71,Female,147895,83,66-75,High Income - High Spending,2
 d0eeb412-7c8b-4618-be53-40d44cc2529d,29,Male,30192,79,26-35,Low Income - High Spending,3
@@ -1004,7 +1004,7 @@ b525575c-7e32-4203-86cb-c87551491a27,54,Male,171757,85,46-55,High Income - High 
 a0d7752c-b02d-4b7d-ad75-586bee029552,45,Male,48710,79,36-45,Low Income - High Spending,3
 980b6193-2ec8-4e02-9134-86a72ceae180,56,Female,85585,91,56-65,Low Income - High Spending,0
 ff72211c-17f9-4820-aa63-111bc19fb12b,64,Male,130835,65,56-65,High Income - High Spending,2
-fc3e48b0-95ad-4aa2-ac89-25e3a7cb20d9,18,Female,88033,82,,Low Income - High Spending,0
+fc3e48b0-95ad-4aa2-ac89-25e3a7cb20d9,18,Female,88033,82,18-25,Low Income - High Spending,0
 f2b0d086-96e9-4533-97c2-db2affe8013c,45,Male,168639,37,36-45,High Income - Low Spending,1
 065b4994-02b7-4485-9b93-35f8fb2f480f,69,Female,112028,59,66-75,High Income - High Spending,2
 818e5040-edd8-476d-a56c-915816eb5ac9,77,Male,56662,78,76-90,Low Income - High Spending,3
@@ -1127,7 +1127,7 @@ a2cece43-e14c-4731-b863-6ef0ef6bcc88,38,Male,149779,77,36-45,High Income - High 
 a88a4cfe-e751-45b7-9d70-a22bb0555ad3,61,Female,61869,90,56-65,Low Income - High Spending,3
 bc36dd93-33c5-4ca6-9446-b307f2d77e50,42,Male,51495,76,36-45,Low Income - High Spending,3
 4acb9ac6-2d12-49eb-b188-b186cd8e9a15,23,Female,191209,89,18-25,High Income - High Spending,1
-5f688778-fc25-4bb9-bc5f-d4ca3e7e94fd,18,Female,170359,50,,High Income - Low Spending,1
+5f688778-fc25-4bb9-bc5f-d4ca3e7e94fd,18,Female,170359,50,18-25,High Income - Low Spending,1
 4d3db59a-c66f-44cb-bb20-27480f774597,23,Male,42140,56,18-25,Low Income - High Spending,3
 6445069d-eced-41f2-b56c-e51735833ef3,90,Female,154016,94,76-90,High Income - High Spending,2
 c006c0f9-a5d5-4d74-8b40-dece2851174b,41,Female,161143,23,36-45,High Income - Low Spending,1
@@ -1147,7 +1147,7 @@ ba7f0539-8d6b-4e44-8ded-b45960933fde,85,Female,109068,2,76-90,Low Income - Low S
 6879035a-abf9-4323-bd5e-22524eb5a434,33,Female,167291,88,26-35,High Income - High Spending,1
 f8a91903-05a8-49fa-820f-d04aadfbd09d,73,Female,54654,27,66-75,Low Income - Low Spending,3
 e5794b2a-2167-4d0e-abbd-b69ecf78a952,37,Male,186282,5,36-45,High Income - Low Spending,1
-b9806ee3-81bc-4a2c-90f3-ad7c957f53a3,18,Female,97203,48,,Low Income - Low Spending,0
+b9806ee3-81bc-4a2c-90f3-ad7c957f53a3,18,Female,97203,48,18-25,Low Income - Low Spending,0
 7b128ae0-008f-4373-b2fd-44ca65f10527,48,Female,98016,35,46-55,Low Income - Low Spending,0
 fb7f7e1c-b8dd-4bac-94f7-6a286e3e0981,58,Male,154233,32,56-65,High Income - Low Spending,2
 cbd3ef65-4242-4de4-a5b0-321303d796a5,32,Female,110999,32,26-35,High Income - Low Spending,0
@@ -1219,7 +1219,7 @@ e334bf53-3b99-4f1b-be45-1aaa618ef8f5,26,Female,59456,94,26-35,Low Income - High 
 ac5f7f87-54e7-48ad-9c87-ea852ea6f2df,54,Female,23575,53,46-55,Low Income - High Spending,3
 6f7757f4-e0af-4acb-a40e-2c56ee830bc0,55,Male,172131,98,46-55,High Income - High Spending,1
 cdfd596c-a873-48ad-a972-801124122902,84,Male,164744,76,76-90,High Income - High Spending,1
-34970139-e7e4-46c3-b74c-1a05ff9dc324,18,Male,33775,13,,Low Income - Low Spending,3
+34970139-e7e4-46c3-b74c-1a05ff9dc324,18,Male,33775,13,18-25,Low Income - Low Spending,3
 af53a6f7-6460-468c-8a37-c5a9a84448a7,41,Male,118905,36,36-45,High Income - Low Spending,2
 21801254-a966-4efd-9ba0-2dc023c1f6ba,56,Male,124202,54,56-65,High Income - High Spending,2
 66104fc6-b68e-4a1d-8ab1-fdb34f18dd98,78,Female,45603,59,76-90,Low Income - High Spending,3
@@ -1317,7 +1317,7 @@ ddda6fe0-6b7d-4712-a925-cc050456de8d,39,Female,117142,74,36-45,High Income - Hig
 8b99b631-2d37-4eba-aee1-2dfab8a58a67,89,Male,67968,18,76-90,Low Income - Low Spending,0
 d5b9ba7c-086b-49f8-91c9-0a9d02c57287,65,Male,93707,27,56-65,Low Income - Low Spending,0
 80e96e4f-d1ef-4337-a71b-63f1ef1a5e68,82,Male,68981,54,76-90,Low Income - High Spending,0
-c0f0086a-efc1-4fc8-aaf9-90a1dc98e640,18,Female,145216,33,,High Income - Low Spending,2
+c0f0086a-efc1-4fc8-aaf9-90a1dc98e640,18,Female,145216,33,18-25,High Income - Low Spending,2
 5d71a3c3-da0e-4a3e-b3e8-fb0ccf57f95f,81,Female,35606,89,76-90,Low Income - High Spending,3
 ffc947dd-10f8-4e9c-95d0-30f12c2063c4,53,Male,38664,42,46-55,Low Income - Low Spending,3
 403a207a-df69-4496-a840-a38f081d0d87,23,Female,92139,38,18-25,Low Income - Low Spending,0
@@ -1478,7 +1478,7 @@ f17a55ed-0c45-44af-bd8c-66c2e08c3378,43,Male,187053,76,36-45,High Income - High 
 26a52001-9448-4a5c-b4a0-8928b63618aa,68,Female,90369,14,66-75,Low Income - Low Spending,0
 66208de8-0486-4192-b63f-0062b56df9c5,26,Male,162256,61,26-35,High Income - High Spending,1
 2da8723c-5b66-436e-9f06-0f5efdb43231,61,Male,40536,77,56-65,Low Income - High Spending,3
-1da14839-f471-4e80-899f-c17d9160fb53,18,Female,169153,70,,High Income - High Spending,1
+1da14839-f471-4e80-899f-c17d9160fb53,18,Female,169153,70,18-25,High Income - High Spending,1
 02a306d0-73b5-4c2b-b5b9-2aaec5473dae,21,Female,20897,37,18-25,Low Income - Low Spending,3
 015b026e-af9c-4af6-a087-c7966bec8b53,87,Male,109348,53,76-90,Low Income - High Spending,0
 5da73c6d-1677-4125-b744-1ed97e1f8de8,65,Male,46096,15,56-65,Low Income - Low Spending,3
@@ -1596,7 +1596,7 @@ a3a9bb88-8cba-4ecf-9cb8-d8909e42a95c,55,Male,196752,30,46-55,High Income - Low S
 58a18561-55a3-4f2a-bee7-813751e6643b,52,Female,58278,52,46-55,Low Income - High Spending,3
 7315ecb5-fcfb-470a-bf80-1403f75359ab,86,Female,163415,62,76-90,High Income - High Spending,1
 4c3a7681-f383-4fce-93fd-b6cc89b447e6,35,Male,38725,96,26-35,Low Income - High Spending,3
-ff011277-675c-4cfa-ac3f-b1777572d1dd,18,Male,167412,51,,High Income - High Spending,1
+ff011277-675c-4cfa-ac3f-b1777572d1dd,18,Male,167412,51,18-25,High Income - High Spending,1
 9aa62c79-d369-4e07-b795-fd024ae67fd5,65,Female,139922,41,56-65,High Income - Low Spending,2
 40433559-37b5-4c6e-8cea-f0b8fff3a7ad,69,Female,184363,34,66-75,High Income - Low Spending,1
 b9e78369-b5f9-4aff-bbfb-7c528ab7185e,83,Female,63152,29,76-90,Low Income - Low Spending,3
@@ -1790,7 +1790,7 @@ e2d33179-fc71-4a2c-8b02-c1e455ea43e5,32,Male,63786,81,26-35,Low Income - High Sp
 081b1135-1a3f-418f-ad33-cd27c0159143,42,Male,34632,66,36-45,Low Income - High Spending,3
 bf1757e3-1fde-42ed-b6ba-f6702baedb49,40,Male,53210,42,36-45,Low Income - Low Spending,3
 b26a593e-db9d-4dbc-9069-ffbc3c1f79eb,80,Male,166058,49,76-90,High Income - Low Spending,1
-dccdf258-e300-4ed7-8d97-700efba80b4e,18,Male,112627,21,,High Income - Low Spending,2
+dccdf258-e300-4ed7-8d97-700efba80b4e,18,Male,112627,21,18-25,High Income - Low Spending,2
 f3d2756f-ab70-4584-ab0b-5490a4fc20fb,63,Female,138351,5,56-65,High Income - Low Spending,2
 ee581790-8526-460a-a01f-df3b087569d0,78,Male,140540,67,76-90,High Income - High Spending,2
 70aa373c-560b-4beb-b7e8-932c61e9e823,90,Female,182058,52,76-90,High Income - High Spending,1
@@ -1837,7 +1837,7 @@ afcd5d47-0329-4fc2-9640-27abee792e7d,64,Female,168209,46,56-65,High Income - Low
 c10604d3-7061-42ca-87e4-3350ac6e51bd,33,Male,114073,89,26-35,High Income - High Spending,2
 8a0feb86-e228-4475-ad5d-1f912f990957,63,Female,127043,20,56-65,High Income - Low Spending,2
 42113192-8292-4e41-b63a-7d627a90f8ca,41,Male,22648,9,36-45,Low Income - Low Spending,3
-579f2045-8792-4bb0-8013-b0a409d60f45,18,Female,22036,55,,Low Income - High Spending,3
+579f2045-8792-4bb0-8013-b0a409d60f45,18,Female,22036,55,18-25,Low Income - High Spending,3
 2179bc93-d107-4398-af40-294a7f49f6a2,51,Female,191216,97,46-55,High Income - High Spending,1
 133f772d-4883-4e3b-91a1-ecdbe4067541,74,Female,153154,39,66-75,High Income - Low Spending,2
 cde30dfe-d9c8-4a24-b36d-ae84012eb175,50,Female,187197,72,46-55,High Income - High Spending,1
@@ -1946,7 +1946,7 @@ e98f6e9f-4518-4922-94fc-b4ef346bd67e,34,Male,27740,7,26-35,Low Income - Low Spen
 0cf679af-6007-4b42-8ab5-100cdc56fe07,42,Female,192245,69,36-45,High Income - High Spending,1
 38fd6dcb-4ec5-44cf-8507-a5f80aebd24f,28,Male,155256,58,26-35,High Income - High Spending,2
 f96e1051-3141-45aa-a865-321614e11dab,34,Male,162056,81,26-35,High Income - High Spending,1
-c67b9659-905a-49dc-bbb2-873fba5bad08,18,Male,118228,20,,High Income - Low Spending,2
+c67b9659-905a-49dc-bbb2-873fba5bad08,18,Male,118228,20,18-25,High Income - Low Spending,2
 730fdb51-7f5a-4df1-bb76-d4b52d6c8fca,32,Male,65636,84,26-35,Low Income - High Spending,0
 83fdbd13-40d3-446f-9081-84c51760b089,77,Male,195770,71,76-90,High Income - High Spending,1
 5b7574fb-bfb8-4cbc-87a8-b14913898ba7,70,Male,158672,43,66-75,High Income - Low Spending,1
@@ -1960,7 +1960,7 @@ fab21885-eab6-48be-abc0-44d3e47b45fc,37,Female,54165,37,36-45,Low Income - Low S
 ffaa3f6f-68bb-416c-862f-b1c195f9500b,53,Male,65798,80,46-55,Low Income - High Spending,0
 bf4bf769-4e9e-47db-b699-8d7210d94017,22,Female,193068,73,18-25,High Income - High Spending,1
 149c2280-0bfa-4cd2-9013-024b80f53d3e,45,Female,189649,57,36-45,High Income - High Spending,1
-43b2230d-4d0a-4000-b0a6-dc8f44e18746,18,Male,149899,57,,High Income - High Spending,2
+43b2230d-4d0a-4000-b0a6-dc8f44e18746,18,Male,149899,57,18-25,High Income - High Spending,2
 de2bd99e-08d5-416d-8e0e-1443eeec74db,56,Female,141924,16,56-65,High Income - Low Spending,2
 b8b14e15-e0e2-40a6-b2a7-9a592019c3bb,65,Female,25498,18,56-65,Low Income - Low Spending,3
 5a8cfe95-9780-4f00-8b0e-335078d92790,53,Male,44464,64,46-55,Low Income - High Spending,3
@@ -2016,7 +2016,7 @@ e60ed6ba-3be5-420e-aa6c-9dc688e58bbb,34,Male,103152,53,26-35,Low Income - High S
 54588a65-4e64-4c0b-9f63-e3ffd429f7c3,46,Female,197447,37,46-55,High Income - Low Spending,1
 4474efe2-e9a4-4cd5-912c-6c04048bba8e,85,Male,54029,84,76-90,Low Income - High Spending,3
 879840fb-8a80-48fe-afcb-7c92dcbc9ea6,50,Female,58267,74,46-55,Low Income - High Spending,3
-5d23e5ab-147f-4625-8bcf-2686cc127253,18,Male,92870,47,,Low Income - Low Spending,0
+5d23e5ab-147f-4625-8bcf-2686cc127253,18,Male,92870,47,18-25,Low Income - Low Spending,0
 df4fd3a4-54ac-4cc7-b710-2ad0b297f5ff,74,Male,84161,17,66-75,Low Income - Low Spending,0
 e0636d16-ba5f-4ce4-9be5-5a7325b95d92,84,Female,27598,61,76-90,Low Income - High Spending,3
 d5f5fa20-7888-4c1c-8411-bae8508dc1af,25,Male,110272,4,18-25,High Income - Low Spending,0
@@ -2332,13 +2332,13 @@ e1a74627-f6df-4693-b19d-4bb045993229,48,Female,34059,43,46-55,Low Income - Low S
 ec759c62-5b53-48fa-bd47-47cef9e637d1,54,Female,194032,12,46-55,High Income - Low Spending,1
 107e0f11-a21f-454f-9409-f8f7fa6f95e4,44,Male,135553,95,36-45,High Income - High Spending,2
 ae3ed838-4e82-4c2b-b015-2245b1babf34,85,Female,76818,1,76-90,Low Income - Low Spending,0
-20e1f929-6ef3-4d4d-b24a-86ef54af32b0,18,Male,57916,52,,Low Income - High Spending,3
+20e1f929-6ef3-4d4d-b24a-86ef54af32b0,18,Male,57916,52,18-25,Low Income - High Spending,3
 231f6a6e-5be3-43a0-ac00-7a5e561dcf8d,28,Male,100314,60,26-35,Low Income - High Spending,0
 d00ea719-4ef8-44e7-94cd-0ad5fc28ddf7,70,Female,61890,37,66-75,Low Income - Low Spending,3
 53b43cd2-98c9-4934-a6d2-313f47d90152,39,Male,149086,71,36-45,High Income - High Spending,2
 6c36277a-ddec-4e7d-861c-fe56d10751eb,59,Male,42785,70,56-65,Low Income - High Spending,3
 877ee396-be9a-4a46-96bc-5d7a483afaea,26,Male,77303,46,26-35,Low Income - Low Spending,0
-97766415-c39e-4927-af9f-54fafae3dd5c,18,Female,75022,95,,Low Income - High Spending,0
+97766415-c39e-4927-af9f-54fafae3dd5c,18,Female,75022,95,18-25,Low Income - High Spending,0
 c6cf66e2-027d-4b9c-8a6d-d53a05834ef8,36,Female,146184,44,36-45,High Income - Low Spending,2
 98d708e7-aece-4697-8534-ca07a6663fc1,62,Female,107656,97,56-65,Low Income - High Spending,0
 ab367baa-c205-4c6a-8645-b09a47e609c7,60,Female,25538,72,56-65,Low Income - High Spending,3
@@ -2394,7 +2394,7 @@ f9f4b6ec-4274-401e-b82c-a3a00fa8a6a5,66,Female,159216,51,66-75,High Income - Hig
 a06896d4-ed75-4fb4-a5cf-a10c7cbb3219,71,Male,32974,33,66-75,Low Income - Low Spending,3
 d5f21e7e-c9eb-4ec9-836d-36f29bfdba6a,49,Female,34406,77,46-55,Low Income - High Spending,3
 0d1fea91-7b6f-4900-aae0-c7920d443d85,23,Female,52133,44,18-25,Low Income - Low Spending,3
-0ebd3ecc-4491-4471-aa15-a6a0eb28a937,18,Male,186928,55,,High Income - High Spending,1
+0ebd3ecc-4491-4471-aa15-a6a0eb28a937,18,Male,186928,55,18-25,High Income - High Spending,1
 8476b12d-7fbb-4eec-8342-39f86596cb6b,47,Female,131528,11,46-55,High Income - Low Spending,2
 c813c84c-057c-4a7d-bf90-e3bec9ce0082,24,Male,115246,30,18-25,High Income - Low Spending,2
 7f785422-1a16-4c31-9485-eb1d4e2afdab,21,Male,83859,6,18-25,Low Income - Low Spending,0
@@ -2482,14 +2482,14 @@ cae1ade2-e248-4ce8-b81a-63a48017b1cd,33,Male,192754,74,26-35,High Income - High 
 663d0a9f-c20b-41d2-8a64-2fe50944fbad,37,Male,70304,41,36-45,Low Income - Low Spending,0
 bd561c63-caa5-4a01-a154-fece68049dad,25,Female,58838,37,18-25,Low Income - Low Spending,3
 2d9edc67-6be6-4756-ace7-9ef6d30bc61b,20,Female,159591,13,18-25,High Income - Low Spending,1
-6c94038b-8b63-4ca9-9b61-efac9736de20,18,Female,30781,28,,Low Income - Low Spending,3
+6c94038b-8b63-4ca9-9b61-efac9736de20,18,Female,30781,28,18-25,Low Income - Low Spending,3
 6e030b58-6131-4b36-b041-094e1e653dc7,55,Female,46628,71,46-55,Low Income - High Spending,3
 a591be49-6604-4bb2-8e0c-c4ecd939a1bc,28,Male,86802,47,26-35,Low Income - Low Spending,0
 b5bc1804-5bc6-4e31-b84c-5afa1636ce0b,73,Female,164811,33,66-75,High Income - Low Spending,1
 4736df70-8bd7-4f3f-8813-2249f47804f0,44,Female,155221,3,36-45,High Income - Low Spending,2
 819e2d17-8e93-4bb1-8199-c41ba30c99d3,31,Male,66499,95,26-35,Low Income - High Spending,0
 d8a87531-0beb-4989-b013-b79eef3db0b7,90,Female,143090,84,76-90,High Income - High Spending,2
-5ec9fd8e-c095-4888-9854-f752284a0fb6,18,Male,186313,2,,High Income - Low Spending,1
+5ec9fd8e-c095-4888-9854-f752284a0fb6,18,Male,186313,2,18-25,High Income - Low Spending,1
 bec6b969-3d3b-4454-8584-f40c4497f28c,51,Male,57208,51,46-55,Low Income - High Spending,3
 764e8d50-ed3a-40b7-8b58-0bd2882a97ec,47,Female,81757,93,46-55,Low Income - High Spending,0
 4f12516e-d2a2-45e1-a80c-0abe6235033e,45,Male,99173,11,36-45,Low Income - Low Spending,0
@@ -2513,7 +2513,7 @@ c110fb40-b9fc-4092-9684-703949c53826,88,Male,104777,26,76-90,Low Income - Low Sp
 1a88d4f9-dea5-4497-a693-0f0a819b8bc2,58,Female,179461,93,56-65,High Income - High Spending,1
 507ebff9-7e3c-434e-978e-ad49b60a1f6b,38,Male,178665,23,36-45,High Income - Low Spending,1
 724904b2-aa36-4352-a44c-0ac2dff7fe52,89,Female,42551,12,76-90,Low Income - Low Spending,3
-5e330158-4f01-4aa1-9167-f34615d98c6d,18,Female,149997,93,,High Income - High Spending,2
+5e330158-4f01-4aa1-9167-f34615d98c6d,18,Female,149997,93,18-25,High Income - High Spending,2
 300d98bf-de0a-43d3-9a7a-2ad7d1e40f30,20,Female,69777,34,18-25,Low Income - Low Spending,0
 c09a904b-b7e9-4896-b16f-548d5cc28194,89,Female,195422,7,76-90,High Income - Low Spending,1
 2024ae27-b02c-406d-bb5a-ceea9e5f24d3,66,Male,139596,43,66-75,High Income - Low Spending,2
@@ -2557,7 +2557,7 @@ dcbaadcb-de1a-4da0-a55f-41339448bd16,65,Female,66640,29,56-65,Low Income - Low S
 8d20bfe7-f797-4c19-a3c8-d8feaedb844f,86,Female,82970,96,76-90,Low Income - High Spending,0
 e44d6380-06a0-4753-8872-9911cd46112c,55,Female,174735,63,46-55,High Income - High Spending,1
 98acfb05-45d9-471c-9d4e-6f972abce801,57,Male,51130,47,56-65,Low Income - Low Spending,3
-10c42f01-6b6f-4a67-bd5b-46371306f4f8,18,Male,94246,26,,Low Income - Low Spending,0
+10c42f01-6b6f-4a67-bd5b-46371306f4f8,18,Male,94246,26,18-25,Low Income - Low Spending,0
 86bdb59e-1905-4e65-b17f-1f33e73689f2,44,Male,75424,92,36-45,Low Income - High Spending,0
 1b7e8d3c-0d4e-45f4-9a87-3133840323d2,67,Male,95072,3,66-75,Low Income - Low Spending,0
 da8298b6-7f37-4b29-9450-22f6789b0a7e,64,Female,97599,72,56-65,Low Income - High Spending,0
@@ -2767,7 +2767,7 @@ c269173f-cdcc-4433-9b76-abd03d9380a6,78,Male,133974,68,76-90,High Income - High 
 aa636f0d-aa55-4f13-be01-9e73bcc729a0,73,Male,137797,72,66-75,High Income - High Spending,2
 e6539cd1-37a6-4456-bcf4-3351d5bcda35,68,Female,51064,65,66-75,Low Income - High Spending,3
 268efe9a-de99-450e-8c00-80544f323790,54,Female,65596,37,46-55,Low Income - Low Spending,0
-31142d72-444a-4865-9830-06bbfa007e19,18,Male,79825,51,,Low Income - High Spending,0
+31142d72-444a-4865-9830-06bbfa007e19,18,Male,79825,51,18-25,Low Income - High Spending,0
 faf01947-bff4-44cd-ae0d-3805da6ab5a4,26,Female,117494,48,26-35,High Income - Low Spending,2
 36e0abb3-5f6c-4df7-9bb4-826c7e113d43,45,Male,91384,76,36-45,Low Income - High Spending,0
 9b213669-84f2-4c24-9352-242bec7eeb67,61,Male,64012,79,56-65,Low Income - High Spending,3
@@ -2917,7 +2917,7 @@ cc8a6caf-b191-4cd8-92ff-a11f6a3df7cf,41,Female,82803,11,36-45,Low Income - Low S
 44b2e63a-e60d-4c67-a45a-7c36140c479f,49,Female,199573,13,46-55,High Income - Low Spending,1
 644a20b3-0872-4567-94cc-14ea109e5c60,81,Male,178484,82,76-90,High Income - High Spending,1
 843356de-ca01-4e47-9f6c-8607d313f300,70,Female,183598,65,66-75,High Income - High Spending,1
-302318f2-c705-4ec6-b4f0-cb6756c4aebf,18,Male,72866,15,,Low Income - Low Spending,0
+302318f2-c705-4ec6-b4f0-cb6756c4aebf,18,Male,72866,15,18-25,Low Income - Low Spending,0
 ce42aa3a-3a8d-4cae-b8e5-95f3a10c2333,30,Female,175562,93,26-35,High Income - High Spending,1
 47bf03fb-5bdf-4f2b-8463-34ed2e3a3904,90,Female,102626,15,76-90,Low Income - Low Spending,0
 425dc651-c9d0-4209-a6c4-ad9a0aa28b74,81,Female,44514,41,76-90,Low Income - Low Spending,3
@@ -2955,7 +2955,7 @@ c8176bf5-0f7d-475c-9f61-9636329b3eb4,87,Male,22866,58,76-90,Low Income - High Sp
 8bd8bb30-1933-473b-a560-0315f505d9ec,31,Female,150792,91,26-35,High Income - High Spending,2
 dd78495f-55a2-45f5-bad1-79f3b7a706f2,40,Male,50027,77,36-45,Low Income - High Spending,3
 a3b11006-a0e4-4253-8e43-7aefca00c2ae,89,Male,193167,10,76-90,High Income - Low Spending,1
-f1a15234-c3f5-4bd5-94b4-a7dec161f9b3,18,Female,170203,52,,High Income - High Spending,1
+f1a15234-c3f5-4bd5-94b4-a7dec161f9b3,18,Female,170203,52,18-25,High Income - High Spending,1
 21478e0a-ad85-4886-9e51-6f74f15ff100,40,Male,27323,54,36-45,Low Income - High Spending,3
 0b01fed9-b6a7-4bec-a030-9956d85b349d,56,Male,117101,55,56-65,High Income - High Spending,2
 8d046368-c901-4f00-b91e-cd1ae8f8628c,26,Female,38363,72,26-35,Low Income - High Spending,3
@@ -3034,7 +3034,7 @@ a93de2af-2f3d-4cd8-87e9-58a3d9fc8c1c,53,Female,181040,29,46-55,High Income - Low
 70755501-6585-4971-a0d2-36aefa2d5bea,78,Female,173818,61,76-90,High Income - High Spending,1
 cdf98713-31af-440d-8165-433a000a3925,85,Male,174206,73,76-90,High Income - High Spending,1
 b2bbfbfb-aa7e-4208-8c7b-87b83dddc68c,65,Female,177888,45,56-65,High Income - Low Spending,1
-06d2e0af-058f-4117-8a95-e85b7872080f,18,Female,124274,98,,High Income - High Spending,2
+06d2e0af-058f-4117-8a95-e85b7872080f,18,Female,124274,98,18-25,High Income - High Spending,2
 786acf53-bdc2-414b-9690-d93b7f95ac0d,78,Female,111665,52,76-90,High Income - High Spending,2
 6f9aae66-9ca6-4a0f-861d-b6dfcdda51fa,83,Female,40526,23,76-90,Low Income - Low Spending,3
 e7643529-b76d-4994-a97d-026fa9c7e8ce,76,Female,123900,89,76-90,High Income - High Spending,2
@@ -3048,7 +3048,7 @@ bd597f25-149a-4caf-8648-b9a96405b894,70,Male,72996,53,66-75,Low Income - High Sp
 d8a2652a-18ad-47d3-bd16-f803c55b3d0c,53,Female,181849,57,46-55,High Income - High Spending,1
 139b3ead-62a0-4e97-9174-24a8a42fb197,25,Male,141681,2,18-25,High Income - Low Spending,2
 7147817b-8d9f-46e1-84eb-e2e2aa930080,49,Female,92558,20,46-55,Low Income - Low Spending,0
-e9f7bd3b-e1db-460d-885d-77e0f86bef7c,18,Female,38303,57,,Low Income - High Spending,3
+e9f7bd3b-e1db-460d-885d-77e0f86bef7c,18,Female,38303,57,18-25,Low Income - High Spending,3
 3ccfa46d-ef84-4e43-921b-348a9ee8275e,26,Female,50066,92,26-35,Low Income - High Spending,3
 c6b9926c-54ee-4dc6-9b39-2399ba7e8df6,22,Female,172552,48,18-25,High Income - Low Spending,1
 dbf86334-3795-48f1-8b8d-ecec48cc93f7,49,Female,105730,88,46-55,Low Income - High Spending,0
@@ -3079,7 +3079,7 @@ d24483e7-6726-48e5-8d35-9f52d5e3bbfb,33,Female,113515,90,26-35,High Income - Hig
 19674f52-dff2-4621-8800-c33497dd8b9c,24,Female,176544,29,18-25,High Income - Low Spending,1
 5e28f56c-9f2a-4f30-93e8-7efa3d385ef5,81,Male,163567,42,76-90,High Income - Low Spending,1
 c0cf83ca-d1c2-41b9-ab51-c3bb579f6592,83,Female,133374,20,76-90,High Income - Low Spending,2
-78d98336-1476-4472-ae0a-e17cb6c192a4,18,Male,197622,26,,High Income - Low Spending,1
+78d98336-1476-4472-ae0a-e17cb6c192a4,18,Male,197622,26,18-25,High Income - Low Spending,1
 af737e4a-49ce-4496-aaca-7f4d225cb1f3,46,Male,151302,48,46-55,High Income - Low Spending,2
 0ed26fcc-3308-4c36-a998-3bbd4c536a91,49,Female,146540,58,46-55,High Income - High Spending,2
 ec534586-3f48-49d8-93e4-3d932c0d0142,27,Male,91704,38,26-35,Low Income - Low Spending,0
@@ -3106,7 +3106,7 @@ bb4574ea-fd9a-404b-b6e0-db6607cbf60d,67,Male,40579,31,66-75,Low Income - Low Spe
 1d5a82b1-b416-4561-a75e-a97471a4a202,83,Male,149280,31,76-90,High Income - Low Spending,2
 d2278fee-7d8c-42ad-a194-07303aecd0fb,34,Female,147407,17,26-35,High Income - Low Spending,2
 a777d788-b776-4e6d-919f-848a42fc8c93,39,Female,175787,73,36-45,High Income - High Spending,1
-edf7059d-313a-4382-806e-66db7311b046,18,Male,143504,60,,High Income - High Spending,2
+edf7059d-313a-4382-806e-66db7311b046,18,Male,143504,60,18-25,High Income - High Spending,2
 785f64c5-081c-413d-a88f-4d16dbd89ad6,49,Female,104303,4,46-55,Low Income - Low Spending,0
 8cd1b697-0dd8-4e96-af66-aefffbb111cc,80,Male,187766,38,76-90,High Income - Low Spending,1
 7a5a169b-1bff-4c6a-973d-fba7ea4209b2,74,Female,62089,87,66-75,Low Income - High Spending,3
@@ -3174,7 +3174,7 @@ e3e41013-b30c-4423-8730-3e9e7e0f3166,89,Female,189514,55,76-90,High Income - Hig
 1e055b9e-d3cc-40eb-9b28-2fce5510f206,89,Male,130094,74,76-90,High Income - High Spending,2
 49c30d6f-7fb2-4ad2-b38b-ba5a05f77d60,37,Male,24170,51,36-45,Low Income - High Spending,3
 770cb707-031e-496f-9ecf-49ed57c55663,57,Male,150628,60,56-65,High Income - High Spending,2
-0274c078-a183-4c1e-93bf-729f2c760736,18,Female,193366,13,,High Income - Low Spending,1
+0274c078-a183-4c1e-93bf-729f2c760736,18,Female,193366,13,18-25,High Income - Low Spending,1
 5a60e219-1480-4d07-8652-8f7457d75ec4,25,Female,42672,56,18-25,Low Income - High Spending,3
 88ecaa0b-9e04-4a11-97b2-1f32cf4550e9,64,Male,110253,55,56-65,High Income - High Spending,0
 447f21e8-8c9e-4fd3-9b59-323fcb3b63e9,27,Male,199621,74,26-35,High Income - High Spending,1
@@ -3294,7 +3294,7 @@ f40f50f7-bbc9-4817-bca8-94108a380a2f,39,Male,124407,19,36-45,High Income - Low S
 ae636a5a-2d45-426b-aef3-10ab11ef19a0,56,Female,54366,66,56-65,Low Income - High Spending,3
 90a3df2d-c7a0-4cb9-a980-9907900e209f,56,Female,148363,74,56-65,High Income - High Spending,2
 7a5aed2e-ec20-4b02-ae29-01f716da5997,49,Female,45933,84,46-55,Low Income - High Spending,3
-3c816d88-da88-4daa-9b89-89539eada1ab,18,Male,149468,53,,High Income - High Spending,2
+3c816d88-da88-4daa-9b89-89539eada1ab,18,Male,149468,53,18-25,High Income - High Spending,2
 bb908516-007a-4bee-8ab2-00595f4a99d8,54,Female,84074,5,46-55,Low Income - Low Spending,0
 ca66ce79-355d-4a95-bd40-202eeb102da9,26,Female,114811,91,26-35,High Income - High Spending,2
 1e7da513-2e5b-49b2-86dd-c67886fc488d,20,Female,134932,15,18-25,High Income - Low Spending,2
@@ -3482,7 +3482,7 @@ c772b69c-5f89-44a6-b4d8-3d27398c726b,35,Female,163604,93,26-35,High Income - Hig
 620fb430-e1b5-4afc-800e-1649c5685e3b,46,Female,118552,43,46-55,High Income - Low Spending,2
 a1f42d9d-245e-47fd-8e69-a5c2be45bbf6,66,Male,186886,43,66-75,High Income - Low Spending,1
 f66bd73e-aa98-47b3-bdbd-5974be9552f8,58,Male,174120,55,56-65,High Income - High Spending,1
-f037a7da-5db6-4ac1-94e7-52cce525e972,18,Male,31004,9,,Low Income - Low Spending,3
+f037a7da-5db6-4ac1-94e7-52cce525e972,18,Male,31004,9,18-25,Low Income - Low Spending,3
 c4788c75-15bc-47db-a0f1-50d11b666288,44,Female,173319,28,36-45,High Income - Low Spending,1
 75ff4bf0-3338-4753-9289-129fe8abcd83,79,Female,57555,38,76-90,Low Income - Low Spending,3
 32456c63-b91b-4885-9675-0ef27f66e196,58,Female,104897,15,56-65,Low Income - Low Spending,0
@@ -3495,7 +3495,7 @@ aa588b0c-6432-4805-8466-f963731a9626,60,Male,122978,96,56-65,High Income - High 
 aa0a4641-bec1-4660-96f2-297b93716227,79,Male,181345,59,76-90,High Income - High Spending,1
 41337334-6c6d-4a05-9a73-ae257a8cd696,80,Male,168229,25,76-90,High Income - Low Spending,1
 031f584c-db8c-42e0-8735-331e8bdd90e3,21,Female,25565,52,18-25,Low Income - High Spending,3
-22cf03d1-4868-4043-aa6a-c695e162e8de,18,Male,174301,55,,High Income - High Spending,1
+22cf03d1-4868-4043-aa6a-c695e162e8de,18,Male,174301,55,18-25,High Income - High Spending,1
 9c76dbbe-5fde-489b-8e8d-4b8b675a41bf,40,Male,159991,66,36-45,High Income - High Spending,1
 8901ea49-2b59-41ca-9be9-fb3f3b1bbbaa,21,Female,72166,92,18-25,Low Income - High Spending,0
 c2ff4c08-b5ad-41aa-bd90-d20d6babc625,79,Female,100096,7,76-90,Low Income - Low Spending,0
@@ -3512,7 +3512,7 @@ f7783810-6590-452a-a828-163d36c8e0b1,20,Male,197042,91,18-25,High Income - High 
 ebb8df0a-879a-4e61-9161-584a7fa7b545,90,Male,115968,50,76-90,High Income - Low Spending,2
 a59898aa-f55f-4e85-b348-5d128fe87939,54,Male,90415,28,46-55,Low Income - Low Spending,0
 9adaa877-a32a-47b6-8dd6-462de91cd67f,47,Female,95167,66,46-55,Low Income - High Spending,0
-a81da0b5-72e1-45ce-a1c6-449c460e1f72,18,Male,54340,65,,Low Income - High Spending,3
+a81da0b5-72e1-45ce-a1c6-449c460e1f72,18,Male,54340,65,18-25,Low Income - High Spending,3
 202c52d0-2cb0-4b38-aa5c-7e231b14ce50,23,Female,87266,66,18-25,Low Income - High Spending,0
 8510754c-a859-46d2-a0db-99fde76c34b8,27,Male,179215,36,26-35,High Income - Low Spending,1
 5af1942a-df1a-4176-ba64-f05f1037ef83,82,Female,176612,56,76-90,High Income - High Spending,1
@@ -3620,7 +3620,7 @@ b8ef8803-abf0-4236-9aa7-9eb750cb79c1,79,Female,186610,54,76-90,High Income - Hig
 5f47251e-282d-4111-9e26-7081f18fe688,74,Male,68263,68,66-75,Low Income - High Spending,0
 1ac40d28-9b20-4ba9-b78f-5e599e553308,64,Female,128838,6,56-65,High Income - Low Spending,2
 3b90ccc6-41fe-4b3c-baa2-14cb77e6b766,44,Female,141216,1,36-45,High Income - Low Spending,2
-d2702c15-eb1a-417d-86ca-dcddb161ca62,18,Male,184846,96,,High Income - High Spending,1
+d2702c15-eb1a-417d-86ca-dcddb161ca62,18,Male,184846,96,18-25,High Income - High Spending,1
 62dd0f8f-2d51-4b50-b9e4-72bf321d5a5a,71,Female,56779,58,66-75,Low Income - High Spending,3
 190ff1d9-f95d-4ae0-a47b-da2f87c4ae39,63,Male,59980,46,56-65,Low Income - Low Spending,3
 6693671f-7752-4f1c-bd41-fbac79e26ee4,82,Female,109525,94,76-90,Low Income - High Spending,0
@@ -3942,7 +3942,7 @@ ecceb650-dbb9-4bec-a566-10e36fd947c9,83,Female,91826,3,76-90,Low Income - Low Sp
 c756f62d-b347-4ee1-9734-ea76803de179,48,Female,68126,85,46-55,Low Income - High Spending,0
 151b1f9e-cfb1-4493-ba54-fa0c6eb69b3d,47,Male,197727,28,46-55,High Income - Low Spending,1
 10bb5583-ed5b-4fbd-b574-0746deaa73c8,41,Male,35491,86,36-45,Low Income - High Spending,3
-00804270-549f-4b71-9d16-2464515f5173,18,Female,193054,6,,High Income - Low Spending,1
+00804270-549f-4b71-9d16-2464515f5173,18,Female,193054,6,18-25,High Income - Low Spending,1
 1164e5ce-0233-4268-a367-cd5a9b55bb41,32,Male,134564,24,26-35,High Income - Low Spending,2
 47950201-2f59-4434-a9b8-a72ffa40d426,57,Male,195489,61,56-65,High Income - High Spending,1
 c727e6d8-ed93-40ab-9c0a-dc09011273a5,44,Male,163902,97,36-45,High Income - High Spending,1
@@ -4054,7 +4054,7 @@ b2f3191b-d896-48c7-b481-a8d7e69f6f0c,86,Male,116350,22,76-90,High Income - Low S
 31d30c82-5716-407f-a47a-785e447cdcc5,71,Male,96079,23,66-75,Low Income - Low Spending,0
 ff0eac6c-71ed-44ad-b1ba-b135c49cd7cb,47,Male,25500,27,46-55,Low Income - Low Spending,3
 41d45685-db98-44d6-bcc2-41fe3e7fdaae,35,Female,151609,84,26-35,High Income - High Spending,2
-bb58660c-ef52-4e0f-bbce-36ae3d0b3e4c,18,Male,52474,28,,Low Income - Low Spending,3
+bb58660c-ef52-4e0f-bbce-36ae3d0b3e4c,18,Male,52474,28,18-25,Low Income - Low Spending,3
 0d8db1ce-5b85-42e3-9e7a-fee09049dc29,41,Female,23927,62,36-45,Low Income - High Spending,3
 4abecd94-65a6-429b-bf6e-a0866945d3a6,45,Male,135370,71,36-45,High Income - High Spending,2
 556451ff-ed13-40e8-a67e-ce1aa19b73a0,59,Male,184806,98,56-65,High Income - High Spending,1
@@ -4080,7 +4080,7 @@ b15dac14-842d-4b23-8851-ad6f35e5b6e0,21,Female,109633,17,18-25,Low Income - Low 
 d1d1c9fb-9892-49a3-b205-d9b36a6e00ab,67,Female,109035,42,66-75,Low Income - Low Spending,0
 9ab4808c-7a8b-4e20-b3ca-44c6479e06ad,67,Male,186580,76,66-75,High Income - High Spending,1
 e0a7bab7-7b53-4cd4-a621-637e248df613,90,Male,169562,58,76-90,High Income - High Spending,1
-1b14915c-c8d6-446a-820f-69a67f7064fa,18,Female,182836,74,,High Income - High Spending,1
+1b14915c-c8d6-446a-820f-69a67f7064fa,18,Female,182836,74,18-25,High Income - High Spending,1
 1c28970c-2faa-4fd7-8adb-cae0ad47052b,47,Male,132443,84,46-55,High Income - High Spending,2
 10b71baa-0adb-4dd8-9704-7febc5ab5583,81,Female,144966,19,76-90,High Income - Low Spending,2
 3a0468ef-7cb1-4cc6-ade4-ec479cdeb630,37,Female,49997,64,36-45,Low Income - High Spending,3
@@ -4093,7 +4093,7 @@ fb4b5348-5184-4cc5-9537-a1809a4a48fb,81,Female,179600,11,76-90,High Income - Low
 3297d752-57ae-47aa-bd6e-7ff50156f559,81,Female,59089,97,76-90,Low Income - High Spending,3
 9ea02084-3635-445f-b4dd-156cc8e9dec6,58,Male,189470,54,56-65,High Income - High Spending,1
 36f90cd1-0f40-4ba6-925d-7ff67b9c0405,85,Female,149588,78,76-90,High Income - High Spending,2
-3fde09a0-a45e-45e6-a222-a2f3dba827a6,18,Female,97711,73,,Low Income - High Spending,0
+3fde09a0-a45e-45e6-a222-a2f3dba827a6,18,Female,97711,73,18-25,Low Income - High Spending,0
 967406cc-1685-4196-b007-018c53879722,62,Male,41646,69,56-65,Low Income - High Spending,3
 a4c9987a-9e92-42d3-98ae-98ed01ad9cf5,65,Female,196423,46,56-65,High Income - Low Spending,1
 64d421d7-b802-43cb-b68f-113082823c15,29,Female,157989,56,26-35,High Income - High Spending,1
@@ -4103,7 +4103,7 @@ becbf349-f229-4e65-b772-af106f046240,36,Female,56886,99,36-45,Low Income - High 
 4920f135-0751-4f39-9a23-3d76193f53d0,63,Male,176809,15,56-65,High Income - Low Spending,1
 b219d5e5-3d3c-44e2-a37a-922842c5d554,56,Male,97396,96,56-65,Low Income - High Spending,0
 8781a98f-7fdc-4fa9-b784-2d12adc3c549,48,Female,31536,55,46-55,Low Income - High Spending,3
-df38e209-7ead-418e-89fe-bd9f63aa8383,18,Female,150276,70,,High Income - High Spending,2
+df38e209-7ead-418e-89fe-bd9f63aa8383,18,Female,150276,70,18-25,High Income - High Spending,2
 346cde44-c578-4fc7-a348-9a16b9b86aef,38,Female,137292,45,36-45,High Income - Low Spending,2
 9f8fb084-a6da-4cfb-aa2b-9ccc549f12da,69,Female,175644,20,66-75,High Income - Low Spending,1
 9d29561f-c532-4b47-8db2-f3b10387cc07,22,Female,70141,60,18-25,Low Income - High Spending,0
@@ -4170,7 +4170,7 @@ ee9be16c-8048-4d55-ab0a-5474c90071e3,51,Male,96795,93,46-55,Low Income - High Sp
 7212d786-c7f5-4cc1-af12-c03282c5d6e2,45,Male,65328,47,36-45,Low Income - Low Spending,3
 d5e55b59-fde3-4b91-9abb-908f5676005f,54,Male,46042,14,46-55,Low Income - Low Spending,3
 e6dcaabe-30e1-4614-8e89-8bb1b65bef39,28,Male,121122,57,26-35,High Income - High Spending,2
-b4f8eb8e-c5e2-4428-b29d-f2afe2196040,18,Male,152260,13,,High Income - Low Spending,2
+b4f8eb8e-c5e2-4428-b29d-f2afe2196040,18,Male,152260,13,18-25,High Income - Low Spending,2
 5f3607ae-5c14-4450-b12c-b0cb53b66c1d,69,Female,133594,53,66-75,High Income - High Spending,2
 a137574a-252d-4144-a08e-2747bc3efe1b,23,Male,86973,69,18-25,Low Income - High Spending,0
 d71775c1-2c0c-471b-9f50-20f0cf93eebd,45,Female,153939,31,36-45,High Income - Low Spending,2
@@ -4234,7 +4234,7 @@ a585e4bf-2f0c-459b-98e7-8c566d477adc,80,Female,80283,81,76-90,Low Income - High 
 7cd2e48d-d77e-41c5-a440-367e859aa49d,37,Female,144999,26,36-45,High Income - Low Spending,2
 f546af4d-5823-4681-9c1e-08425c02adcc,56,Female,96999,83,56-65,Low Income - High Spending,0
 fa3b095b-5691-460d-9ee8-b1ecba4f61e7,43,Female,139733,77,36-45,High Income - High Spending,2
-e42391c6-ba60-45de-9804-37d61802715d,18,Male,32786,4,,Low Income - Low Spending,3
+e42391c6-ba60-45de-9804-37d61802715d,18,Male,32786,4,18-25,Low Income - Low Spending,3
 23c54fe0-293d-4252-b7fd-ba44206eedf7,86,Male,137215,10,76-90,High Income - Low Spending,2
 d7a38726-1e11-41dd-b36d-b285b2646ed3,57,Female,155103,73,56-65,High Income - High Spending,2
 d358b8aa-7fb1-4461-a6f6-cda879723791,65,Male,94107,63,56-65,Low Income - High Spending,0
@@ -4314,7 +4314,7 @@ e93ae0ed-1ba3-4e80-9282-faa36320d745,41,Female,164841,75,36-45,High Income - Hig
 b24b2e5e-608a-4ba7-a4a3-e04c7db1f350,72,Male,145564,49,66-75,High Income - Low Spending,2
 de0f3ef7-b7bd-427e-a23b-b7ad78fe5535,63,Male,175391,68,56-65,High Income - High Spending,1
 632b4fb8-e279-450e-8b3b-fd51b25697a4,27,Male,137158,73,26-35,High Income - High Spending,2
-051c3393-c641-4838-a543-4a434dadbd21,18,Female,168998,48,,High Income - Low Spending,1
+051c3393-c641-4838-a543-4a434dadbd21,18,Female,168998,48,18-25,High Income - Low Spending,1
 40d0acdd-5a4b-4d94-8a5e-71d090cfba54,50,Male,157466,100,46-55,High Income - High Spending,1
 15dc3440-3d10-437f-974e-eb3f45709a24,58,Male,147471,3,56-65,High Income - Low Spending,2
 28aaacbe-2ef2-4232-9bb7-1e8189ccf3dd,82,Female,23624,90,76-90,Low Income - High Spending,3
@@ -4350,7 +4350,7 @@ e55820a2-effe-4597-acdc-37c7197c2e9b,44,Female,188542,77,36-45,High Income - Hig
 74323829-2916-446b-85f2-2bc1850125ae,34,Female,75665,21,26-35,Low Income - Low Spending,0
 18f067ec-11a8-4159-b660-47600da57c43,38,Female,190038,40,36-45,High Income - Low Spending,1
 785888b3-ef2c-45ff-88b2-b8461eb8b402,75,Male,94826,22,66-75,Low Income - Low Spending,0
-76f4811d-f09e-4e3c-b706-d320a171e42d,18,Female,39706,52,,Low Income - High Spending,3
+76f4811d-f09e-4e3c-b706-d320a171e42d,18,Female,39706,52,18-25,Low Income - High Spending,3
 d436dc10-d11c-41b2-a622-0cfd92420ad4,36,Male,148986,83,36-45,High Income - High Spending,2
 b9118cb7-3f81-4195-821b-815fe4c6a6c8,21,Male,73499,93,18-25,Low Income - High Spending,0
 ea19684a-18c2-46a8-85e3-e066dfa26915,60,Female,148427,20,56-65,High Income - Low Spending,2
@@ -4394,7 +4394,7 @@ efa31a19-014c-41d7-8560-1a3e1bb33f4d,34,Female,103243,94,26-35,Low Income - High
 b56d7a9d-86a9-46cd-bd31-88d47a51dbec,49,Female,190610,7,46-55,High Income - Low Spending,1
 baff20e8-b3d7-4979-a01a-7ec5e32dc6bc,77,Male,94757,48,76-90,Low Income - Low Spending,0
 e91adb6b-a2eb-447b-ab78-a791bca3a715,52,Female,92926,6,46-55,Low Income - Low Spending,0
-099cc13b-71cc-4b15-9501-1b28e140f1b9,18,Male,96028,76,,Low Income - High Spending,0
+099cc13b-71cc-4b15-9501-1b28e140f1b9,18,Male,96028,76,18-25,Low Income - High Spending,0
 265aa12e-eb42-4386-9ee7-296a72f56836,62,Female,155428,81,56-65,High Income - High Spending,2
 56b36490-90f8-42de-bdee-f45b3d004286,64,Female,165306,93,56-65,High Income - High Spending,1
 8fe3bcc1-0936-4de9-9703-44411634a13e,21,Male,179719,8,18-25,High Income - Low Spending,1
@@ -4456,7 +4456,7 @@ c0545a12-8c17-424c-ac88-39f38362ab3d,32,Female,37599,87,26-35,Low Income - High 
 3e746904-19b2-45b1-8cf8-0d94d26d3796,67,Female,111626,49,66-75,High Income - Low Spending,2
 b4d7f04f-83a1-47bb-b9a2-eef735801794,88,Female,182816,81,76-90,High Income - High Spending,1
 f74f4247-f6ed-424c-9def-8b162b0a41fe,43,Male,165259,38,36-45,High Income - Low Spending,1
-31e52134-f6d5-48b3-b0c7-a77ea5150c29,18,Female,37113,57,,Low Income - High Spending,3
+31e52134-f6d5-48b3-b0c7-a77ea5150c29,18,Female,37113,57,18-25,Low Income - High Spending,3
 e5fddd5d-fa4c-4f56-b7b4-d33ab81bd20f,57,Male,53126,92,56-65,Low Income - High Spending,3
 157546f1-d6d4-4898-8e0e-09e031aabae7,73,Male,45519,77,66-75,Low Income - High Spending,3
 3dec3d95-6d58-49f1-bf5e-1aa97370a169,75,Male,50834,14,66-75,Low Income - Low Spending,3
@@ -4524,7 +4524,7 @@ e8a12c0d-c48e-41c2-b931-01cd932ebd5d,22,Male,171656,92,18-25,High Income - High 
 58df38cb-956d-409b-9cff-cabeae3e8502,52,Female,142234,33,46-55,High Income - Low Spending,2
 38942878-8d52-4d62-a05d-9382d9b7bd55,24,Male,20026,60,18-25,Low Income - High Spending,3
 d3d8710f-ebc0-4094-b92b-b3630b171bb5,32,Female,143755,56,26-35,High Income - High Spending,2
-87b1e6c4-4934-406f-a7b7-1f96af66adcd,18,Male,63246,68,,Low Income - High Spending,3
+87b1e6c4-4934-406f-a7b7-1f96af66adcd,18,Male,63246,68,18-25,Low Income - High Spending,3
 edb3f833-9ecc-4ae3-96f6-fc77d9dcd19d,20,Female,160676,79,18-25,High Income - High Spending,1
 1034415c-8409-493f-af3c-da69a9d1f8d4,34,Female,77401,27,26-35,Low Income - Low Spending,0
 2c3924e4-dbf7-486f-9bca-23a2a867ad7e,86,Male,197577,16,76-90,High Income - Low Spending,1
@@ -4544,7 +4544,7 @@ d47ddf68-338c-4f10-ae03-ea926f8dd97e,22,Male,87507,3,18-25,Low Income - Low Spen
 1e59addb-cbb5-4127-adb4-b7629c43992b,32,Female,90962,91,26-35,Low Income - High Spending,0
 69092c3a-e64e-433a-8c54-38089521e962,31,Female,139838,88,26-35,High Income - High Spending,2
 f19718aa-764e-4a7f-a61c-89360e28bb0a,42,Male,150043,69,36-45,High Income - High Spending,2
-6cd1cf1f-5fa8-44ca-985e-70f37eea9085,18,Male,171868,95,,High Income - High Spending,1
+6cd1cf1f-5fa8-44ca-985e-70f37eea9085,18,Male,171868,95,18-25,High Income - High Spending,1
 e114a3a5-2c8d-4f4f-b2c4-0e942772481a,77,Female,185057,98,76-90,High Income - High Spending,1
 deb53f08-acd7-42d9-bb3e-3fe37b57c850,83,Female,72073,20,76-90,Low Income - Low Spending,0
 a91a0f2a-a82c-47f0-b9fb-83bcc671e63d,67,Male,151492,69,66-75,High Income - High Spending,2
@@ -4554,7 +4554,7 @@ fa8cf03b-3649-4a9a-b6fb-755762b0c716,47,Female,60792,79,46-55,Low Income - High 
 9ce63464-1e5b-4466-92cb-58a0e3c5db3c,78,Male,88742,33,76-90,Low Income - Low Spending,0
 1f2931b5-ab60-4060-8ed5-ceef87131b47,78,Female,38056,21,76-90,Low Income - Low Spending,3
 c632a6f9-d183-40e1-a955-1bd55cb49fc2,67,Female,111918,23,66-75,High Income - Low Spending,2
-f5c8e38d-e243-43b2-9123-6b23f58a9f4a,18,Female,133434,8,,High Income - Low Spending,2
+f5c8e38d-e243-43b2-9123-6b23f58a9f4a,18,Female,133434,8,18-25,High Income - Low Spending,2
 e20ddee7-1964-4a6b-95ac-235c052d4cf2,61,Male,175113,36,56-65,High Income - Low Spending,1
 a09ffa41-8596-4a0c-b2dd-6ba3193a9f2d,47,Male,110661,31,46-55,High Income - Low Spending,0
 05b1dacb-f057-4da1-af9e-0ea0d80abf7c,64,Female,49405,97,56-65,Low Income - High Spending,3
@@ -4704,7 +4704,7 @@ d037a07b-d47c-4ccc-8b57-5344cf2c9965,21,Female,61801,29,18-25,Low Income - Low S
 5143a34d-1f7d-48af-9015-1802b397e4b6,23,Male,52568,7,18-25,Low Income - Low Spending,3
 f85b3ec8-bf77-47c3-b61d-28e4350aa044,45,Female,189817,15,36-45,High Income - Low Spending,1
 2ad28fcc-df6f-47ac-9728-8091d4dee39a,34,Male,35191,93,26-35,Low Income - High Spending,3
-b5d5a5a8-0cb6-46ef-9584-03a457bbd04f,18,Male,47694,17,,Low Income - Low Spending,3
+b5d5a5a8-0cb6-46ef-9584-03a457bbd04f,18,Male,47694,17,18-25,Low Income - Low Spending,3
 a170b7f6-5e98-4229-9253-e59b6d7b016f,66,Female,78476,64,66-75,Low Income - High Spending,0
 91d4377e-ec29-4c6d-b1c6-2369b237ab67,29,Female,114252,55,26-35,High Income - High Spending,2
 07f5a472-ba4f-4a0e-80d3-826f23f122d1,54,Female,180926,21,46-55,High Income - Low Spending,1
@@ -4776,7 +4776,7 @@ deb35368-ea21-40fd-ba33-6a0b99753293,56,Male,117356,39,56-65,High Income - Low S
 277c7456-335a-4e98-bb1b-f3b943af4328,53,Female,145689,37,46-55,High Income - Low Spending,2
 3bc048bd-4255-41fd-9730-43d942fd832a,23,Male,70705,21,18-25,Low Income - Low Spending,0
 e40556b2-30d8-4618-b944-c7faebba2567,36,Female,144991,34,36-45,High Income - Low Spending,2
-89d9bd9f-0409-4061-bb0c-0ffe82f1bcb1,18,Female,150978,45,,High Income - Low Spending,2
+89d9bd9f-0409-4061-bb0c-0ffe82f1bcb1,18,Female,150978,45,18-25,High Income - Low Spending,2
 057f30e8-141a-4ae3-b3ea-8d0127b22275,47,Male,147362,90,46-55,High Income - High Spending,2
 63dd03de-384d-4380-b4d2-8e91a06c8eed,60,Female,21441,29,56-65,Low Income - Low Spending,3
 318d435a-615b-41a9-9b10-6e53766468ca,64,Female,80514,8,56-65,Low Income - Low Spending,0
@@ -4814,7 +4814,7 @@ fdb67bc1-7d13-4948-9c17-13df1547dbcd,90,Female,124884,18,76-90,High Income - Low
 0c973278-ad31-4183-acb4-e65533a14f15,81,Female,176130,35,76-90,High Income - Low Spending,1
 6dd12ebe-4afb-4dcf-937e-d1150856fc6b,25,Male,168864,6,18-25,High Income - Low Spending,1
 842a01d0-6194-4792-8e56-998508c14f5f,36,Male,101200,66,36-45,Low Income - High Spending,0
-521714cb-8c0e-48cd-a134-e5256c1e2301,18,Female,62820,90,,Low Income - High Spending,3
+521714cb-8c0e-48cd-a134-e5256c1e2301,18,Female,62820,90,18-25,Low Income - High Spending,3
 bd0740a4-aec1-4ea8-a700-5c5faf18abdb,64,Male,101123,20,56-65,Low Income - Low Spending,0
 16452979-2a33-4406-b7f5-335c63ee6a84,74,Male,148827,100,66-75,High Income - High Spending,2
 d2c8e3dc-aee4-4042-915c-b68f7ef0c3aa,39,Male,70277,75,36-45,Low Income - High Spending,0
@@ -5213,7 +5213,7 @@ ce0c8beb-698a-468c-99d4-2099c40b087d,54,Male,131633,34,46-55,High Income - Low S
 b4f51c69-b7ce-4bc6-a9d9-893212e9892a,29,Female,23029,12,26-35,Low Income - Low Spending,3
 35d5421d-206a-48c7-a12d-613e9318f11d,26,Female,120732,37,26-35,High Income - Low Spending,2
 d61af6f4-58f7-46d1-974b-d7ec0824b5ce,36,Female,38405,92,36-45,Low Income - High Spending,3
-874b3797-be1a-4934-9c33-73665c05c8eb,18,Male,45918,12,,Low Income - Low Spending,3
+874b3797-be1a-4934-9c33-73665c05c8eb,18,Male,45918,12,18-25,Low Income - Low Spending,3
 68e0298b-7a03-4d26-83fe-e38b5e350840,36,Female,196341,34,36-45,High Income - Low Spending,1
 9d827cb0-8d1e-4fcc-8ac7-dcb05b918fb2,38,Male,58860,46,36-45,Low Income - Low Spending,3
 6f42528b-139f-4d92-a64e-3f66bee19318,65,Male,50433,88,56-65,Low Income - High Spending,3
@@ -5404,7 +5404,7 @@ ade8aaaf-78f7-4c05-957f-7d1f0dee4367,85,Female,135134,32,76-90,High Income - Low
 08492599-2adc-4137-954f-58f2c0f3331e,24,Male,22040,98,18-25,Low Income - High Spending,3
 11d8b566-2cad-4bea-83be-fd53d109edd4,48,Male,71670,14,46-55,Low Income - Low Spending,0
 73ebeee3-01c6-4ffc-8a7f-bf81391443a4,44,Female,167902,82,36-45,High Income - High Spending,1
-1615a4d5-9753-4588-a266-32cdec085c17,18,Female,163052,2,,High Income - Low Spending,1
+1615a4d5-9753-4588-a266-32cdec085c17,18,Female,163052,2,18-25,High Income - Low Spending,1
 05174e0a-b1a0-45cf-91bc-5d16836da7f2,52,Female,40147,79,46-55,Low Income - High Spending,3
 167ac54c-6ae5-415e-a3d2-7c5156fb5a33,28,Male,90034,30,26-35,Low Income - Low Spending,0
 b6080c16-e167-432c-b2b4-f0325983488e,60,Female,159371,99,56-65,High Income - High Spending,1
@@ -5429,7 +5429,7 @@ b4f04e2f-9cfe-477d-9dfb-d449420fe6be,51,Male,56385,7,46-55,Low Income - Low Spen
 0f7f436e-e2fa-4b4f-84b5-f41af99b3d6a,68,Male,149776,36,66-75,High Income - Low Spending,2
 4e938d15-056c-4703-b39b-bdd26ea721b0,90,Female,131035,97,76-90,High Income - High Spending,2
 210cc9c3-2b84-4536-a54f-fcd521d34052,64,Female,40645,53,56-65,Low Income - High Spending,3
-a5dfc186-59ae-401e-8ddc-63150adfad5c,18,Female,150752,45,,High Income - Low Spending,2
+a5dfc186-59ae-401e-8ddc-63150adfad5c,18,Female,150752,45,18-25,High Income - Low Spending,2
 9d6eae80-d087-4788-b550-e06370019f07,31,Male,109777,8,26-35,High Income - Low Spending,0
 7e6b6089-2674-4103-af18-d66e96cda3ca,37,Male,73406,39,36-45,Low Income - Low Spending,0
 1e4335e1-a9d9-45c1-9ba5-d36473a20979,34,Female,173420,60,26-35,High Income - High Spending,1
@@ -5465,7 +5465,7 @@ adf1179d-9ce7-4025-b1d2-1f03d3543a49,63,Male,145225,59,56-65,High Income - High 
 9386b6f1-7330-40d7-bc96-3046cabb228d,72,Male,39801,72,66-75,Low Income - High Spending,3
 160fce68-d077-4c4a-941d-1ebef7c4de5d,47,Male,64626,52,46-55,Low Income - High Spending,3
 48bbff5a-34ac-4426-979f-c55af2313d5e,70,Male,33031,57,66-75,Low Income - High Spending,3
-303f5480-98ce-41fd-bb94-1250da30564e,18,Male,49874,12,,Low Income - Low Spending,3
+303f5480-98ce-41fd-bb94-1250da30564e,18,Male,49874,12,18-25,Low Income - Low Spending,3
 ac5b8fc2-096a-4ae8-8e01-e741c380d554,63,Female,176522,51,56-65,High Income - High Spending,1
 3ee322cc-35eb-48c9-970a-11116444caeb,43,Male,170294,68,36-45,High Income - High Spending,1
 024f431e-a51c-4dee-9e07-670e9f8332f0,37,Male,40908,34,36-45,Low Income - Low Spending,3
@@ -5574,7 +5574,7 @@ a8baffca-64a7-4e91-ae28-5884864ba500,49,Male,37297,89,46-55,Low Income - High Sp
 e52c982f-26b4-48e7-9f78-638cd9f6ae4d,19,Male,51263,94,18-25,Low Income - High Spending,3
 57957435-d775-4c5d-89ff-2ba38b0367a1,70,Female,149608,73,66-75,High Income - High Spending,2
 ed671f2f-b01e-4020-928e-af1ff465ee1f,88,Female,165768,77,76-90,High Income - High Spending,1
-3be9f62a-c5a8-422a-b47d-73de1f6bfd63,18,Female,40415,49,,Low Income - Low Spending,3
+3be9f62a-c5a8-422a-b47d-73de1f6bfd63,18,Female,40415,49,18-25,Low Income - Low Spending,3
 837b5f12-7842-4da4-867f-10ef7c4a6a75,79,Female,115675,54,76-90,High Income - High Spending,2
 f581cccd-61f5-49d0-9578-4a7896bc1dde,63,Female,192299,45,56-65,High Income - Low Spending,1
 1cce327e-79c2-4ab3-9e98-69392a4e4d66,53,Male,107056,77,46-55,Low Income - High Spending,0
@@ -5595,7 +5595,7 @@ ffd41418-0305-4a03-b45f-c6b8964c0100,46,Female,134459,53,46-55,High Income - Hig
 35946481-a551-40f8-be88-c660c975a483,37,Male,146621,60,36-45,High Income - High Spending,2
 8f826026-7679-462e-992e-d971c3c16b2d,67,Female,35167,62,66-75,Low Income - High Spending,3
 fd1188be-42c1-46a4-acbf-7b2232a5f6db,37,Male,102451,15,36-45,Low Income - Low Spending,0
-d45f6489-a0b4-43d8-84aa-d9b398c5934a,18,Female,164134,15,,High Income - Low Spending,1
+d45f6489-a0b4-43d8-84aa-d9b398c5934a,18,Female,164134,15,18-25,High Income - Low Spending,1
 e87df5d4-923f-4aca-b206-93309250160d,35,Male,185772,85,26-35,High Income - High Spending,1
 813b3194-ee51-4e60-947f-f6884ef0110f,62,Male,20560,61,56-65,Low Income - High Spending,3
 0fb52b55-ff47-4055-864e-d707ac144583,84,Male,146813,7,76-90,High Income - Low Spending,2
@@ -5629,7 +5629,7 @@ a22b39b3-aafd-40f8-a85d-65caac50c2e5,62,Male,147706,88,56-65,High Income - High 
 862b03b4-df8a-470e-a4f0-0c3ae121255b,61,Male,95213,25,56-65,Low Income - Low Spending,0
 7aabc30e-0df0-4a19-85ec-0190a9583f89,35,Male,132442,97,26-35,High Income - High Spending,2
 55274a44-5379-4ef1-856d-474ee20149ba,40,Male,24610,23,36-45,Low Income - Low Spending,3
-baff35ac-8f45-497e-b2b8-67e0ab7feabb,18,Female,99390,24,,Low Income - Low Spending,0
+baff35ac-8f45-497e-b2b8-67e0ab7feabb,18,Female,99390,24,18-25,Low Income - Low Spending,0
 83428bb2-5467-4c55-a459-dc8a49b3001a,25,Female,63185,46,18-25,Low Income - Low Spending,3
 3767a151-4675-4701-ad84-a81e2aee0d5c,72,Male,172675,34,66-75,High Income - Low Spending,1
 43a02cca-33b6-4da2-9032-70aa575c56d4,67,Male,44126,56,66-75,Low Income - High Spending,3
@@ -5651,13 +5651,13 @@ c2f6b982-3654-4921-857d-3d00d9100455,60,Male,101701,85,56-65,Low Income - High S
 4cc74728-61b2-4b16-adc2-a88dd08f73c2,30,Male,199577,51,26-35,High Income - High Spending,1
 83354d17-e4b8-4bbb-8488-ca4244a0f298,32,Female,37986,52,26-35,Low Income - High Spending,3
 12e4ca57-d05d-49f1-be35-71e50fa12601,52,Female,190380,3,46-55,High Income - Low Spending,1
-49c1c51c-654f-435a-bede-936f08f3434e,18,Female,113986,72,,High Income - High Spending,2
+49c1c51c-654f-435a-bede-936f08f3434e,18,Female,113986,72,18-25,High Income - High Spending,2
 9ea411e4-2435-487e-8ac0-49d73c8bd00e,33,Male,169335,3,26-35,High Income - Low Spending,1
 7d2a69ff-396d-4745-a1b0-3313d48cac1f,81,Male,169318,15,76-90,High Income - Low Spending,1
 ea825924-7398-4efe-9193-93ca0e1dbe6b,38,Male,74515,46,36-45,Low Income - Low Spending,0
 167a6331-ddea-4faf-b5aa-ff263e7ed7c6,90,Male,162294,11,76-90,High Income - Low Spending,1
 cc6c5659-37b8-4249-8a5f-f852883a79da,72,Male,53022,20,66-75,Low Income - Low Spending,3
-391e647e-94bb-447b-8d76-c9afe8680578,18,Female,143144,77,,High Income - High Spending,2
+391e647e-94bb-447b-8d76-c9afe8680578,18,Female,143144,77,18-25,High Income - High Spending,2
 d380ac44-f022-4357-b66b-8db1cdecaa72,74,Female,157709,86,66-75,High Income - High Spending,1
 fe62d567-a0c1-4a2b-874b-c050a41425e4,47,Female,135656,7,46-55,High Income - Low Spending,2
 239ba7e6-5c23-43f8-acda-41d45198f4f2,44,Female,83132,48,36-45,Low Income - Low Spending,0
@@ -5751,7 +5751,7 @@ a24db02e-b250-4eba-9a37-fb687c759883,89,Male,139033,95,76-90,High Income - High 
 f124704b-b41f-4c60-81b2-6f0b31759a22,57,Male,76232,93,56-65,Low Income - High Spending,0
 3949523f-ef7f-43c2-81cf-0312f57474a4,47,Male,55907,98,46-55,Low Income - High Spending,3
 40200024-8f8c-4c3a-908b-66b4025e4030,89,Female,186921,89,76-90,High Income - High Spending,1
-c54798ee-c72f-48b6-b56c-bea73e10ee9a,18,Male,100605,45,,Low Income - Low Spending,0
+c54798ee-c72f-48b6-b56c-bea73e10ee9a,18,Male,100605,45,18-25,Low Income - Low Spending,0
 c5e3d517-0036-4839-8c76-3dbfbd0e84a9,33,Male,75666,35,26-35,Low Income - Low Spending,0
 a0067af3-ab97-4466-ad23-9f6fa29cb9e2,70,Female,61947,16,66-75,Low Income - Low Spending,3
 e836b2fd-9213-452e-ba2e-8b77a07c813c,27,Male,145874,15,26-35,High Income - Low Spending,2
@@ -5791,7 +5791,7 @@ f2e7433d-bc45-45a8-950b-1293167f28e6,26,Female,42709,43,26-35,Low Income - Low S
 2d581649-fa69-4c98-8b19-9ad692b54f0f,78,Male,126375,99,76-90,High Income - High Spending,2
 163ac452-8899-4ec9-b84a-886d24c5cc9f,62,Female,154165,71,56-65,High Income - High Spending,2
 0ecd6230-5f74-4978-b064-f31e432433ba,84,Female,116635,58,76-90,High Income - High Spending,2
-42f43c10-f015-4902-a52a-723e824cda22,18,Male,70757,7,,Low Income - Low Spending,0
+42f43c10-f015-4902-a52a-723e824cda22,18,Male,70757,7,18-25,Low Income - Low Spending,0
 3926cce5-462d-43d7-a6eb-9a8caee0b507,82,Male,181696,47,76-90,High Income - Low Spending,1
 93fe563f-3540-4884-a2b3-6ae625f2aafc,80,Female,71682,26,76-90,Low Income - Low Spending,0
 f2b4b3de-aa1e-4617-805d-36113baa6da2,72,Male,196907,54,66-75,High Income - High Spending,1
@@ -5830,7 +5830,7 @@ aea9ecb7-91be-4169-a617-eee0e4036eb9,38,Female,146501,96,36-45,High Income - Hig
 b3c6fe42-46b9-4de6-83bb-fa6e9d3eab48,85,Male,196970,3,76-90,High Income - Low Spending,1
 825dc0e8-4311-4f10-9df3-72cde46f7b48,21,Male,45105,55,18-25,Low Income - High Spending,3
 4be90558-ce3c-4978-b454-c54223ca5c68,66,Male,26593,10,66-75,Low Income - Low Spending,3
-0f8b7765-853e-47dd-99c1-651008326cf6,18,Male,179356,86,,High Income - High Spending,1
+0f8b7765-853e-47dd-99c1-651008326cf6,18,Male,179356,86,18-25,High Income - High Spending,1
 19c7d90a-95df-4a87-9a0b-fba429d2c7b5,46,Female,177899,21,46-55,High Income - Low Spending,1
 77764ea5-742e-43db-9a31-b7aed6bc9556,39,Male,108600,78,36-45,Low Income - High Spending,0
 6ca4d5b6-922e-4179-aed6-04025cf50a9e,60,Male,128413,65,56-65,High Income - High Spending,2
@@ -5858,7 +5858,7 @@ e2b4c06d-c7bc-49f7-93db-f494e7ba2bb3,75,Female,75781,53,66-75,Low Income - High 
 129ac877-2b7a-47e4-a6e0-3d509bad4efd,54,Female,138240,82,46-55,High Income - High Spending,2
 473f9db0-a312-4e87-8e87-07457dc2d438,40,Male,183516,99,36-45,High Income - High Spending,1
 7db797ae-e78c-4041-9311-52368fe15a15,22,Female,172605,29,18-25,High Income - Low Spending,1
-7a9df5c5-dfe1-46e8-aefd-74a742ae0bea,18,Male,173614,4,,High Income - Low Spending,1
+7a9df5c5-dfe1-46e8-aefd-74a742ae0bea,18,Male,173614,4,18-25,High Income - Low Spending,1
 627a9dcd-11cd-4b6d-bdd0-7ae0b40a38d0,70,Male,132145,82,66-75,High Income - High Spending,2
 ff20c781-6569-47f2-96fe-a7fce115a5b1,86,Male,102588,21,76-90,Low Income - Low Spending,0
 d254e302-089e-4962-9197-99620e75b7de,20,Male,23370,81,18-25,Low Income - High Spending,3
@@ -5991,7 +5991,7 @@ cab3c7c0-312b-4971-b215-fccd447434f2,29,Female,195193,27,26-35,High Income - Low
 d72b5cd4-ccda-4892-bb36-92505d0ebe35,79,Male,170915,70,76-90,High Income - High Spending,1
 83ed2c36-a344-493b-90ad-293920d1e6d7,29,Male,109472,63,26-35,Low Income - High Spending,0
 d5a0565b-7105-4ff9-a883-bf3345ef4a26,41,Male,126673,23,36-45,High Income - Low Spending,2
-42dee5f3-9f47-42ae-9613-ec7d00c2ba13,18,Male,102168,50,,Low Income - Low Spending,0
+42dee5f3-9f47-42ae-9613-ec7d00c2ba13,18,Male,102168,50,18-25,Low Income - Low Spending,0
 798543ad-7497-45c1-b84f-380bd959a89a,54,Male,79232,75,46-55,Low Income - High Spending,0
 da10db40-6033-4469-80c5-a325968803f9,85,Male,38006,43,76-90,Low Income - Low Spending,3
 977d392d-0ee3-4843-afc7-20e11e7a1ad5,71,Male,20328,26,66-75,Low Income - Low Spending,3
@@ -6175,7 +6175,7 @@ e3d5da36-4cd9-43a8-b6a0-7730bc43ba69,21,Female,136970,19,18-25,High Income - Low
 8beda348-6534-4239-a4b9-d893ebd9b025,59,Male,95773,39,56-65,Low Income - Low Spending,0
 2a183046-4284-4a1b-9504-eaefe21dc01a,73,Female,23355,89,66-75,Low Income - High Spending,3
 3450b275-4a66-4cfb-9048-99257c607106,30,Male,68669,40,26-35,Low Income - Low Spending,0
-05b82abe-d441-4b2d-abdb-b586b338d0b4,18,Female,38922,94,,Low Income - High Spending,3
+05b82abe-d441-4b2d-abdb-b586b338d0b4,18,Female,38922,94,18-25,Low Income - High Spending,3
 0da3ca90-1e7a-4358-9b6b-4544373ab636,72,Female,103866,68,66-75,Low Income - High Spending,0
 ad9de79e-f721-47d8-bed6-aa1117860740,77,Male,169226,80,76-90,High Income - High Spending,1
 4f8b0d56-adae-4a6a-a1b6-50e993afff25,83,Male,171322,77,76-90,High Income - High Spending,1
@@ -6287,7 +6287,7 @@ e7ce6301-d935-45f8-bc56-431d5ad49d71,49,Male,187044,94,46-55,High Income - High 
 f9a90d28-dc5a-4c04-80d4-0ef4ffb3e38c,50,Female,182878,80,46-55,High Income - High Spending,1
 e3ea7777-4a19-4f48-8cd6-9c80b3330c6e,61,Male,151494,38,56-65,High Income - Low Spending,2
 02dce46b-8888-46a8-8afb-d7a8b024096e,61,Female,155509,83,56-65,High Income - High Spending,2
-26f62af3-82ff-4fce-9c10-bd64bdbfcbaa,18,Female,161596,63,,High Income - High Spending,1
+26f62af3-82ff-4fce-9c10-bd64bdbfcbaa,18,Female,161596,63,18-25,High Income - High Spending,1
 e6240833-dda8-4b09-8335-4cff0d6f3750,41,Male,180683,53,36-45,High Income - High Spending,1
 f78fa36d-5190-4c0a-9051-778e192c2231,77,Male,34265,54,76-90,Low Income - High Spending,3
 46e870dd-0738-4131-8e49-a98d2e1174c7,60,Male,55136,75,56-65,Low Income - High Spending,3
@@ -6351,11 +6351,11 @@ f967e6d6-b3be-478a-b2ee-bb7695156410,31,Male,44723,9,26-35,Low Income - Low Spen
 375bc346-c5f4-409e-b031-c7c91ca27274,70,Female,95890,5,66-75,Low Income - Low Spending,0
 42604f6d-c5fd-45d3-bb4a-74e9f75df072,43,Female,196847,89,36-45,High Income - High Spending,1
 03fcf515-2b9f-4f85-9a07-039b2f8864ea,24,Female,192090,72,18-25,High Income - High Spending,1
-f70737e4-58bf-4b1f-af54-07aa0dc8ff3a,18,Female,171281,41,,High Income - Low Spending,1
+f70737e4-58bf-4b1f-af54-07aa0dc8ff3a,18,Female,171281,41,18-25,High Income - Low Spending,1
 3c5cdffe-11fc-412c-b689-7ecc0d7c7a0d,58,Female,123647,59,56-65,High Income - High Spending,2
 4dc41734-2992-4bb2-824d-153c84bacc33,57,Female,111248,11,56-65,High Income - Low Spending,2
 e18bb882-d64a-446e-be43-372597a21bf4,60,Female,51945,92,56-65,Low Income - High Spending,3
-f8054827-1355-4453-97b4-b9dbaf36a8ce,18,Male,125550,62,,High Income - High Spending,2
+f8054827-1355-4453-97b4-b9dbaf36a8ce,18,Male,125550,62,18-25,High Income - High Spending,2
 2562f0e7-dcdb-44b1-a36e-5539f2123749,52,Female,84116,21,46-55,Low Income - Low Spending,0
 014a1535-0a49-4c45-a1c7-5023b11f83d2,73,Female,96024,25,66-75,Low Income - Low Spending,0
 dae2361b-1bf9-4a7b-8aae-29f26a758888,70,Male,51306,2,66-75,Low Income - Low Spending,3
@@ -6486,7 +6486,7 @@ d383510b-7098-4b74-b8a2-c5eea65cf671,76,Female,67693,60,76-90,Low Income - High 
 27959509-43a7-44d7-8d10-49661e6f3de7,31,Female,56828,17,26-35,Low Income - Low Spending,3
 3ae39d34-2e52-4424-822c-44d945c956c5,89,Female,105171,27,76-90,Low Income - Low Spending,0
 3c96cfcc-5185-4f17-8bcb-777c704b8688,57,Male,78388,95,56-65,Low Income - High Spending,0
-9d45e6b4-98d6-4a5b-a4fa-4f771434f4e4,18,Male,123286,44,,High Income - Low Spending,2
+9d45e6b4-98d6-4a5b-a4fa-4f771434f4e4,18,Male,123286,44,18-25,High Income - Low Spending,2
 4f4de699-6061-4df3-84c2-dfdda645706b,60,Male,47297,39,56-65,Low Income - Low Spending,3
 6d2f5065-c7b3-478f-b499-11e980003c50,86,Female,172196,97,76-90,High Income - High Spending,1
 d887011c-9b5e-4d23-b492-a3b0551e2e88,60,Male,75268,61,56-65,Low Income - High Spending,0
@@ -6753,7 +6753,7 @@ a1670423-7e0c-4de2-8992-14c242ccd219,36,Female,46333,75,36-45,Low Income - High 
 e1757156-caca-4fbc-871f-45dca55291d4,79,Male,59245,85,76-90,Low Income - High Spending,3
 3e32e1ca-ab44-4652-a5b2-2f7e01b95def,42,Female,115995,56,36-45,High Income - High Spending,2
 0cf8f920-2860-4c9a-81ab-ce9b3a0e24ad,24,Female,84119,51,18-25,Low Income - High Spending,0
-548df5a0-bbd4-452f-bc5b-0182a8bc33a3,18,Female,176073,5,,High Income - Low Spending,1
+548df5a0-bbd4-452f-bc5b-0182a8bc33a3,18,Female,176073,5,18-25,High Income - Low Spending,1
 80397e53-f7f2-4c87-b056-edbc260fcdf8,60,Male,107860,34,56-65,Low Income - Low Spending,0
 39b31ea9-85cb-4187-88df-a90f17e7ffe1,81,Male,40334,87,76-90,Low Income - High Spending,3
 d9c53643-0e01-41a0-92ab-9eb6983c16a5,56,Male,65377,83,56-65,Low Income - High Spending,0
@@ -6997,7 +6997,7 @@ fe88c0fe-32ec-434a-8285-5b9bcbb8e0b9,42,Female,77673,46,36-45,Low Income - Low S
 738a4245-0c92-4c27-a154-fb78aa8f2c53,81,Female,52460,21,76-90,Low Income - Low Spending,3
 c0332eab-e2bb-44a7-80ad-d776e7f9a57f,67,Male,50725,26,66-75,Low Income - Low Spending,3
 ae92289a-0ce3-4d4b-80a8-b400602ff043,50,Male,180916,34,46-55,High Income - Low Spending,1
-fc06a5e1-65e5-4a88-8c43-0a5f5ba1e9c4,18,Female,162524,78,,High Income - High Spending,1
+fc06a5e1-65e5-4a88-8c43-0a5f5ba1e9c4,18,Female,162524,78,18-25,High Income - High Spending,1
 97357b4c-9819-4a98-9252-03e8fb0f3257,89,Male,77965,38,76-90,Low Income - Low Spending,0
 cdc8e60c-3aed-49f9-977c-d27c735e51c8,27,Female,177789,88,26-35,High Income - High Spending,1
 1c54d67a-1ec9-4d26-9c15-45c990c957c0,86,Male,189950,14,76-90,High Income - Low Spending,1
@@ -7084,7 +7084,7 @@ c9fd4e13-a3fb-4121-a91d-f113f07c4e09,55,Male,122059,6,46-55,High Income - Low Sp
 6cf8238a-a04b-4cff-8284-87cdb120a865,41,Male,152245,59,36-45,High Income - High Spending,2
 bae09cf6-d2ab-433d-9b82-f45f85210d94,76,Female,71885,15,76-90,Low Income - Low Spending,0
 1d27102e-1504-4170-b96f-21d89911c9e3,66,Female,159949,59,66-75,High Income - High Spending,1
-9439e970-759a-4a0a-b624-21ebfdc67509,18,Female,119127,47,,High Income - Low Spending,2
+9439e970-759a-4a0a-b624-21ebfdc67509,18,Female,119127,47,18-25,High Income - Low Spending,2
 b07f1fe7-43a7-4b4d-8809-01a565a79045,46,Male,94753,91,46-55,Low Income - High Spending,0
 ed43da7f-d222-4228-868a-d198f122474c,37,Female,37988,33,36-45,Low Income - Low Spending,3
 58de0a8a-ada9-48a6-b444-afafd5dde2c1,41,Male,68507,61,36-45,Low Income - High Spending,0
@@ -7108,7 +7108,7 @@ e93eb08b-2c7b-4096-b386-267c7f603c2c,65,Male,28695,62,56-65,Low Income - High Sp
 fb1e0d43-278a-4cbe-9e88-8f4321d4b26b,48,Male,43439,9,46-55,Low Income - Low Spending,3
 431b38ac-d6d7-42c9-8cc3-8bf3ebb46a83,41,Male,63185,18,36-45,Low Income - Low Spending,3
 670a6b47-6d6f-4d31-9c26-f005bf32bac4,29,Female,195578,28,26-35,High Income - Low Spending,1
-1e7ebe51-1bef-4197-9e62-11983ddc15eb,18,Male,66760,27,,Low Income - Low Spending,0
+1e7ebe51-1bef-4197-9e62-11983ddc15eb,18,Male,66760,27,18-25,Low Income - Low Spending,0
 75579e89-cc16-4c92-b6ec-653cfab1cb5d,58,Male,157457,88,56-65,High Income - High Spending,1
 f88c2e6c-ad7d-46f6-ac9e-d596c514b17a,67,Male,21820,14,66-75,Low Income - Low Spending,3
 194dcf6d-383d-47ba-9594-6ae6f5a59e74,68,Male,181235,29,66-75,High Income - Low Spending,1
@@ -7134,7 +7134,7 @@ c67b2e8e-3a1f-4a36-b91a-92f6498165e6,44,Male,47633,62,36-45,Low Income - High Sp
 ad5c4127-4ee9-47e1-9e24-73cf78d43c50,78,Female,39675,58,76-90,Low Income - High Spending,3
 e9e45e1f-6725-483f-8423-273883224f19,65,Male,101813,1,56-65,Low Income - Low Spending,0
 fbe27008-5ec1-42aa-96dd-213fdcf69672,60,Female,61319,46,56-65,Low Income - Low Spending,3
-2a6804b5-8b76-4431-ac1b-2bf7fe958f2c,18,Female,149072,13,,High Income - Low Spending,2
+2a6804b5-8b76-4431-ac1b-2bf7fe958f2c,18,Female,149072,13,18-25,High Income - Low Spending,2
 4cba5c06-dde3-431b-9839-6cc3c728f401,64,Male,126885,31,56-65,High Income - Low Spending,2
 089e1677-7618-4adc-a97a-ca2d14741bef,47,Female,47269,86,46-55,Low Income - High Spending,3
 7d236d1d-3d02-49bb-a2c3-4ab1f6ab0527,59,Male,86825,84,56-65,Low Income - High Spending,0
@@ -7183,7 +7183,7 @@ d8a089e8-8d03-4a18-9125-ad8b1562398b,86,Male,172259,49,76-90,High Income - Low S
 424d0717-01cc-4aed-9418-2c84b9b42cdd,69,Male,178392,53,66-75,High Income - High Spending,1
 680f5a3e-586d-4eb3-89f5-48fdaf7fa359,47,Male,172572,85,46-55,High Income - High Spending,1
 0584ea55-4d5d-495e-b9dc-3e861d3abb31,43,Male,185231,99,36-45,High Income - High Spending,1
-1c8c32ea-f772-464b-b9fa-439b12cf699a,18,Male,157683,64,,High Income - High Spending,1
+1c8c32ea-f772-464b-b9fa-439b12cf699a,18,Male,157683,64,18-25,High Income - High Spending,1
 6a481519-53a9-46b6-9f18-3883a3ee3c73,33,Female,129144,34,26-35,High Income - Low Spending,2
 4b92140b-a323-4238-81ef-c25ff488d096,47,Male,88136,43,46-55,Low Income - Low Spending,0
 9fc8d482-df8e-4487-9393-6b95a6af984e,47,Female,38392,12,46-55,Low Income - Low Spending,3
@@ -7409,9 +7409,9 @@ e30be644-8cfb-4c68-9771-33d05e2f6fae,40,Male,44301,16,36-45,Low Income - Low Spe
 1074cfa0-1f64-4570-b011-c4dff1b8e122,50,Female,52460,19,46-55,Low Income - Low Spending,3
 2204b68a-93a2-4890-badb-534995e9fe08,78,Male,108224,63,76-90,Low Income - High Spending,0
 e23eb1c0-59da-41c7-b3e3-517a11c1037e,60,Female,147695,43,56-65,High Income - Low Spending,2
-22a3b4ac-3e93-4a70-ba98-2741ac9020f8,18,Male,87967,4,,Low Income - Low Spending,0
+22a3b4ac-3e93-4a70-ba98-2741ac9020f8,18,Male,87967,4,18-25,Low Income - Low Spending,0
 158ae7c1-6202-4e0b-a9ea-b45e59602222,74,Male,73377,67,66-75,Low Income - High Spending,0
-ec8869bb-bc5c-48b5-bcac-0fe73d40bfbc,18,Male,52790,65,,Low Income - High Spending,3
+ec8869bb-bc5c-48b5-bcac-0fe73d40bfbc,18,Male,52790,65,18-25,Low Income - High Spending,3
 5afb2893-be20-473a-a604-a76f51822373,39,Male,159386,22,36-45,High Income - Low Spending,1
 129c23df-4710-465d-9206-2db4fdc8ee29,35,Female,137738,46,26-35,High Income - Low Spending,2
 ec05bc35-ac1f-4bad-8015-313a994ad114,30,Female,37051,3,26-35,Low Income - Low Spending,3
@@ -7618,7 +7618,7 @@ c0190a5c-2d6e-41bd-84e6-1d8c5dad29b9,33,Female,149389,76,26-35,High Income - Hig
 e0ec6eb7-2199-4cf5-b441-79b815e57810,87,Male,127569,25,76-90,High Income - Low Spending,2
 a53c4875-eb26-4162-aeee-831ef715b735,48,Female,102154,46,46-55,Low Income - Low Spending,0
 973805f0-6f91-4f4c-bd8c-f08a06cc6c9e,31,Male,74330,78,26-35,Low Income - High Spending,0
-a4d96f4a-2e9b-4784-93ea-911a4c2d1909,18,Male,136812,43,,High Income - Low Spending,2
+a4d96f4a-2e9b-4784-93ea-911a4c2d1909,18,Male,136812,43,18-25,High Income - Low Spending,2
 991552e6-22a0-435e-a474-76d09b996d82,73,Male,60491,99,66-75,Low Income - High Spending,3
 c639f9fc-99ae-4bad-b77e-5fd4a77c8e14,19,Female,151267,44,18-25,High Income - Low Spending,2
 6d4e1631-dd24-4863-b675-06a90b554239,67,Female,34006,42,66-75,Low Income - Low Spending,3
@@ -7665,7 +7665,7 @@ ee7c8322-0a4e-4182-b1c5-c082b808c391,80,Male,77432,70,76-90,Low Income - High Sp
 cfbd39c6-dea8-4222-abb6-97e458f12947,72,Male,150406,12,66-75,High Income - Low Spending,2
 0b827f1a-22b1-4201-8fb6-15547ca79a23,59,Female,135279,8,56-65,High Income - Low Spending,2
 eb97535e-b32f-4e7a-b3e3-8a88fd205a7a,67,Female,148470,67,66-75,High Income - High Spending,2
-8dd4ef0b-3a97-423f-9f72-e76801ed8c7d,18,Male,52316,70,,Low Income - High Spending,3
+8dd4ef0b-3a97-423f-9f72-e76801ed8c7d,18,Male,52316,70,18-25,Low Income - High Spending,3
 574272bc-6140-4952-9166-13c8007a1905,69,Female,172882,77,66-75,High Income - High Spending,1
 c9967824-b2dc-46e0-a25f-99d60ee395b0,26,Male,37110,92,26-35,Low Income - High Spending,3
 ea4a0578-58d1-4429-8421-d01672d75fb5,64,Female,69601,60,56-65,Low Income - High Spending,0
@@ -7674,7 +7674,7 @@ ea4a0578-58d1-4429-8421-d01672d75fb5,64,Female,69601,60,56-65,Low Income - High 
 2b942a5d-834a-47b2-8dc1-bfa9b16248a4,32,Male,99768,73,26-35,Low Income - High Spending,0
 634b7220-eccd-4b55-aa94-75b4dccc59c7,25,Male,165471,14,18-25,High Income - Low Spending,1
 74d65748-03dc-4c6e-ab79-044a9e4f8276,36,Male,66093,49,36-45,Low Income - Low Spending,0
-9d4235c6-f9c2-4bc1-bb01-691f492be870,18,Male,185930,81,,High Income - High Spending,1
+9d4235c6-f9c2-4bc1-bb01-691f492be870,18,Male,185930,81,18-25,High Income - High Spending,1
 8fbb717b-1aec-45fc-a091-4088c25882c0,88,Female,150127,11,76-90,High Income - Low Spending,2
 2dc47c88-3fef-404d-bf93-5e82e3c0f90e,70,Male,42008,53,66-75,Low Income - High Spending,3
 af5a87b7-0b3c-4a9d-ab2a-5ace26ae187a,64,Female,120398,38,56-65,High Income - Low Spending,2
@@ -7752,7 +7752,7 @@ c8e0e9e3-d60e-4a97-91c2-54c3f9fcaed8,75,Male,65060,13,66-75,Low Income - Low Spe
 ad65888d-180c-4a6b-807f-4defbeb3f526,30,Male,27341,44,26-35,Low Income - Low Spending,3
 5cc7b992-e97e-4d2b-a508-e9639d3a2642,75,Female,33113,96,66-75,Low Income - High Spending,3
 a3a48b42-d701-471b-aef9-7e444e2a687e,65,Male,47669,72,56-65,Low Income - High Spending,3
-a989d19b-32d7-452f-976a-4b7f0f34ff31,18,Male,155478,97,,High Income - High Spending,2
+a989d19b-32d7-452f-976a-4b7f0f34ff31,18,Male,155478,97,18-25,High Income - High Spending,2
 b2dad626-4356-4b3a-96a9-83276074eb83,49,Male,77732,95,46-55,Low Income - High Spending,0
 cb0fb94a-53d4-47b9-ad58-dd67c16f5469,78,Male,102785,29,76-90,Low Income - Low Spending,0
 2431a672-f2d8-47a7-a5d2-1159afa572a0,25,Female,69128,18,18-25,Low Income - Low Spending,0
@@ -7783,7 +7783,7 @@ bec62aeb-8d81-474c-b602-a817ddf6f2aa,81,Female,47985,66,76-90,Low Income - High 
 b83c3c36-cbee-4dbe-8d63-b7c3aa9ae28e,64,Female,108519,29,56-65,Low Income - Low Spending,0
 15882dff-3e42-44a6-beb1-e764c3ff752c,90,Male,146966,78,76-90,High Income - High Spending,2
 ed022725-bf3e-45e5-b80c-05ac81fee5d5,44,Male,37623,38,36-45,Low Income - Low Spending,3
-74bcf30a-4de9-4622-a505-fc44acb86e53,18,Female,151485,62,,High Income - High Spending,2
+74bcf30a-4de9-4622-a505-fc44acb86e53,18,Female,151485,62,18-25,High Income - High Spending,2
 79d31269-e7e6-4d60-a493-d302346a8eed,77,Male,70558,14,76-90,Low Income - Low Spending,0
 49bf1117-631a-4752-be25-0ac6d6dd0ea4,29,Female,62771,93,26-35,Low Income - High Spending,3
 520234d1-3996-49aa-a370-8ad4527ad590,59,Female,157713,41,56-65,High Income - Low Spending,1
@@ -7872,7 +7872,7 @@ e90a1a5c-a52f-4d83-8f07-43d2f22fedec,86,Female,140935,59,76-90,High Income - Hig
 194b3148-8e1a-449b-8581-c3913ae40223,23,Male,36045,91,18-25,Low Income - High Spending,3
 22db0797-4fd5-46bc-90de-e6fa53b19280,78,Female,25103,61,76-90,Low Income - High Spending,3
 dbf918b6-7ba6-4e64-99b9-b9b5eefbfd95,76,Male,142986,84,76-90,High Income - High Spending,2
-ab59cd8a-dc9a-4a10-9df7-88fd22777b57,18,Female,64650,27,,Low Income - Low Spending,3
+ab59cd8a-dc9a-4a10-9df7-88fd22777b57,18,Female,64650,27,18-25,Low Income - Low Spending,3
 55e106ce-cd8d-4984-8b6d-e3e8a8cc1081,49,Female,58797,97,46-55,Low Income - High Spending,3
 b4f411c3-1aa7-4f68-8fe2-497f295f6937,68,Male,155941,25,66-75,High Income - Low Spending,2
 ca4eb6d5-c0fd-4b8b-8417-70f4c2506a4f,86,Male,167263,51,76-90,High Income - High Spending,1
@@ -7928,7 +7928,7 @@ ce5f0796-cc48-469b-86e7-cde8210755fb,46,Female,44358,34,46-55,Low Income - Low S
 378ab098-0878-4e90-b383-dec2c5fac080,75,Male,193544,63,66-75,High Income - High Spending,1
 039277dc-54c7-4f15-8206-a71656afc1b6,78,Male,27270,79,76-90,Low Income - High Spending,3
 838d5b64-3ab5-4c5c-9c3a-b3a7a5a9a5c6,89,Male,98776,85,76-90,Low Income - High Spending,0
-7fdf91e4-048f-4987-bea5-a4a2a537818d,18,Male,77950,1,,Low Income - Low Spending,0
+7fdf91e4-048f-4987-bea5-a4a2a537818d,18,Male,77950,1,18-25,Low Income - Low Spending,0
 de230c38-fa00-40c0-baae-556660382ce3,74,Female,33349,92,66-75,Low Income - High Spending,3
 f3ef2131-e2ec-4fea-9300-50bccdd8e143,63,Male,171624,82,56-65,High Income - High Spending,1
 187a21a7-e868-4dca-875c-2462327f8622,74,Male,135680,66,66-75,High Income - High Spending,2
@@ -8028,7 +8028,7 @@ ba168e15-190a-4c1c-a8c0-b24398d2583d,71,Female,81565,78,66-75,Low Income - High 
 95f63f69-c559-4f19-8675-6fd1caeccdc1,53,Female,69089,22,46-55,Low Income - Low Spending,0
 e378d537-6149-434b-b768-3dd071a6063f,68,Female,117794,7,66-75,High Income - Low Spending,2
 f750e57b-1e1a-4f98-9f32-04d3e0551d86,35,Female,169897,9,26-35,High Income - Low Spending,1
-1888514a-4724-44dd-87a1-d4f2149d99c8,18,Female,142765,2,,High Income - Low Spending,2
+1888514a-4724-44dd-87a1-d4f2149d99c8,18,Female,142765,2,18-25,High Income - Low Spending,2
 cc6950f0-7bea-4a5e-a8cd-8dd1a6c3d333,31,Female,113776,6,26-35,High Income - Low Spending,2
 c803b605-c574-4dc5-b09b-0223a3c6ded9,68,Male,122630,12,66-75,High Income - Low Spending,2
 33e18095-88c3-4980-ab36-2a306c867f28,69,Female,149905,43,66-75,High Income - Low Spending,2
@@ -8094,7 +8094,7 @@ cbea498c-ef28-4589-84b3-92f4b0cfb801,50,Male,85933,35,46-55,Low Income - Low Spe
 892482d2-69ec-43b9-85e3-798379687085,57,Female,92082,39,56-65,Low Income - Low Spending,0
 86780be3-306f-49fe-b6a0-a21cc3f2ef8e,31,Female,68879,14,26-35,Low Income - Low Spending,0
 55e5de7a-482e-4819-aea6-847cef2712fa,85,Female,51059,67,76-90,Low Income - High Spending,3
-8fb72ba6-e488-4ab7-8a50-c52d091fdcc8,18,Male,98373,60,,Low Income - High Spending,0
+8fb72ba6-e488-4ab7-8a50-c52d091fdcc8,18,Male,98373,60,18-25,Low Income - High Spending,0
 a2c73b34-c565-472e-aa2a-e9afc8b28ba2,77,Male,138717,36,76-90,High Income - Low Spending,2
 19e26376-a810-4025-ade9-de17c077b313,21,Female,141726,38,18-25,High Income - Low Spending,2
 83b407bb-92bd-44bc-88fc-3ec843c1a420,80,Female,23897,96,76-90,Low Income - High Spending,3
@@ -8174,7 +8174,7 @@ a67ae12f-c116-4def-b101-5ac7fa5388b9,26,Male,147065,52,26-35,High Income - High 
 ebaecfdc-c77c-4dfd-ae5b-4d884e4193ad,20,Male,63447,56,18-25,Low Income - High Spending,3
 3246beaa-1b8f-4d51-95fe-bb23b6171671,57,Male,94321,39,56-65,Low Income - Low Spending,0
 ef2f70f5-8200-49f5-8432-0e2c8e0573a2,60,Female,127990,33,56-65,High Income - Low Spending,2
-2072f0cb-1883-42d5-b69d-a038db6c3712,18,Male,125705,36,,High Income - Low Spending,2
+2072f0cb-1883-42d5-b69d-a038db6c3712,18,Male,125705,36,18-25,High Income - Low Spending,2
 076e13ab-069a-43f6-9715-f8820438e923,39,Male,116003,23,36-45,High Income - Low Spending,2
 655a0d40-4f2a-4012-b940-5cc6a5aa01b4,54,Male,104176,12,46-55,Low Income - Low Spending,0
 d17106bd-5b8b-469a-ac08-e70fa1e0c025,86,Male,31231,49,76-90,Low Income - Low Spending,3
@@ -8321,7 +8321,7 @@ f46db34a-217f-4d32-9aa1-09d20bdf3072,31,Male,193109,41,26-35,High Income - Low S
 c1dd7ed9-0b82-4d4b-941b-af8c8c6d4a33,42,Female,43227,92,36-45,Low Income - High Spending,3
 17e2efde-0b08-4147-8837-0432ca293d3f,72,Male,96795,9,66-75,Low Income - Low Spending,0
 d229c0da-f03e-4b6f-9437-233678db2e4c,35,Female,132749,15,26-35,High Income - Low Spending,2
-c6291445-75fc-45e3-947c-32a39a0e1e8d,18,Male,159461,12,,High Income - Low Spending,1
+c6291445-75fc-45e3-947c-32a39a0e1e8d,18,Male,159461,12,18-25,High Income - Low Spending,1
 540e0bb4-9eea-4365-9e62-84b1045e6305,75,Female,51141,32,66-75,Low Income - Low Spending,3
 41e7e83a-56d0-4c16-bb7a-4b87cc49665f,80,Male,154378,95,76-90,High Income - High Spending,2
 f85ad401-3365-4e99-b39f-bf553eb48163,56,Female,182180,99,56-65,High Income - High Spending,1
@@ -8467,7 +8467,7 @@ ee244206-4367-410c-ba4a-a5bb143282aa,38,Female,75760,42,36-45,Low Income - Low S
 ac6d2ca4-5550-466b-aa13-ff3712a2e9a7,59,Male,79056,81,56-65,Low Income - High Spending,0
 ad6c52a9-87a9-4915-9b0f-05a030ac3800,79,Female,78942,86,76-90,Low Income - High Spending,0
 e8df9f9f-af92-442a-b583-b49130b763f4,63,Male,128368,90,56-65,High Income - High Spending,2
-2bb1a55f-bf1e-4bdb-9ae7-cb152033f56b,18,Male,136671,25,,High Income - Low Spending,2
+2bb1a55f-bf1e-4bdb-9ae7-cb152033f56b,18,Male,136671,25,18-25,High Income - Low Spending,2
 9e47b17f-33f7-4d99-aa88-836c80170c34,21,Female,128040,6,18-25,High Income - Low Spending,2
 cd37766c-379e-4c21-b05f-9d9e452829c5,70,Male,111303,64,66-75,High Income - High Spending,2
 26264c3c-3383-41bc-a04c-587b98851914,44,Male,198632,50,36-45,High Income - Low Spending,1
@@ -8559,7 +8559,7 @@ b8239e3c-230e-4685-bba3-a83dec8a3475,29,Male,172085,5,26-35,High Income - Low Sp
 382e9214-a077-4d5d-ae48-7c29e75f381c,88,Male,66408,2,76-90,Low Income - Low Spending,0
 8c68e55e-7ee2-41e2-bb93-0f628bac1d36,56,Male,115749,14,56-65,High Income - Low Spending,2
 6f05b00d-69f1-4e98-a6f5-45684d3f263c,51,Male,104579,57,46-55,Low Income - High Spending,0
-9441ee4c-0d52-407b-809a-3f61e4eec5ea,18,Female,148747,89,,High Income - High Spending,2
+9441ee4c-0d52-407b-809a-3f61e4eec5ea,18,Female,148747,89,18-25,High Income - High Spending,2
 cf2ae689-3274-45dc-ae76-9d2a5d8ba483,30,Female,164769,3,26-35,High Income - Low Spending,1
 982482e7-0d05-4995-b62c-9562dbbe5e8f,33,Female,132489,51,26-35,High Income - High Spending,2
 287e54f7-87c3-4c45-b429-a0f5f4797987,71,Female,34307,36,66-75,Low Income - Low Spending,3
@@ -8653,7 +8653,7 @@ c9750eb4-4e17-475e-ba4f-0d40c23e3aad,76,Male,170225,75,76-90,High Income - High 
 2d2be9ee-9929-4a1f-864f-96029672d094,53,Female,50750,1,46-55,Low Income - Low Spending,3
 8b0cf8e9-2d07-437c-9a51-334d57dd0124,44,Female,140502,46,36-45,High Income - Low Spending,2
 bd635550-37a2-43cb-9488-7d9433785342,85,Male,84321,84,76-90,Low Income - High Spending,0
-f36ba0c9-31bb-466a-a2b2-c506e7886860,18,Male,183255,84,,High Income - High Spending,1
+f36ba0c9-31bb-466a-a2b2-c506e7886860,18,Male,183255,84,18-25,High Income - High Spending,1
 c9ccea20-f759-4a72-9ec0-cb5db614491f,72,Female,199890,33,66-75,High Income - Low Spending,1
 86ee22b3-1265-499f-af68-d7db7085548f,63,Female,66104,100,56-65,Low Income - High Spending,0
 57fe820d-e3d2-4dff-9d60-3c3c56a2b1be,49,Female,117891,6,46-55,High Income - Low Spending,2
@@ -8669,7 +8669,7 @@ c4eab55c-62fe-4ce2-baea-669355e0cc97,48,Female,196392,69,46-55,High Income - Hig
 fcbd41e2-fef9-451c-a4c5-95355a41e40a,38,Female,23266,36,36-45,Low Income - Low Spending,3
 1559978b-ff50-4d3d-a57e-5da6d20f719c,58,Female,117250,40,56-65,High Income - Low Spending,2
 dc5f66ba-7dac-446c-8d8c-66e26acc1a6d,67,Female,31520,39,66-75,Low Income - Low Spending,3
-63397ec3-4ff2-4d8a-acf9-f9d11f680c77,18,Male,56951,30,,Low Income - Low Spending,3
+63397ec3-4ff2-4d8a-acf9-f9d11f680c77,18,Male,56951,30,18-25,Low Income - Low Spending,3
 50b0e68c-6c5f-4ab7-8a24-b474e2a5af2c,29,Male,39260,34,26-35,Low Income - Low Spending,3
 405b0e0a-f2a7-4012-89ef-63682122d042,48,Female,95805,61,46-55,Low Income - High Spending,0
 96207da1-581d-4ddf-b786-6a0c83a75a97,80,Female,104237,86,76-90,Low Income - High Spending,0
@@ -8704,7 +8704,7 @@ a7c268c1-c1a0-4768-a553-bc088aa061c8,78,Male,22357,84,76-90,Low Income - High Sp
 390d4584-3595-46ee-9fe1-62c7eecb03bb,19,Male,87054,82,18-25,Low Income - High Spending,0
 fac276aa-2afe-4051-bf74-9a488c532002,58,Female,91894,44,56-65,Low Income - Low Spending,0
 1ed00517-a807-4434-a3f8-6b7d42aded33,30,Male,69163,69,26-35,Low Income - High Spending,0
-0b589709-bd15-4e5c-b532-fba8984031c5,18,Female,145042,98,,High Income - High Spending,2
+0b589709-bd15-4e5c-b532-fba8984031c5,18,Female,145042,98,18-25,High Income - High Spending,2
 9d802901-cd61-4f64-962a-cdbda620dbd7,72,Female,119322,40,66-75,High Income - Low Spending,2
 4cd279ef-f3fe-4e46-a97b-0ea4cac02a76,87,Female,145549,74,76-90,High Income - High Spending,2
 99459ace-3e44-4914-bbb7-cbcff2e042fe,51,Male,145794,56,46-55,High Income - High Spending,2
@@ -8748,7 +8748,7 @@ ec2a8190-2bc1-463e-b54a-7080878561a8,28,Female,94246,42,26-35,Low Income - Low S
 f9653e30-bb87-4d3b-be7d-48eb850208e2,55,Male,70878,32,46-55,Low Income - Low Spending,0
 f456edd5-efad-404c-aaa9-ad821a893fd5,83,Male,185551,89,76-90,High Income - High Spending,1
 fed7ffa5-c2d7-4077-ab9f-32b956eb6c48,62,Female,143546,17,56-65,High Income - Low Spending,2
-eb065f9c-09b7-4a7e-9ca1-b464f30f312d,18,Male,84470,39,,Low Income - Low Spending,0
+eb065f9c-09b7-4a7e-9ca1-b464f30f312d,18,Male,84470,39,18-25,Low Income - Low Spending,0
 176a652b-a419-4186-9146-6ecfe4c5f34b,57,Male,39376,92,56-65,Low Income - High Spending,3
 d830df1c-021b-4737-9a32-a0a263e33367,19,Female,117315,13,18-25,High Income - Low Spending,2
 e9ce9a90-4606-4e19-80f4-227f65aa64d0,87,Male,158903,82,76-90,High Income - High Spending,1
@@ -8776,7 +8776,7 @@ ef2bf876-84bd-4841-978f-3aafb47dc958,86,Female,199852,73,76-90,High Income - Hig
 1b52a357-dd10-4ace-83d7-790d9ab5eaa1,48,Male,24252,52,46-55,Low Income - High Spending,3
 1acb8d9c-c413-428f-867c-cff8986254f7,63,Female,75266,74,56-65,Low Income - High Spending,0
 5fe9bf02-af35-4615-952a-dc51bd3feeb6,48,Female,52659,75,46-55,Low Income - High Spending,3
-f21a1884-7a9a-47a4-a89f-9fd0388eef43,18,Female,134677,87,,High Income - High Spending,2
+f21a1884-7a9a-47a4-a89f-9fd0388eef43,18,Female,134677,87,18-25,High Income - High Spending,2
 180e51c0-545e-44f8-9a07-dc4816587295,85,Male,30738,27,76-90,Low Income - Low Spending,3
 bc539243-481b-4595-a7b2-19f107658683,85,Female,73406,29,76-90,Low Income - Low Spending,0
 a2954bd2-a7ba-4711-b5a0-16172beeac64,22,Male,99698,50,18-25,Low Income - Low Spending,0
@@ -8787,7 +8787,7 @@ a7d97dbf-6e17-447b-a6ef-7ea9b8150605,58,Female,66856,75,56-65,Low Income - High 
 18e8e4df-0899-4249-bc92-3ce7028b55ce,62,Female,168957,5,56-65,High Income - Low Spending,1
 b5121a97-8805-4b68-8153-b46fcf4da7ec,82,Male,101765,84,76-90,Low Income - High Spending,0
 d15de9d7-dc98-4418-aa77-d9379dbf219b,42,Female,52034,36,36-45,Low Income - Low Spending,3
-f7db57ed-aac3-47ca-a120-e38aa7cf5d27,18,Female,104410,65,,Low Income - High Spending,0
+f7db57ed-aac3-47ca-a120-e38aa7cf5d27,18,Female,104410,65,18-25,Low Income - High Spending,0
 8cc07169-669d-463a-9d7b-3170e9597829,19,Male,31929,8,18-25,Low Income - Low Spending,3
 741fb135-98b5-465f-a8b1-f6867086b4e0,44,Female,82006,64,36-45,Low Income - High Spending,0
 e967ae55-a7eb-49e0-b9b2-b72197474a94,22,Male,57765,36,18-25,Low Income - Low Spending,3
@@ -8823,7 +8823,7 @@ e5abd44b-901f-4c92-aea6-80308d52b419,41,Male,140104,60,36-45,High Income - High 
 706dec8e-1f50-4f09-8c09-aacd9318d36a,70,Male,174219,58,66-75,High Income - High Spending,1
 41556274-e07e-4941-8c37-49d7609971af,87,Female,168171,32,76-90,High Income - Low Spending,1
 66b9c556-f36e-4ec3-9069-681ef42b6817,28,Female,29610,16,26-35,Low Income - Low Spending,3
-e48916cf-edb5-4ed0-9d88-d5259f93571b,18,Female,197840,24,,High Income - Low Spending,1
+e48916cf-edb5-4ed0-9d88-d5259f93571b,18,Female,197840,24,18-25,High Income - Low Spending,1
 b9801585-b3a0-4f25-a13e-4fb76f1284a8,32,Male,40661,21,26-35,Low Income - Low Spending,3
 f620a3b6-f567-4b31-b2c6-b756b4052cf6,29,Male,153986,93,26-35,High Income - High Spending,2
 2c36b4a8-b02e-4f7f-aeca-2170c8cb621d,32,Male,121334,3,26-35,High Income - Low Spending,2
@@ -8894,7 +8894,7 @@ f0071b3e-3e8b-4057-bc2b-e191b1db4c0c,69,Male,138211,71,66-75,High Income - High 
 cb48d163-9f97-4869-adbb-b8d1e352cdf7,50,Male,107491,71,46-55,Low Income - High Spending,0
 047f3b72-5cf1-49f8-92b3-01a29fe2bfd5,30,Male,29750,62,26-35,Low Income - High Spending,3
 1a6f6dbf-8ca9-468a-81b9-09b01b0fbad9,33,Female,138090,78,26-35,High Income - High Spending,2
-00fbc6be-c928-4800-bc53-9197be55ca87,18,Male,165348,73,,High Income - High Spending,1
+00fbc6be-c928-4800-bc53-9197be55ca87,18,Male,165348,73,18-25,High Income - High Spending,1
 5124535d-c41d-4fc8-a986-e5ead026ecb4,84,Male,151158,7,76-90,High Income - Low Spending,2
 38d91eb5-ead4-487d-a2db-92670199a41a,20,Male,39133,44,18-25,Low Income - Low Spending,3
 69400dd0-fc10-4cc0-91d3-4f53afb53c87,83,Male,181635,21,76-90,High Income - Low Spending,1
@@ -8904,7 +8904,7 @@ d308e15b-011b-4764-812b-f76fd9b7eb72,20,Female,77741,33,18-25,Low Income - Low S
 5f794454-b37f-4c7a-a7d3-98b8ac2f2d45,63,Female,190919,65,56-65,High Income - High Spending,1
 9d1abf54-1dd5-49a3-9fbc-aa860c16bd80,75,Male,54413,20,66-75,Low Income - Low Spending,3
 684a1be6-1c94-4d3a-86fb-0bbc7653c0eb,29,Female,102174,51,26-35,Low Income - High Spending,0
-9f44bb10-87b7-4262-88f0-49aab221f497,18,Female,133865,73,,High Income - High Spending,2
+9f44bb10-87b7-4262-88f0-49aab221f497,18,Female,133865,73,18-25,High Income - High Spending,2
 7417c1c3-b230-4244-bf5b-d32d304fbfdf,33,Female,24069,14,26-35,Low Income - Low Spending,3
 bc24ab29-aa4d-4238-b0fa-571ad6271d35,55,Male,153877,30,46-55,High Income - Low Spending,2
 d9f81479-8c9b-4f96-aa40-832998a0529e,42,Male,64118,65,36-45,Low Income - High Spending,3
@@ -8920,7 +8920,7 @@ f96487be-794b-413c-8ff0-16c0d0f4bb61,72,Female,21542,61,66-75,Low Income - High 
 208222c5-00aa-48ed-81c3-b25c7a60e2a5,78,Male,142334,20,76-90,High Income - Low Spending,2
 2d6907fa-7380-425c-8cdb-422e4246bce1,72,Female,166225,10,66-75,High Income - Low Spending,1
 11df8fbc-08eb-44ee-90e0-f274b674a4de,82,Female,144106,27,76-90,High Income - Low Spending,2
-4e0b85cf-f25a-4159-b36a-10da15388f1d,18,Female,190347,96,,High Income - High Spending,1
+4e0b85cf-f25a-4159-b36a-10da15388f1d,18,Female,190347,96,18-25,High Income - High Spending,1
 031c8eff-79af-47d3-8293-cf3e7fb1081e,60,Male,53136,70,56-65,Low Income - High Spending,3
 82c5159d-9291-4816-96b1-e8e35d08beab,46,Male,147084,36,46-55,High Income - Low Spending,2
 f926339a-08eb-42c2-8c5d-b47e6e540b87,68,Male,173025,46,66-75,High Income - Low Spending,1
@@ -8994,7 +8994,7 @@ d59a0a3e-9f47-4bb2-9430-c8ae8a5abbea,30,Male,67020,73,26-35,Low Income - High Sp
 f13ddc79-41d9-449d-834a-58e6f79bbb9e,65,Male,199543,50,56-65,High Income - Low Spending,1
 4d11a977-e2a6-44fd-b8aa-15c6badcbe22,87,Female,154350,88,76-90,High Income - High Spending,2
 21da52af-1194-4c37-adba-aa39a6393706,52,Female,185776,13,46-55,High Income - Low Spending,1
-a2916447-4a64-4fe6-a124-ab3835d49c9c,18,Female,186738,61,,High Income - High Spending,1
+a2916447-4a64-4fe6-a124-ab3835d49c9c,18,Female,186738,61,18-25,High Income - High Spending,1
 3cf50665-3115-4c54-988a-ac81a93c8c5e,78,Female,114975,93,76-90,High Income - High Spending,2
 63f30e52-ac52-4b7a-a4b8-b4e4fd58285c,59,Male,41046,81,56-65,Low Income - High Spending,3
 2db19488-22a6-4128-8364-fb8db688ca9e,78,Female,67046,17,76-90,Low Income - Low Spending,0
@@ -9057,7 +9057,7 @@ c2caf48d-9a66-4209-8e6f-4aeeac616093,82,Male,162516,85,76-90,High Income - High 
 c189d8ff-d7f6-472b-969c-1b43257dee1a,27,Female,86926,85,26-35,Low Income - High Spending,0
 5e646178-b8e1-4f91-9cee-dea4e021dc6c,60,Female,156946,85,56-65,High Income - High Spending,1
 7c8eda2a-517e-4e51-a601-967f6aac27a4,35,Male,122545,60,26-35,High Income - High Spending,2
-e4e97cb4-070f-4c05-b166-35bcab68393d,18,Female,53619,85,,Low Income - High Spending,3
+e4e97cb4-070f-4c05-b166-35bcab68393d,18,Female,53619,85,18-25,Low Income - High Spending,3
 a715457a-5533-4b9a-b651-bdfe064e63d5,47,Female,71919,41,46-55,Low Income - Low Spending,0
 6a962854-8be7-4691-b27c-3a2b862d001d,26,Female,59049,26,26-35,Low Income - Low Spending,3
 5b017c31-92e4-4b65-910b-b74487257ca5,79,Female,37902,69,76-90,Low Income - High Spending,3
@@ -9066,7 +9066,7 @@ d391de3e-72a5-4485-949a-5e38f044baa5,28,Female,46311,74,26-35,Low Income - High 
 651fe35c-0099-43d5-a874-95fd86cf75b8,46,Male,94776,59,46-55,Low Income - High Spending,0
 a0d8a182-c63b-4370-bdc2-0e7d2f17ae0e,58,Female,128144,5,56-65,High Income - Low Spending,2
 76d3ded3-ce9c-4100-bcab-0b03abe8701e,44,Male,122820,59,36-45,High Income - High Spending,2
-4ce8b51e-66c9-4a9d-9dd4-1e8b7c669214,18,Female,34929,89,,Low Income - High Spending,3
+4ce8b51e-66c9-4a9d-9dd4-1e8b7c669214,18,Female,34929,89,18-25,Low Income - High Spending,3
 9cb017ae-aac2-4b4b-af19-ed16c4c9700e,27,Male,140867,26,26-35,High Income - Low Spending,2
 31de57e0-6af9-4637-8fd8-9165a2805a74,89,Male,91699,20,76-90,Low Income - Low Spending,0
 384eddd2-9613-4314-840c-b53810d39fab,70,Female,122694,31,66-75,High Income - Low Spending,2
@@ -9079,7 +9079,7 @@ e16bf957-80dd-48a1-9ef3-58c22078ea26,51,Male,21515,62,46-55,Low Income - High Sp
 4c43f4b3-6926-4921-859c-c538458d77a2,39,Male,131075,96,36-45,High Income - High Spending,2
 716c8997-0b30-454a-a5b0-9d6297aee6fb,36,Female,87591,56,36-45,Low Income - High Spending,0
 160cae26-5a36-4fbf-99a9-0e5cec62474c,54,Female,42225,52,46-55,Low Income - High Spending,3
-ae8d5035-34e9-4ec6-aaef-3d1088b10e5b,18,Male,60358,12,,Low Income - Low Spending,3
+ae8d5035-34e9-4ec6-aaef-3d1088b10e5b,18,Male,60358,12,18-25,Low Income - Low Spending,3
 f87301cf-0d93-489f-a148-8e23cddb1000,55,Female,187576,7,46-55,High Income - Low Spending,1
 9f95f4da-2c77-4758-a824-89cca4433caa,80,Male,38794,50,76-90,Low Income - Low Spending,3
 310c67f2-dd51-4a7f-9b79-2385f4a6945d,60,Male,64171,43,56-65,Low Income - Low Spending,3
@@ -9150,7 +9150,7 @@ ccd900fd-72d6-4b7c-ac03-b613ecb672cb,19,Female,165585,90,18-25,High Income - Hig
 44cc2c16-696c-4b96-8d84-945a9c150a10,58,Male,38632,96,56-65,Low Income - High Spending,3
 67ef8353-1296-4127-bb38-1ebf1ecdeb60,59,Female,84890,58,56-65,Low Income - High Spending,0
 14445f53-8b41-477b-b858-53a1ec203fb0,45,Male,114074,3,36-45,High Income - Low Spending,2
-ce9513ab-fad3-45aa-b187-6970316422c8,18,Female,175422,16,,High Income - Low Spending,1
+ce9513ab-fad3-45aa-b187-6970316422c8,18,Female,175422,16,18-25,High Income - Low Spending,1
 7cc0302c-5257-4a29-a071-75be4a76ffaa,43,Male,88937,50,36-45,Low Income - Low Spending,0
 da1ea379-a3f3-446d-bc45-0f35ddea5e7e,31,Female,198216,73,26-35,High Income - High Spending,1
 d514510f-e125-4b95-9ec7-3e7051f4eaee,64,Female,192101,76,56-65,High Income - High Spending,1
@@ -9184,7 +9184,7 @@ e43f41b6-a286-4264-82fe-b33c5c588046,86,Female,36598,5,76-90,Low Income - Low Sp
 37473411-5bb7-4b4a-bb3d-12fe62fb7856,58,Male,101334,70,56-65,Low Income - High Spending,0
 b6b35c2a-7900-456a-972a-620101d4284d,88,Female,112521,54,76-90,High Income - High Spending,2
 8479af27-362f-471a-b0dc-c6d8877aa719,81,Female,46443,73,76-90,Low Income - High Spending,3
-3c6ae8ac-bef2-4305-969d-4d50c47935a5,18,Female,22123,75,,Low Income - High Spending,3
+3c6ae8ac-bef2-4305-969d-4d50c47935a5,18,Female,22123,75,18-25,Low Income - High Spending,3
 96ad38ef-7ddd-42eb-bb1a-3d4d88b43906,50,Female,85357,32,46-55,Low Income - Low Spending,0
 c98acc04-66a5-453f-a402-ffa6f0c06ff2,46,Male,92047,80,46-55,Low Income - High Spending,0
 9607c24a-9660-4b0e-b302-eb3ad41a2d0b,34,Male,58327,31,26-35,Low Income - Low Spending,3
@@ -9224,7 +9224,7 @@ d5a641b2-11c3-4a8b-a24d-58231cd4de75,32,Female,127137,93,26-35,High Income - Hig
 2f4efa54-9408-4abe-9763-77e9c3c79cb0,87,Female,70957,77,76-90,Low Income - High Spending,0
 f5c9d0ed-4c11-4b3a-b0fe-9d3f14b4a6b2,25,Female,154146,82,18-25,High Income - High Spending,2
 50dbc0ab-0885-4450-960b-a6e035424807,67,Female,23168,24,66-75,Low Income - Low Spending,3
-fd86bcbc-df4d-4c2e-b651-e5cd6039b5ad,18,Male,171118,20,,High Income - Low Spending,1
+fd86bcbc-df4d-4c2e-b651-e5cd6039b5ad,18,Male,171118,20,18-25,High Income - Low Spending,1
 697ddc81-dd2d-4045-81bf-aaba63817b1c,30,Female,45778,55,26-35,Low Income - High Spending,3
 edb2ea97-e413-4b41-855e-958b7f846f46,59,Male,190834,13,56-65,High Income - Low Spending,1
 cfb22922-3508-4142-9cee-ed29b06655d3,68,Female,106261,47,66-75,Low Income - Low Spending,0
@@ -9274,12 +9274,12 @@ fce03f97-a498-478d-b270-0888ec76549d,66,Male,117768,49,66-75,High Income - Low S
 947f329a-ed41-48aa-9865-28c6bfcc4452,29,Male,73030,86,26-35,Low Income - High Spending,0
 4998f72b-faeb-4cb1-a923-26b04b66de85,56,Male,60266,59,56-65,Low Income - High Spending,3
 35c18858-ee6a-44f4-a476-765b36014214,45,Male,58690,42,36-45,Low Income - Low Spending,3
-8138a3df-ae6d-4357-8d3d-90bc71d70b37,18,Female,93831,67,,Low Income - High Spending,0
+8138a3df-ae6d-4357-8d3d-90bc71d70b37,18,Female,93831,67,18-25,Low Income - High Spending,0
 8c3f3528-1415-4602-889f-c4619cb7b685,74,Male,149404,31,66-75,High Income - Low Spending,2
 fd233c4b-73dc-4ff9-a8f6-ce8ee2b0cf18,19,Female,93812,91,18-25,Low Income - High Spending,0
 afcef2b0-b0bb-477b-8212-600a19922082,47,Female,22917,33,46-55,Low Income - Low Spending,3
 efdd7063-e1ef-4e06-b92b-64d8264e469b,70,Male,91180,97,66-75,Low Income - High Spending,0
-e3dff245-ae35-443e-8653-fb771d685630,18,Male,116357,36,,High Income - Low Spending,2
+e3dff245-ae35-443e-8653-fb771d685630,18,Male,116357,36,18-25,High Income - Low Spending,2
 908c2540-9ed8-4ecb-9f88-51f7eb6f1bf7,44,Male,89390,93,36-45,Low Income - High Spending,0
 8c21b64a-6cf3-4fd1-bd4d-0b20c7458959,66,Male,83642,49,66-75,Low Income - Low Spending,0
 04c6e0d5-6548-4fd9-a70d-2407ee4bc978,25,Female,131052,22,18-25,High Income - Low Spending,2
@@ -9499,7 +9499,7 @@ ec1fee36-fe86-4bdb-9403-bd15bea4f96c,71,Male,34610,20,66-75,Low Income - Low Spe
 6f2fd281-eb91-4109-94c6-931544698d00,82,Male,173473,92,76-90,High Income - High Spending,1
 f6d6572e-098d-4ad7-85aa-99036f2714b2,21,Male,143193,14,18-25,High Income - Low Spending,2
 c61f2429-61a4-4281-8502-204597c3620b,64,Male,38031,78,56-65,Low Income - High Spending,3
-51771a3f-3f94-425b-b0d1-afbbd27211ee,18,Female,98403,21,,Low Income - Low Spending,0
+51771a3f-3f94-425b-b0d1-afbbd27211ee,18,Female,98403,21,18-25,Low Income - Low Spending,0
 ff6bfb40-4a13-40e4-a2f2-e296ce1cad8d,69,Male,157059,42,66-75,High Income - Low Spending,1
 79c07c94-9725-4811-b027-77ee9ce44093,59,Male,95554,77,56-65,Low Income - High Spending,0
 43407786-c5b0-4496-822b-2295706654e4,76,Male,114313,54,76-90,High Income - High Spending,2
@@ -9525,7 +9525,7 @@ feb5ea86-a233-481c-9a8c-3854f823d287,82,Female,75432,47,76-90,Low Income - Low S
 b63330ed-abd8-4a02-8b00-cc9d71e6b051,78,Female,64046,36,76-90,Low Income - Low Spending,3
 b2a17263-0d58-42a7-bc2e-0240fe0ce5c7,58,Female,69015,3,56-65,Low Income - Low Spending,0
 e9647628-6c83-4a16-afa1-58e533a3c956,25,Female,53087,19,18-25,Low Income - Low Spending,3
-09d2b7d8-2607-46fc-a1c7-7cc6fb44a384,18,Male,103070,48,,Low Income - Low Spending,0
+09d2b7d8-2607-46fc-a1c7-7cc6fb44a384,18,Male,103070,48,18-25,Low Income - Low Spending,0
 029b91a2-deaf-4ff1-b4d6-ae76affb5434,44,Female,53827,7,36-45,Low Income - Low Spending,3
 9f047332-6867-47c7-a5fe-e93b863fde20,70,Male,134442,55,66-75,High Income - High Spending,2
 8ec6e412-d172-427c-860c-b86507c2c007,86,Female,154075,4,76-90,High Income - Low Spending,2
@@ -9622,7 +9622,7 @@ d0c8ec40-9fff-417d-a0c2-0fc723ddaa61,35,Male,21589,35,26-35,Low Income - Low Spe
 5c736689-1ac4-42fc-8c71-aec08a5956bc,69,Male,131998,45,66-75,High Income - Low Spending,2
 ac0d2dbe-f2eb-46d9-9d54-2254425662bf,68,Male,182635,39,66-75,High Income - Low Spending,1
 5e4a29cd-080b-4e58-9924-4bec94ef7d61,62,Male,179491,21,56-65,High Income - Low Spending,1
-e2b4530c-735e-4a35-ad37-467e09795353,18,Male,185527,100,,High Income - High Spending,1
+e2b4530c-735e-4a35-ad37-467e09795353,18,Male,185527,100,18-25,High Income - High Spending,1
 bfbde377-ca65-4102-a5b6-f642cee66c0b,63,Male,141200,88,56-65,High Income - High Spending,2
 fd0cc77c-1858-481f-8f9d-e3f277584063,29,Female,55737,85,26-35,Low Income - High Spending,3
 7eb8521c-582a-4a19-a55f-4a3cee283ce2,37,Male,113179,35,36-45,High Income - Low Spending,2
@@ -9817,11 +9817,11 @@ c2025f74-7105-424c-9650-2be2e277eb9b,50,Female,178650,10,46-55,High Income - Low
 8aff3ed4-9c25-499c-9a18-c957e9d325b2,42,Female,191493,95,36-45,High Income - High Spending,1
 0d75c8c4-ce95-43f2-b460-25d90a83057d,23,Female,80052,25,18-25,Low Income - Low Spending,0
 3319aa6b-54ed-40f0-bf10-28d913ae70c1,83,Male,53941,94,76-90,Low Income - High Spending,3
-794e4fd4-e2fd-40cd-92f2-2e89a3dfb0a8,18,Male,34192,57,,Low Income - High Spending,3
+794e4fd4-e2fd-40cd-92f2-2e89a3dfb0a8,18,Male,34192,57,18-25,Low Income - High Spending,3
 d92f767a-48c9-4fa5-83ab-e3d1c9b48806,34,Female,143044,69,26-35,High Income - High Spending,2
 9ea7c70b-4920-4a1e-a261-52e4b04fd3c5,64,Female,107598,47,56-65,Low Income - Low Spending,0
 7177bda7-a159-407d-9c4a-e09fe25e006c,79,Female,44678,94,76-90,Low Income - High Spending,3
-c5220954-d475-41a7-aaa4-732767228cec,18,Male,197471,39,,High Income - Low Spending,1
+c5220954-d475-41a7-aaa4-732767228cec,18,Male,197471,39,18-25,High Income - Low Spending,1
 449187c6-6ea3-48c2-a1ab-bb26e42d72e5,88,Male,157828,10,76-90,High Income - Low Spending,1
 100312c7-7ddf-4c67-b58d-ec0200a10df3,34,Male,46206,77,26-35,Low Income - High Spending,3
 f2eb06f1-95de-44cd-9489-dba5fe5c0c76,19,Male,176774,21,18-25,High Income - Low Spending,1
@@ -9853,13 +9853,13 @@ d0905fc4-c5a2-434d-ae91-d6e5573b32e1,70,Male,186236,49,66-75,High Income - Low S
 7efee499-570c-4c8c-a3e2-eebf62aecbd1,20,Male,85807,95,18-25,Low Income - High Spending,0
 8ea16008-b88b-4c1b-ad4d-a0eacd247b9d,37,Female,191250,88,36-45,High Income - High Spending,1
 400e7e6a-baa0-4895-aa46-9d170c91a6c3,48,Male,83498,70,46-55,Low Income - High Spending,0
-b734ffae-8fb3-4e8f-bb88-09660956c046,18,Male,90740,75,,Low Income - High Spending,0
+b734ffae-8fb3-4e8f-bb88-09660956c046,18,Male,90740,75,18-25,Low Income - High Spending,0
 306af2e9-b7bf-43e2-b940-70af35daa47c,37,Male,48146,8,36-45,Low Income - Low Spending,3
 f6d6c1ee-2454-4129-855b-21b5c711e602,38,Male,92025,25,36-45,Low Income - Low Spending,0
 fab46bca-1f33-4918-ac7a-619a55229f36,33,Female,175785,30,26-35,High Income - Low Spending,1
 217ef047-ed27-4278-94ec-2d5207b64d7f,31,Female,102290,57,26-35,Low Income - High Spending,0
 b5a8b6d3-b26b-41c1-97fb-6d102d8edd74,63,Female,147609,88,56-65,High Income - High Spending,2
-720808de-0a29-4135-bde1-180be4d6207e,18,Male,194614,2,,High Income - Low Spending,1
+720808de-0a29-4135-bde1-180be4d6207e,18,Male,194614,2,18-25,High Income - Low Spending,1
 30c0dd1b-63cf-452f-8eb7-2d56b0b2cb79,52,Female,58373,67,46-55,Low Income - High Spending,3
 d05f4a78-b858-471d-a8ba-571d4db3363d,65,Male,65699,17,56-65,Low Income - Low Spending,0
 ff658e9a-2f13-4599-a632-f9fe12817e75,27,Male,73966,65,26-35,Low Income - High Spending,0
@@ -10350,19 +10350,19 @@ f4d24f61-75d5-45f6-99d6-041660fefff0,88,Male,176496,48,76-90,High Income - Low S
 1858818a-6914-4b63-a25e-7aa0a96f1cb6,66,Female,187933,47,66-75,High Income - Low Spending,1
 f2ac297c-6cfe-4b81-8b65-0ef8d2014202,59,Female,23985,11,56-65,Low Income - Low Spending,3
 e7a8be68-b516-4d02-94b3-6905595ac4a2,69,Male,71899,91,66-75,Low Income - High Spending,0
-868b9426-23bd-4c88-9601-9df58666793e,18,Female,57598,75,,Low Income - High Spending,3
+868b9426-23bd-4c88-9601-9df58666793e,18,Female,57598,75,18-25,Low Income - High Spending,3
 c8f1ba19-5b6b-49be-a2f4-291898b15d38,44,Female,187771,76,36-45,High Income - High Spending,1
 f436cc35-b18f-4178-84a0-045fcd84c0ff,24,Male,191252,92,18-25,High Income - High Spending,1
-2b692e6c-18cd-4931-ae4e-f232f9e87beb,18,Male,81589,94,,Low Income - High Spending,0
+2b692e6c-18cd-4931-ae4e-f232f9e87beb,18,Male,81589,94,18-25,Low Income - High Spending,0
 4431272e-9775-461d-9e4c-4cc9e40da0cd,83,Female,132385,4,76-90,High Income - Low Spending,2
 a8cf8467-fb27-4032-a443-04ed775d0224,89,Female,158465,83,76-90,High Income - High Spending,1
 fab96e4d-a5d4-42d1-bd27-8f414caeaed8,58,Female,85858,5,56-65,Low Income - Low Spending,0
 d29bc4f3-95fd-45a7-8e4d-64f9c916d7aa,87,Male,72279,7,76-90,Low Income - Low Spending,0
-6da8a62c-72bb-4f44-b0fb-7889f7469883,18,Female,175403,81,,High Income - High Spending,1
+6da8a62c-72bb-4f44-b0fb-7889f7469883,18,Female,175403,81,18-25,High Income - High Spending,1
 19cc5f8e-71c7-4228-b5a0-5132a151a511,75,Male,143295,66,66-75,High Income - High Spending,2
 4436f690-e50d-462e-aceb-d324ed3354dd,33,Female,81113,5,26-35,Low Income - Low Spending,0
 afbbe90e-2fc0-422b-8665-3c670dfc1a8c,25,Male,104329,82,18-25,Low Income - High Spending,0
-7fb2306d-82ab-4cf5-9bec-c7927a23d2d4,18,Male,98953,81,,Low Income - High Spending,0
+7fb2306d-82ab-4cf5-9bec-c7927a23d2d4,18,Male,98953,81,18-25,Low Income - High Spending,0
 664d7753-e8be-4401-a007-77cbdcae5258,39,Female,116118,33,36-45,High Income - Low Spending,2
 5af40480-6a7f-43a4-a935-357a16211010,90,Female,161435,21,76-90,High Income - Low Spending,1
 d3d49e84-7342-4e95-99ec-19ab30cfa61b,30,Female,154879,22,26-35,High Income - Low Spending,2
@@ -10421,7 +10421,7 @@ e9aad1db-be15-46c3-869a-c0c86efad42f,27,Female,168979,95,26-35,High Income - Hig
 0d3ed704-e443-45a0-a47c-7244d6e68f4b,37,Female,143521,92,36-45,High Income - High Spending,2
 3606631d-6e6a-4283-872c-51159a8fafb4,45,Female,85127,56,36-45,Low Income - High Spending,0
 4162f851-21bf-4e1f-8dab-dc669e6c3597,69,Male,190077,34,66-75,High Income - Low Spending,1
-14cd3199-2244-4810-81c1-64702f3f016b,18,Male,183449,40,,High Income - Low Spending,1
+14cd3199-2244-4810-81c1-64702f3f016b,18,Male,183449,40,18-25,High Income - Low Spending,1
 2838b83e-256f-4d76-95cd-9a2068c4ff33,61,Female,38144,18,56-65,Low Income - Low Spending,3
 015b79eb-abb3-4501-a21b-b310abc0281e,88,Female,136044,46,76-90,High Income - Low Spending,2
 dd309d59-a2bb-4c82-baad-719774f81ec0,51,Female,192726,1,46-55,High Income - Low Spending,1
@@ -10521,7 +10521,7 @@ de091f91-c759-4809-b5b6-7fb12f88620a,88,Male,158945,7,76-90,High Income - Low Sp
 2e8973c7-70d9-4546-9b91-8c4cbb589251,39,Female,193187,35,36-45,High Income - Low Spending,1
 4e71d413-ca25-42d0-bb40-eb6cf9c6996b,40,Female,194962,46,36-45,High Income - Low Spending,1
 2fd1661d-113e-4d5a-95c3-1d5044bd88fc,39,Female,105090,62,36-45,Low Income - High Spending,0
-0ec063a5-34ee-451b-9405-b0561636aadd,18,Female,24205,56,,Low Income - High Spending,3
+0ec063a5-34ee-451b-9405-b0561636aadd,18,Female,24205,56,18-25,Low Income - High Spending,3
 e6652043-8d1d-412f-902b-46215009c715,53,Male,150477,91,46-55,High Income - High Spending,2
 d0469c8a-3a7b-459d-a4a7-ae3cf5fd0e6d,86,Female,180949,60,76-90,High Income - High Spending,1
 8b8793af-4820-4db2-b976-4e66223d38c6,46,Female,92405,35,46-55,Low Income - Low Spending,0
@@ -10596,7 +10596,7 @@ b00ee4c6-d37c-439a-98a8-c98c1e788565,88,Female,177007,69,76-90,High Income - Hig
 d336fbc2-824f-4b5f-97fe-e386e937cd0b,27,Male,114316,99,26-35,High Income - High Spending,2
 7133ff70-3a3e-4727-80a8-4853d1c2c3ba,57,Male,96090,51,56-65,Low Income - High Spending,0
 7f79175b-4a54-4363-823f-a5e9101de6d8,82,Female,198992,47,76-90,High Income - Low Spending,1
-5bd36e27-29c8-425b-8f3c-ca8bde719cbf,18,Male,102255,32,,Low Income - Low Spending,0
+5bd36e27-29c8-425b-8f3c-ca8bde719cbf,18,Male,102255,32,18-25,Low Income - Low Spending,0
 cbd1dd01-631c-4338-a9a0-01af551814ce,47,Female,35812,42,46-55,Low Income - Low Spending,3
 34b8df8e-b0a8-4a3b-9570-e7394294daca,49,Female,117304,44,46-55,High Income - Low Spending,2
 0063dca3-394d-4f2c-96ee-50a27efa5c4b,27,Male,44134,42,26-35,Low Income - Low Spending,3
@@ -10614,10 +10614,10 @@ cb804aa8-dc4c-4d9e-8594-fe20d4bf5a4c,23,Male,73957,77,18-25,Low Income - High Sp
 e841813a-1638-485f-a935-e2cc41430ffa,81,Female,54440,64,76-90,Low Income - High Spending,3
 2c06cddb-22cb-4334-be91-f6f8a4d2b894,76,Female,133327,7,76-90,High Income - Low Spending,2
 7b59d14a-f994-4b4f-88b9-361951b63cf7,41,Female,190459,8,36-45,High Income - Low Spending,1
-89c22d42-5018-421b-af34-36085dd6d77b,18,Male,59534,35,,Low Income - Low Spending,3
+89c22d42-5018-421b-af34-36085dd6d77b,18,Male,59534,35,18-25,Low Income - Low Spending,3
 885f9586-7c4f-4e07-9449-53ce2bece53d,29,Female,137768,21,26-35,High Income - Low Spending,2
 0481a27d-9738-4b29-9f74-0d9f3e472b42,83,Female,159213,28,76-90,High Income - Low Spending,1
-ec3c384f-51e1-4890-aecc-82ccd291fe89,18,Male,167655,74,,High Income - High Spending,1
+ec3c384f-51e1-4890-aecc-82ccd291fe89,18,Male,167655,74,18-25,High Income - High Spending,1
 b243a5d7-4587-45db-abbd-891e03d8c879,62,Female,70113,23,56-65,Low Income - Low Spending,0
 00e90496-c43c-40ba-966f-aa0e137097fd,88,Male,31879,20,76-90,Low Income - Low Spending,3
 25ee77d6-c4d3-4a60-94bf-4aaa0717e3e3,22,Female,151633,35,18-25,High Income - Low Spending,2
@@ -10663,7 +10663,7 @@ ceee0846-4fe1-4539-bf58-1aefa6f4b774,34,Male,123188,27,26-35,High Income - Low S
 51fbf09a-aac1-48b0-9aed-5b0ab8c1ac86,46,Male,29940,89,46-55,Low Income - High Spending,3
 86218084-27c2-47f0-b5e8-977a28fb2ba3,44,Male,51329,29,36-45,Low Income - Low Spending,3
 7fe8a871-7796-43f1-9ab4-b5de2105af68,63,Female,116008,40,56-65,High Income - Low Spending,2
-42ee5dc0-ba7e-43da-963a-e5d2ab51bd4d,18,Male,137138,10,,High Income - Low Spending,2
+42ee5dc0-ba7e-43da-963a-e5d2ab51bd4d,18,Male,137138,10,18-25,High Income - Low Spending,2
 59fe48e6-5177-4ab5-950e-ab09c6067d82,28,Female,147133,24,26-35,High Income - Low Spending,2
 c2e28eee-d0a0-46dd-994b-bb9eb7de8b4b,45,Male,166202,72,36-45,High Income - High Spending,1
 c0000aa0-fc8a-440f-9677-e9a3745a8956,69,Female,198207,77,66-75,High Income - High Spending,1
@@ -10740,7 +10740,7 @@ b3b53931-60e5-49bb-b567-55df49549d04,89,Male,113843,64,76-90,High Income - High 
 ec5dc08d-272d-4a84-bb41-b988f258d115,76,Female,124564,50,76-90,High Income - Low Spending,2
 f04cafbb-a191-45a5-a548-2543dd64f012,47,Female,154500,91,46-55,High Income - High Spending,2
 ce480ee6-5c46-4f31-9dad-49fb5219b107,73,Female,150744,51,66-75,High Income - High Spending,2
-40264e1a-5c91-4005-82e2-bf990fd95d05,18,Male,99389,37,,Low Income - Low Spending,0
+40264e1a-5c91-4005-82e2-bf990fd95d05,18,Male,99389,37,18-25,Low Income - Low Spending,0
 c3701c84-d8e8-4ce0-b9ab-bb2ade37e9dc,82,Female,48214,87,76-90,Low Income - High Spending,3
 502b064d-0832-4357-8dcd-96d0c19e716c,83,Male,25107,26,76-90,Low Income - Low Spending,3
 f7625c89-c885-4b44-a154-1a79df1a684e,42,Female,29704,39,36-45,Low Income - Low Spending,3
@@ -10786,7 +10786,7 @@ c78073d6-15ca-491e-b60e-2bd033969f73,31,Male,185340,47,26-35,High Income - Low S
 ee787db4-6312-4e93-ad8b-bf7a95761604,44,Female,30149,77,36-45,Low Income - High Spending,3
 41680235-8381-48c7-a3f8-d6fa3a6e9564,82,Female,47598,61,76-90,Low Income - High Spending,3
 ab965189-9900-466f-8c9a-c4b5da79c2cf,24,Male,79344,61,18-25,Low Income - High Spending,0
-40b2b73d-0b74-455f-8151-24e4368e589e,18,Female,37907,22,,Low Income - Low Spending,3
+40b2b73d-0b74-455f-8151-24e4368e589e,18,Female,37907,22,18-25,Low Income - Low Spending,3
 56d81a99-954a-400d-908e-7093c1238ddd,70,Female,157468,60,66-75,High Income - High Spending,1
 71ef4af3-7003-4074-94e0-beb6d021ccee,51,Male,54262,59,46-55,Low Income - High Spending,3
 29699e7d-199c-4dc9-8a0b-7f9a8735a844,44,Female,137373,72,36-45,High Income - High Spending,2
@@ -10989,7 +10989,7 @@ ce829e51-7364-40b4-9c13-05e18cae20cc,20,Male,160391,90,18-25,High Income - High 
 0135d7ce-a83a-46ce-aa3c-b3bcad8f4d52,45,Female,130702,36,36-45,High Income - Low Spending,2
 8850d572-99b7-4631-a526-eaa1be13e4e9,31,Female,115764,90,26-35,High Income - High Spending,2
 2c3c0367-055f-40b4-9417-9b52481251b4,63,Female,103460,82,56-65,Low Income - High Spending,0
-825c5e5b-c4dd-449e-8b74-d73eeec709ec,18,Male,138448,20,,High Income - Low Spending,2
+825c5e5b-c4dd-449e-8b74-d73eeec709ec,18,Male,138448,20,18-25,High Income - Low Spending,2
 7d280326-5790-4edd-b89a-dee9f03a0ee9,46,Male,30836,3,46-55,Low Income - Low Spending,3
 e3110387-6716-41d1-8fdf-9239f57bca56,22,Male,166547,94,18-25,High Income - High Spending,1
 f32fac1b-236f-4a75-bd78-aa773e8febc0,47,Female,33967,35,46-55,Low Income - Low Spending,3
@@ -11000,7 +11000,7 @@ fb2fb798-1963-401e-afe1-47d5503f99e8,47,Female,132561,38,46-55,High Income - Low
 1f985931-8dbd-49db-8bb1-12411c049f24,66,Male,138698,18,66-75,High Income - Low Spending,2
 296f1fac-9cee-4526-ad63-3ec755ca74b1,72,Female,71786,89,66-75,Low Income - High Spending,0
 9997b07f-e684-4767-b54c-dd4669bb454f,71,Male,117346,70,66-75,High Income - High Spending,2
-7f5cd612-2d3d-4faf-b81a-97f3ea00933b,18,Female,42160,41,,Low Income - Low Spending,3
+7f5cd612-2d3d-4faf-b81a-97f3ea00933b,18,Female,42160,41,18-25,Low Income - Low Spending,3
 04322102-f666-4240-a640-5e767986acc7,22,Male,198942,8,18-25,High Income - Low Spending,1
 ae2209cd-3ea2-4d73-8c47-d38f4b409c54,86,Female,77676,56,76-90,Low Income - High Spending,0
 1398b3e7-4b58-4a2f-9fb8-22523e013624,49,Male,47140,37,46-55,Low Income - Low Spending,3
@@ -11029,7 +11029,7 @@ ba856701-959e-40dd-b0fb-370586273529,45,Female,95151,60,36-45,Low Income - High 
 aaa1ecde-8daa-4fc0-9a60-13162c718a44,31,Male,175692,65,26-35,High Income - High Spending,1
 4e4338ca-09e1-484c-a181-4a716a46b9b7,36,Female,54849,54,36-45,Low Income - High Spending,3
 3d009ff4-2c55-41f0-b605-88aea4a6570f,71,Female,182239,11,66-75,High Income - Low Spending,1
-54563154-bdab-4773-b0d5-78b17277c99e,18,Female,186343,39,,High Income - Low Spending,1
+54563154-bdab-4773-b0d5-78b17277c99e,18,Female,186343,39,18-25,High Income - Low Spending,1
 cae9b7ea-2465-4ee3-a5d4-02c53a0a7f4b,90,Female,150565,76,76-90,High Income - High Spending,2
 3a939f80-1791-4a6d-80b2-b9f6636fa42c,36,Female,33819,15,36-45,Low Income - Low Spending,3
 28171f5b-e1e9-44b6-8109-a7c11e36da75,28,Male,110703,97,26-35,High Income - High Spending,0
@@ -11126,7 +11126,7 @@ b133619a-e07f-4378-9c37-91329e84547e,45,Male,115337,77,36-45,High Income - High 
 5c399640-869a-4103-9339-e1786a6b9fc6,64,Female,166094,47,56-65,High Income - Low Spending,1
 614bda00-1fd8-43ad-8668-c426d5e4706d,87,Female,121894,18,76-90,High Income - Low Spending,2
 a027e4fb-0005-4b6b-b11f-24f4e4b320ab,29,Female,116130,85,26-35,High Income - High Spending,2
-07a6d922-80ff-4589-a55f-dc2292f92822,18,Female,120315,70,,High Income - High Spending,2
+07a6d922-80ff-4589-a55f-dc2292f92822,18,Female,120315,70,18-25,High Income - High Spending,2
 3a8c0dcf-7279-4409-aaf0-4a141e67e646,42,Male,91856,84,36-45,Low Income - High Spending,0
 06cfb9bf-dc39-47b6-8860-6f46520cc211,87,Female,27235,12,76-90,Low Income - Low Spending,3
 1e489c07-965a-4790-bdc5-7ebd973be901,75,Male,32847,11,66-75,Low Income - Low Spending,3
@@ -11283,7 +11283,7 @@ affbe35b-e881-48a0-aa8c-b26a0f49c6ab,41,Male,133302,33,36-45,High Income - Low S
 1484e2c5-83f6-46e5-a41b-ca8383f24641,64,Male,84947,61,56-65,Low Income - High Spending,0
 ea28319e-eff9-4c17-9a8b-93bbd7126a5f,56,Female,140395,88,56-65,High Income - High Spending,2
 6d62c44f-d57c-40b7-b9fc-01573ee023f4,54,Male,46618,3,46-55,Low Income - Low Spending,3
-5da50a0c-4578-4942-80e4-7819616233a6,18,Female,155057,55,,High Income - High Spending,2
+5da50a0c-4578-4942-80e4-7819616233a6,18,Female,155057,55,18-25,High Income - High Spending,2
 b26de143-f0e5-4ef4-aa3f-67cba90fdf6f,55,Female,70451,46,46-55,Low Income - Low Spending,0
 78812154-d615-4a94-845c-964af2cea4ed,30,Male,115096,47,26-35,High Income - Low Spending,2
 850c6ea0-e51e-480d-8824-8aa02f802009,33,Male,47307,52,26-35,Low Income - High Spending,3
@@ -11557,7 +11557,7 @@ f68d0d95-adfe-4df0-be28-b8805d669aac,20,Female,43212,64,18-25,Low Income - High 
 a622a877-f065-46b4-bb6c-490a4e8e7d7b,90,Male,138681,19,76-90,High Income - Low Spending,2
 ad6bbbd4-0fa1-4b3b-9a19-35439df2a646,39,Female,32219,50,36-45,Low Income - Low Spending,3
 0b787942-2c5d-4928-a9c4-88f83f4e2184,28,Male,101305,91,26-35,Low Income - High Spending,0
-3899a5c3-4f43-43a7-a880-7a349c0ad430,18,Male,84902,24,,Low Income - Low Spending,0
+3899a5c3-4f43-43a7-a880-7a349c0ad430,18,Male,84902,24,18-25,Low Income - Low Spending,0
 8bf35be7-e1fe-494f-ab2a-1c8b75c7cd40,33,Male,180309,20,26-35,High Income - Low Spending,1
 74c2899a-e548-4bf2-b540-23ce9a1397f1,26,Female,122490,90,26-35,High Income - High Spending,2
 254c57fd-e4bc-4abc-873b-30660154f334,77,Male,43200,15,76-90,Low Income - Low Spending,3
@@ -11709,7 +11709,7 @@ ac6ce9c4-1361-45c8-9d95-098fce5e97c1,59,Male,134608,86,56-65,High Income - High 
 91412d84-bacb-42f3-862c-f45172b97171,62,Female,68011,61,56-65,Low Income - High Spending,0
 8080103b-2be9-4b4f-9a6f-ae4b3394d5ef,60,Male,148327,83,56-65,High Income - High Spending,2
 4b6ed01e-151a-4a39-8486-ec84d63af67a,19,Female,160984,38,18-25,High Income - Low Spending,1
-a9823489-bf2c-4591-a4f1-a4acaecabb20,18,Female,53853,44,,Low Income - Low Spending,3
+a9823489-bf2c-4591-a4f1-a4acaecabb20,18,Female,53853,44,18-25,Low Income - Low Spending,3
 ce1f47e4-d36d-4b24-8b9b-0f85ca2e2439,54,Male,83531,1,46-55,Low Income - Low Spending,0
 8f907307-8398-4556-b68e-fb591f4c0670,36,Male,158956,73,36-45,High Income - High Spending,1
 f121db42-9034-4746-b3f8-1bc42b0d4933,79,Male,48032,67,76-90,Low Income - High Spending,3
@@ -11799,7 +11799,7 @@ fac33535-cb9a-4c79-97a4-809c296b958b,41,Male,59599,72,36-45,Low Income - High Sp
 d8e447d8-9b9b-4c87-b47f-71e2ce1d5872,46,Female,120954,41,46-55,High Income - Low Spending,2
 0161e53e-d18f-4f12-a8fd-cd698850c230,46,Male,117189,36,46-55,High Income - Low Spending,2
 1cadd5e6-ef33-4ba0-9346-a9a11121d06e,64,Female,26416,12,56-65,Low Income - Low Spending,3
-3ef496e6-b54c-4cba-858e-ec89a0d87406,18,Female,57921,37,,Low Income - Low Spending,3
+3ef496e6-b54c-4cba-858e-ec89a0d87406,18,Female,57921,37,18-25,Low Income - Low Spending,3
 c78f765b-94e1-418c-abcb-d45ff5cbf5f5,31,Male,36590,68,26-35,Low Income - High Spending,3
 56716490-94c2-465c-9842-ad31756491eb,75,Female,104186,59,66-75,Low Income - High Spending,0
 1f66ece5-baac-465e-adc5-f7b295c3124d,30,Female,158557,95,26-35,High Income - High Spending,1
@@ -11925,7 +11925,7 @@ c6159bb2-fd63-4dc4-b403-b553ee6ca91e,33,Female,22449,43,26-35,Low Income - Low S
 a2b9ea96-9580-4ba3-9335-5e16394e949b,54,Female,101126,17,46-55,Low Income - Low Spending,0
 7edd97a0-c948-47f7-a972-9540acb6b82d,63,Male,74870,95,56-65,Low Income - High Spending,0
 b1976861-c5d7-4ce4-97a2-20e644e126cd,88,Female,185467,32,76-90,High Income - Low Spending,1
-8bf5df5c-e2cc-4a8a-b400-8892610dd216,18,Female,115540,92,,High Income - High Spending,2
+8bf5df5c-e2cc-4a8a-b400-8892610dd216,18,Female,115540,92,18-25,High Income - High Spending,2
 0acce9be-0703-4526-b59c-afdd5b1faa22,37,Female,90674,2,36-45,Low Income - Low Spending,0
 298309e3-738d-4ea0-b7cb-a1c2719964a5,32,Female,103827,71,26-35,Low Income - High Spending,0
 946b9637-6fb7-4563-9876-91f7bba522a9,56,Female,87453,32,56-65,Low Income - Low Spending,0
@@ -11989,7 +11989,7 @@ c3ee857b-178a-406f-bb91-fc1c0b21ac42,90,Male,143895,96,76-90,High Income - High 
 234906e4-6eb2-46c6-8c19-a9e64b98694b,30,Female,58399,63,26-35,Low Income - High Spending,3
 4ec878c1-489f-46a3-97c0-6b08d2705386,47,Female,22657,65,46-55,Low Income - High Spending,3
 705efa76-e99a-4999-a971-e698e920a4fa,21,Male,49320,75,18-25,Low Income - High Spending,3
-be6e79ed-e5fe-48cb-92c3-4a672099c634,18,Male,190705,91,,High Income - High Spending,1
+be6e79ed-e5fe-48cb-92c3-4a672099c634,18,Male,190705,91,18-25,High Income - High Spending,1
 7e6809d7-2bf6-466e-aef1-73ec79e1dbe0,80,Male,96118,21,76-90,Low Income - Low Spending,0
 a559c05e-12a2-4a22-84d3-b0fb3550c1f9,22,Female,72925,52,18-25,Low Income - High Spending,0
 8e7e6cfe-ab8e-4837-89e9-452578b0f26f,32,Male,149132,4,26-35,High Income - Low Spending,2
@@ -12066,7 +12066,7 @@ ad9aa8cc-016d-4c7c-b218-bb103d7bb9f4,65,Female,49263,83,56-65,Low Income - High 
 aea58cbc-3ba7-4704-a601-15e527c11e5d,30,Female,158705,91,26-35,High Income - High Spending,1
 f27ca2f4-4430-4f05-9b45-11fda2df1ea3,37,Male,104728,44,36-45,Low Income - Low Spending,0
 a8316482-8eeb-4cc8-9a8d-d37c733fd5c8,64,Female,168624,37,56-65,High Income - Low Spending,1
-8d399c2d-a307-431a-a174-21adafcfbe8c,18,Female,157898,84,,High Income - High Spending,1
+8d399c2d-a307-431a-a174-21adafcfbe8c,18,Female,157898,84,18-25,High Income - High Spending,1
 5a9a7766-50d4-475d-b27c-16328aeabe24,22,Male,183378,65,18-25,High Income - High Spending,1
 48b892e6-3a8b-476f-bfb5-c85af89f8023,26,Male,135506,78,26-35,High Income - High Spending,2
 7dba760c-2391-4a44-9f74-d3e11bc2ba74,82,Male,37381,45,76-90,Low Income - Low Spending,3
@@ -12096,9 +12096,9 @@ d8c1db39-04f1-4481-bb22-d79000503a10,28,Male,31441,52,26-35,Low Income - High Sp
 731c380d-e733-4391-b944-116eed934ee8,22,Male,104678,66,18-25,Low Income - High Spending,0
 0e63af47-ffac-4f72-918c-222680bcd592,29,Male,28575,35,26-35,Low Income - Low Spending,3
 82862865-8451-4599-9cf9-a9d70fbb7a7e,36,Female,127359,57,36-45,High Income - High Spending,2
-2f891d49-826b-49ae-97b0-5d54e018eab2,18,Female,167578,52,,High Income - High Spending,1
+2f891d49-826b-49ae-97b0-5d54e018eab2,18,Female,167578,52,18-25,High Income - High Spending,1
 a066ac48-ed8b-4fb5-a3f4-97453f3d6724,64,Male,94168,18,56-65,Low Income - Low Spending,0
-9a925b5a-b4cb-452d-af4d-b32cc1ebda48,18,Male,186757,41,,High Income - Low Spending,1
+9a925b5a-b4cb-452d-af4d-b32cc1ebda48,18,Male,186757,41,18-25,High Income - Low Spending,1
 3b1f0a9c-bfb2-4185-bf8d-68126e910201,68,Male,155387,28,66-75,High Income - Low Spending,2
 2e2c8550-ccca-4d61-a980-9edbc38207bb,75,Female,28949,71,66-75,Low Income - High Spending,3
 3d1d25d2-3012-49d1-85c9-a5e1710204e9,78,Male,45548,2,76-90,Low Income - Low Spending,3
@@ -12106,7 +12106,7 @@ a066ac48-ed8b-4fb5-a3f4-97453f3d6724,64,Male,94168,18,56-65,Low Income - Low Spe
 3f2435a0-f78d-45c2-b7ec-9f4039ce36f1,60,Female,46869,83,56-65,Low Income - High Spending,3
 df280ed5-7e5b-46ef-b634-1c968e8dc563,89,Female,183174,85,76-90,High Income - High Spending,1
 1826648a-b827-4c53-bff0-94351a3f8e66,29,Male,152347,42,26-35,High Income - Low Spending,2
-99bd2264-b263-4486-b12d-49b1d0a68c63,18,Male,156296,65,,High Income - High Spending,1
+99bd2264-b263-4486-b12d-49b1d0a68c63,18,Male,156296,65,18-25,High Income - High Spending,1
 f8bc74e2-2c20-48f6-9d67-f1226c94c8b9,42,Male,45783,39,36-45,Low Income - Low Spending,3
 37a251c1-1f9a-447a-9c28-4c2729183708,43,Female,36272,1,36-45,Low Income - Low Spending,3
 72a327a0-a4a1-4e1c-8ce0-cd5874065cb1,46,Female,75011,52,46-55,Low Income - High Spending,0
@@ -12214,7 +12214,7 @@ d690acb6-b2af-428c-9537-7ef89b394f6b,70,Male,55828,99,66-75,Low Income - High Sp
 604b8134-09dd-41a1-b506-a2124724607f,59,Male,40455,29,56-65,Low Income - Low Spending,3
 dbf90b1d-c08c-4d99-86f2-0a0f2420870d,31,Male,78271,33,26-35,Low Income - Low Spending,0
 1b83b448-6e16-4cf1-a12e-5ae10df8457d,69,Male,171739,99,66-75,High Income - High Spending,1
-f83ed133-8a15-49ce-971b-83f26f4c2aa0,18,Female,62498,96,,Low Income - High Spending,3
+f83ed133-8a15-49ce-971b-83f26f4c2aa0,18,Female,62498,96,18-25,Low Income - High Spending,3
 b4a16a00-61fd-475f-b645-da6f90a6c802,85,Female,144483,3,76-90,High Income - Low Spending,2
 95c658e3-0898-42b5-97f6-2f06eceb4e2e,52,Female,128879,63,46-55,High Income - High Spending,2
 eda307c0-9502-491f-9274-639777491adc,61,Female,35388,25,56-65,Low Income - Low Spending,3
@@ -12369,7 +12369,7 @@ f3baff15-402f-422c-9694-b75b153ea261,61,Female,86860,75,56-65,Low Income - High 
 826da88a-3f08-4959-9963-60e7c131d2d3,43,Female,113067,11,36-45,High Income - Low Spending,2
 7fb20b76-0393-40fd-9256-b1458531d03c,83,Female,101057,51,76-90,Low Income - High Spending,0
 4acae763-8068-46e5-bc75-9e21f0fbc85c,85,Female,64006,46,76-90,Low Income - Low Spending,3
-ce4bd485-c23b-4ffb-957c-94ba21ff74e8,18,Female,186879,69,,High Income - High Spending,1
+ce4bd485-c23b-4ffb-957c-94ba21ff74e8,18,Female,186879,69,18-25,High Income - High Spending,1
 81311d42-b9b7-4a69-8120-b6a2a16c7a95,77,Female,192861,11,76-90,High Income - Low Spending,1
 03fa5358-b264-49f8-8b64-f4ca3f746d26,76,Male,70870,3,76-90,Low Income - Low Spending,0
 994cd74d-6d77-46ca-af3e-0067d568729a,56,Male,115637,70,56-65,High Income - High Spending,2
@@ -12473,7 +12473,7 @@ b3819aa6-b96a-4c9f-b47a-8f32f1b08bfa,80,Female,147705,56,76-90,High Income - Hig
 4106b2e7-a392-455c-a950-36707bb99ca2,90,Male,130686,77,76-90,High Income - High Spending,2
 45b1c49e-462d-4f3e-9d6d-ad769fc87a2f,41,Male,177738,35,36-45,High Income - Low Spending,1
 6843ea4a-8b17-490a-a24c-eec2624cee09,85,Female,106847,97,76-90,Low Income - High Spending,0
-c631f909-51bf-42e1-969a-4d99b4dc0bd6,18,Female,79868,94,,Low Income - High Spending,0
+c631f909-51bf-42e1-969a-4d99b4dc0bd6,18,Female,79868,94,18-25,Low Income - High Spending,0
 8d825f1b-f0f2-44b8-a1b9-3efe6aeb5dd2,64,Male,192580,17,56-65,High Income - Low Spending,1
 2fba62c4-b176-4adb-b4ab-5d360cc537de,39,Female,78559,40,36-45,Low Income - Low Spending,0
 1f992464-a498-458e-a317-d2e8c7cc4e3f,77,Female,34568,15,76-90,Low Income - Low Spending,3
@@ -12546,7 +12546,7 @@ f3d1913f-2752-44f6-9501-81bcbfd1af7e,77,Male,112655,47,76-90,High Income - Low S
 1374e5f9-52bd-42d1-b629-feeddcbadec7,33,Male,65889,55,26-35,Low Income - High Spending,0
 e85bf3cb-c523-41de-bf90-9993f00c0058,21,Female,111575,69,18-25,High Income - High Spending,2
 f6225c10-bd9e-47f8-a1e9-022221fcb102,75,Male,134254,35,66-75,High Income - Low Spending,2
-4b67305d-c6a3-4c20-b5f8-8b164ebb401f,18,Female,104553,9,,Low Income - Low Spending,0
+4b67305d-c6a3-4c20-b5f8-8b164ebb401f,18,Female,104553,9,18-25,Low Income - Low Spending,0
 d483d7e6-b86e-4d22-9441-92dbbb5a2640,63,Male,76538,63,56-65,Low Income - High Spending,0
 eb70b9ec-4ddc-4e77-a2f1-21b24abf978a,75,Female,79525,48,66-75,Low Income - Low Spending,0
 3dd6461c-9b8c-4159-8dd4-013314fc2831,28,Male,47049,82,26-35,Low Income - High Spending,3
@@ -12633,7 +12633,7 @@ d40f87fd-e8ee-4ab9-8bcb-8ad449f60d30,61,Female,137007,50,56-65,High Income - Low
 aa06228f-a058-44c0-89e1-e7ce43bf7a92,60,Female,48751,15,56-65,Low Income - Low Spending,3
 d7685d9b-ea67-492f-a0fe-85a9b4be6f9a,49,Female,104502,50,46-55,Low Income - Low Spending,0
 258454e2-34c1-40ff-837b-10ba7fec6d35,21,Female,130408,51,18-25,High Income - High Spending,2
-6ff35925-9963-41a9-963c-e6473a9989b3,18,Male,58623,38,,Low Income - Low Spending,3
+6ff35925-9963-41a9-963c-e6473a9989b3,18,Male,58623,38,18-25,Low Income - Low Spending,3
 615e5184-efe7-4a99-a6e0-2ced9c56fc6e,82,Female,40780,89,76-90,Low Income - High Spending,3
 04596ae0-aedc-4189-b547-9f0cc8a43a62,88,Male,196278,70,76-90,High Income - High Spending,1
 d85dc3d2-a9a8-4ea8-99a7-815293e5d4b6,47,Male,88768,45,46-55,Low Income - Low Spending,0
@@ -12915,7 +12915,7 @@ bdc33a57-fd0a-48da-bb93-83218204e4f7,40,Male,56282,71,36-45,Low Income - High Sp
 af1a0cb7-ca08-43b1-ba21-7ed29ce8128a,57,Male,95322,6,56-65,Low Income - Low Spending,0
 0a0be030-0447-4190-b141-0a8a20c0c1e7,73,Female,106390,82,66-75,Low Income - High Spending,0
 8950c924-4a1a-4150-ad29-28a235045631,35,Female,42915,90,26-35,Low Income - High Spending,3
-69a4cda6-3c3c-40f2-a988-80789becc43b,18,Female,46598,8,,Low Income - Low Spending,3
+69a4cda6-3c3c-40f2-a988-80789becc43b,18,Female,46598,8,18-25,Low Income - Low Spending,3
 620c7a5d-9185-4165-8250-563e4dea4a83,26,Male,25330,72,26-35,Low Income - High Spending,3
 2beadd96-e387-4979-9104-eacdbaeddd99,30,Male,57144,77,26-35,Low Income - High Spending,3
 ee46e945-3e30-41ba-92e4-305d6b7dde2f,65,Female,150128,6,56-65,High Income - Low Spending,2
@@ -12990,7 +12990,7 @@ db2bcd56-63bd-464e-8898-f16c86eca28c,59,Male,108465,5,56-65,Low Income - Low Spe
 8bbbc5d7-83ef-4af4-9aaf-6d659172bea4,72,Female,84009,85,66-75,Low Income - High Spending,0
 abd8b5c5-7092-4480-bab7-1834bd7474a6,45,Male,123536,59,36-45,High Income - High Spending,2
 141d1792-85e4-45ce-8f3c-18b04431a812,38,Male,135018,61,36-45,High Income - High Spending,2
-96237917-9c2d-4deb-a182-70064548a873,18,Female,169613,32,,High Income - Low Spending,1
+96237917-9c2d-4deb-a182-70064548a873,18,Female,169613,32,18-25,High Income - Low Spending,1
 3e74e158-066d-46ff-a985-f97ff6f5b44a,67,Female,171395,67,66-75,High Income - High Spending,1
 0a5c381d-757c-421f-8b33-ca036e42cf4b,45,Male,74657,56,36-45,Low Income - High Spending,0
 3fca14e7-00ad-44e0-b99f-278af04056f0,26,Female,187335,51,26-35,High Income - High Spending,1
@@ -13074,7 +13074,7 @@ a07cb469-c883-4875-9722-1a7252fb1966,67,Female,133622,99,66-75,High Income - Hig
 cfca0560-a490-4acb-a846-f47a4e5ff891,81,Female,150414,53,76-90,High Income - High Spending,2
 18c89cf5-f2c0-47f2-b92b-c89076d0340e,70,Female,40257,88,66-75,Low Income - High Spending,3
 0edd3713-2a29-4c0a-b963-ff71dbb450c4,79,Male,133721,96,76-90,High Income - High Spending,2
-e4189764-e607-43e9-9578-462cfec06404,18,Male,166915,8,,High Income - Low Spending,1
+e4189764-e607-43e9-9578-462cfec06404,18,Male,166915,8,18-25,High Income - Low Spending,1
 7c74dc96-8132-47f5-a169-8b05446d600a,36,Male,188799,76,36-45,High Income - High Spending,1
 06969434-e24e-47bf-8c63-49e0f4fcefc8,77,Male,102960,62,76-90,Low Income - High Spending,0
 b2b2db95-aeb5-4e55-b4d3-69c2c1e09b53,24,Female,53024,34,18-25,Low Income - Low Spending,3
@@ -13093,7 +13093,7 @@ dd172922-22f9-4194-b187-50e4a3b60c4e,62,Male,177376,26,56-65,High Income - Low S
 b692e588-fcdc-457d-b272-fd4d2c6b1fdd,35,Male,52971,48,26-35,Low Income - Low Spending,3
 532a071b-c254-4526-bf27-1b4fefd6ced6,19,Female,25760,27,18-25,Low Income - Low Spending,3
 04d9905d-4e8f-407f-834e-09c75a4c5c74,26,Male,69684,63,26-35,Low Income - High Spending,0
-6601eade-294d-4f4f-a919-fd57f18573d2,18,Female,185385,58,,High Income - High Spending,1
+6601eade-294d-4f4f-a919-fd57f18573d2,18,Female,185385,58,18-25,High Income - High Spending,1
 48d255da-7639-4b2d-a704-9abae7e66d16,60,Male,28141,54,56-65,Low Income - High Spending,3
 9ef966cb-dbb6-4e81-8e4b-997ab38fa830,29,Female,28138,66,26-35,Low Income - High Spending,3
 ca088e80-8879-4bfa-a4c9-679495cdcc3d,68,Female,72540,94,66-75,Low Income - High Spending,0
@@ -13131,7 +13131,7 @@ c185600f-af49-4470-8191-a316b367963d,87,Male,155424,69,76-90,High Income - High 
 e37e2dfe-9e80-495b-a2ca-36846acb515a,44,Female,193220,82,36-45,High Income - High Spending,1
 f8b52c93-4ba8-4191-b192-894ebecb8498,36,Female,76962,58,36-45,Low Income - High Spending,0
 083739ec-bcd6-40d6-9ec2-1c2723f94659,38,Male,21691,98,36-45,Low Income - High Spending,3
-ef1fb54e-ed0e-498b-9ff1-e9a278157e3d,18,Male,77987,62,,Low Income - High Spending,0
+ef1fb54e-ed0e-498b-9ff1-e9a278157e3d,18,Male,77987,62,18-25,Low Income - High Spending,0
 3712778e-7206-472c-886c-60ba10386fe6,44,Female,49875,58,36-45,Low Income - High Spending,3
 7383e73c-a062-47d0-bfc4-ad97d88ef8a3,88,Male,24544,52,76-90,Low Income - High Spending,3
 030f481c-ab29-4f33-a49a-a8b9572aabe8,27,Male,146733,97,26-35,High Income - High Spending,2
@@ -13191,7 +13191,7 @@ f435f8d2-04e5-4e60-bc73-4c1ef541b81e,64,Male,130454,81,56-65,High Income - High 
 d0c57ead-8c0d-4db7-8619-36b7cf8c041a,56,Female,193135,89,56-65,High Income - High Spending,1
 9de7b61e-bcba-405f-9621-4c2af051bf4a,76,Male,126600,90,76-90,High Income - High Spending,2
 93818cfa-bcde-4dcd-b963-7269f0f89735,31,Female,112865,37,26-35,High Income - Low Spending,2
-6d5cc17b-73c5-4b4a-8bd2-1ede33248a67,18,Male,191717,98,,High Income - High Spending,1
+6d5cc17b-73c5-4b4a-8bd2-1ede33248a67,18,Male,191717,98,18-25,High Income - High Spending,1
 9e46adda-5e0f-4744-8bca-17c0cc054f2e,37,Male,66183,27,36-45,Low Income - Low Spending,0
 0d8e1da3-c19c-42e9-8400-219930e1afff,70,Male,177214,78,66-75,High Income - High Spending,1
 dfb1b43e-16db-40ca-a123-678feca36915,53,Male,40719,80,46-55,Low Income - High Spending,3
@@ -13245,7 +13245,7 @@ f730a5ab-1de8-43d9-9eca-45a88b1090e9,35,Female,107070,46,26-35,Low Income - Low 
 fc6afe20-1abf-4d80-8c6f-b75363fd1153,83,Female,198260,72,76-90,High Income - High Spending,1
 e90e5dd0-43d4-4e35-8978-172ae950fd13,31,Male,140719,12,26-35,High Income - Low Spending,2
 45b73c05-20aa-41d6-9f1f-70f5a6ffe06b,80,Male,122325,67,76-90,High Income - High Spending,2
-d41af8b2-7695-41ca-b523-6fe9a6f654c7,18,Male,104344,78,,Low Income - High Spending,0
+d41af8b2-7695-41ca-b523-6fe9a6f654c7,18,Male,104344,78,18-25,Low Income - High Spending,0
 2afbb3e4-ea82-4398-9dbe-bdbb23139087,59,Male,40447,39,56-65,Low Income - Low Spending,3
 4679ab83-c0b0-459e-8e0f-5a29219e22dc,56,Female,195061,9,56-65,High Income - Low Spending,1
 aa2e68f4-1448-4f4b-84b8-0f32fefa721e,51,Male,39509,98,46-55,Low Income - High Spending,3
@@ -13258,7 +13258,7 @@ d9d95309-9ba1-475d-a937-82befaaec754,59,Male,96509,22,56-65,Low Income - Low Spe
 7c420d83-f004-4a0d-9e4c-77097353634b,20,Male,198708,51,18-25,High Income - High Spending,1
 85d97cab-e09c-4b1e-914c-2dde2fa9c849,44,Male,140571,85,36-45,High Income - High Spending,2
 8737ca5f-5283-45ea-b896-f7e748c8d176,39,Male,154955,31,36-45,High Income - Low Spending,2
-ccb86004-28b5-4ffe-8a93-17d28c9d2c89,18,Male,103441,8,,Low Income - Low Spending,0
+ccb86004-28b5-4ffe-8a93-17d28c9d2c89,18,Male,103441,8,18-25,Low Income - Low Spending,0
 2a0a60f9-3fea-42c2-87d2-e10655e3ca40,66,Male,28755,25,66-75,Low Income - Low Spending,3
 c79af57e-e5c2-420f-9b2b-07ba40b95e98,46,Male,51682,36,46-55,Low Income - Low Spending,3
 9a28dc28-bad0-4c38-b5bc-a32ace8ca6a5,77,Female,36205,27,76-90,Low Income - Low Spending,3
@@ -13284,7 +13284,7 @@ cbf7ee84-1dcc-4f86-aa32-d8807ab7872d,44,Female,70861,68,36-45,Low Income - High 
 4d858144-b51a-4841-93f2-c769871d51e8,83,Male,120232,45,76-90,High Income - Low Spending,2
 ee12059f-a753-45bf-8038-3c578c3ab9db,28,Male,126718,91,26-35,High Income - High Spending,2
 85069ab0-1012-49f8-b1a9-f23ae02ac852,23,Male,190834,25,18-25,High Income - Low Spending,1
-5fa3b63b-30fc-495f-8424-7b7dcb10a114,18,Female,140533,95,,High Income - High Spending,2
+5fa3b63b-30fc-495f-8424-7b7dcb10a114,18,Female,140533,95,18-25,High Income - High Spending,2
 c19fb1b6-6221-4482-ad08-674c4b309016,35,Male,45123,32,26-35,Low Income - Low Spending,3
 af573cf4-9b78-4023-9eab-b6fc0e3dea88,50,Female,99417,56,46-55,Low Income - High Spending,0
 98aa536c-c758-4fc4-a4d5-f97c13f6ba77,35,Female,173518,52,26-35,High Income - High Spending,1
@@ -13525,7 +13525,7 @@ fd3bf3d6-7c36-48ef-a3db-ef31c156df20,66,Female,52111,50,66-75,Low Income - Low S
 c324474f-c913-4f80-b857-6440a3d6b02e,47,Female,194737,47,46-55,High Income - Low Spending,1
 a6167669-fbbf-4c37-a579-61adde214e02,36,Male,198750,73,36-45,High Income - High Spending,1
 c06cd5ff-5340-4aa4-bd2d-962a3007e2ba,19,Male,60951,58,18-25,Low Income - High Spending,3
-1c02493e-2201-4c09-b8b8-f6c11b7d664b,18,Female,139159,99,,High Income - High Spending,2
+1c02493e-2201-4c09-b8b8-f6c11b7d664b,18,Female,139159,99,18-25,High Income - High Spending,2
 651cd12c-0101-406c-9ba5-8f76ade8a88d,76,Female,171575,57,76-90,High Income - High Spending,1
 389113d8-bcc7-492d-a4a8-075454579452,63,Female,192515,65,56-65,High Income - High Spending,1
 eb4ca15f-c10a-42a8-81f6-6ebb3f4c7822,22,Female,49275,94,18-25,Low Income - High Spending,3
@@ -13544,7 +13544,7 @@ f6d24db7-a565-436f-9e21-0cc2ea16cc98,82,Female,108841,35,76-90,Low Income - Low 
 098fbada-94f0-4a12-a96f-e4e01c3bdf26,35,Female,118638,8,26-35,High Income - Low Spending,2
 237b30c6-ff95-41b7-a5bb-fd19a89b15ed,23,Female,59047,58,18-25,Low Income - High Spending,3
 a30d5b36-3ebc-415a-bacc-2455425b9502,80,Female,165398,32,76-90,High Income - Low Spending,1
-a33c088f-f274-40f8-a095-f05ebe981104,18,Male,48749,98,,Low Income - High Spending,3
+a33c088f-f274-40f8-a095-f05ebe981104,18,Male,48749,98,18-25,Low Income - High Spending,3
 dc465387-4576-497a-8da9-00d8873ecc72,71,Male,85428,24,66-75,Low Income - Low Spending,0
 aafe10e2-5a9b-4b06-b581-0808a284b8b0,19,Female,80297,31,18-25,Low Income - Low Spending,0
 1f6d39a6-58c4-4735-8817-4b6b538ef310,55,Male,105182,100,46-55,Low Income - High Spending,0
@@ -13625,7 +13625,7 @@ c0a7d7e8-b904-4b05-bda5-f6c47b3e181d,89,Female,24139,74,76-90,Low Income - High 
 976d3346-d22c-446c-9856-0402774342dd,65,Female,197672,67,56-65,High Income - High Spending,1
 7dd5de34-46ab-4c3e-a987-3e28ac46229c,86,Female,47206,40,76-90,Low Income - Low Spending,3
 b91bb08b-0f1b-4764-9325-0587a3dd53ac,28,Male,33756,43,26-35,Low Income - Low Spending,3
-4d150f21-fab8-4ba0-88ff-67e13fe9f5b3,18,Female,88927,66,,Low Income - High Spending,0
+4d150f21-fab8-4ba0-88ff-67e13fe9f5b3,18,Female,88927,66,18-25,Low Income - High Spending,0
 adb3c2fd-dd7a-4d68-b7ff-7d03ac7d5105,74,Female,151349,51,66-75,High Income - High Spending,2
 8a17b236-ba7a-4ad1-aa32-b35888cb7ba8,80,Female,158243,78,76-90,High Income - High Spending,1
 3ec4a6f8-1e60-45f7-bb3c-e32490d523d9,56,Female,42768,42,56-65,Low Income - Low Spending,3
@@ -13699,7 +13699,7 @@ b1fe7d87-6346-44fc-8d1c-d43f819d2609,30,Female,62592,59,26-35,Low Income - High 
 a4c77004-46ef-41df-94f1-503ca833f0a2,67,Female,24382,9,66-75,Low Income - Low Spending,3
 a8cd4fac-d146-4ae3-a267-7eb4c9f37e6b,89,Male,131863,33,76-90,High Income - Low Spending,2
 bcdde737-7e87-4a47-b1ec-0446d3d04fde,82,Male,46786,7,76-90,Low Income - Low Spending,3
-f673bc1e-5ccd-4093-8fb2-08268132728a,18,Female,149854,49,,High Income - Low Spending,2
+f673bc1e-5ccd-4093-8fb2-08268132728a,18,Female,149854,49,18-25,High Income - Low Spending,2
 a7feebbb-c890-40e0-a1e9-16b9d169c015,21,Female,95043,24,18-25,Low Income - Low Spending,0
 f1df5f1a-fa30-4582-b107-55473b0373ca,86,Male,179880,13,76-90,High Income - Low Spending,1
 8bc1c92a-7a4d-48a8-8e0b-50050d3776fb,34,Male,141795,5,26-35,High Income - Low Spending,2
@@ -13715,7 +13715,7 @@ cd25f331-67b0-47c1-b4fd-5ebbad0559fb,25,Female,194441,1,18-25,High Income - Low 
 fcc674e2-f7c3-422b-9be4-86a86f388b39,72,Male,189870,65,66-75,High Income - High Spending,1
 4a6f9a5e-505f-4cec-8cf0-617eae940a34,66,Male,154494,53,66-75,High Income - High Spending,2
 3de1ee22-593c-419c-83c0-c9834e05d39b,74,Female,111436,95,66-75,High Income - High Spending,2
-146c3cbb-0ff6-4aa8-a042-6866d6e73eac,18,Male,39220,18,,Low Income - Low Spending,3
+146c3cbb-0ff6-4aa8-a042-6866d6e73eac,18,Male,39220,18,18-25,Low Income - Low Spending,3
 955f05f7-9e7f-434c-b6b0-352b12cca195,27,Male,177392,85,26-35,High Income - High Spending,1
 9367daff-ea18-409d-9e55-7feca4d6bbf8,41,Male,21619,16,36-45,Low Income - Low Spending,3
 fc20f39d-c6ce-41e7-893e-d72680c24cc0,35,Female,52980,2,26-35,Low Income - Low Spending,3
@@ -13728,7 +13728,7 @@ f1e4e694-e973-4adc-9a76-76b17f9ca8d9,82,Male,49914,11,76-90,Low Income - Low Spe
 17934504-27a5-4ca4-843d-819011034940,49,Female,198769,35,46-55,High Income - Low Spending,1
 02bc6b6a-1604-4db8-ba96-844ff523ef10,25,Female,109788,61,18-25,High Income - High Spending,0
 11298ff1-1882-4239-aebc-6904b148cb84,90,Male,144268,5,76-90,High Income - Low Spending,2
-ef6ce7e9-ac95-4cb4-9125-47634b6e8430,18,Female,48713,18,,Low Income - Low Spending,3
+ef6ce7e9-ac95-4cb4-9125-47634b6e8430,18,Female,48713,18,18-25,Low Income - Low Spending,3
 c1eb955b-ec5f-457a-81c8-ad8964f1515f,66,Male,48934,75,66-75,Low Income - High Spending,3
 2d27fe2e-3cf2-403f-bf50-e02d7999e048,19,Female,178711,34,18-25,High Income - Low Spending,1
 d0f8805f-68ef-45ce-9272-c09a66fad78e,51,Female,94577,11,46-55,Low Income - Low Spending,0
@@ -13756,7 +13756,7 @@ a5189727-c7b6-4ee3-ae9a-3284328e79bb,71,Male,56116,35,66-75,Low Income - Low Spe
 e34f23fe-61f4-4178-98ef-ebfc0cc10eda,67,Male,83307,77,66-75,Low Income - High Spending,0
 db638bab-1de1-4a8a-96ca-1864102b33b5,39,Male,146606,51,36-45,High Income - High Spending,2
 c64b1878-f217-4192-b14b-ae9919ccf135,37,Female,132228,44,36-45,High Income - Low Spending,2
-c963216c-3045-417a-bce6-35793843cedb,18,Female,74791,21,,Low Income - Low Spending,0
+c963216c-3045-417a-bce6-35793843cedb,18,Female,74791,21,18-25,Low Income - Low Spending,0
 5eb1c261-14f7-4fc9-a8ec-c0f10a6a7026,24,Female,97054,38,18-25,Low Income - Low Spending,0
 34bbb331-e22a-4532-8333-3c5da134c058,33,Female,149641,52,26-35,High Income - High Spending,2
 e4192b54-e3f0-45b9-ad33-95f3d394225d,40,Female,40617,74,36-45,Low Income - High Spending,3
@@ -13782,7 +13782,7 @@ ed095f54-02e2-4a55-ad4f-cb58da93b8d0,87,Female,121569,27,76-90,High Income - Low
 9b997b85-e226-4284-b199-a72cd0ba332f,61,Female,21374,93,56-65,Low Income - High Spending,3
 ba5d710f-583d-4e0f-84f1-2fc3505514da,90,Male,66371,56,76-90,Low Income - High Spending,0
 0c63f795-19e2-46cf-8a3e-822c81dd1e6e,34,Male,57582,1,26-35,Low Income - Low Spending,3
-f93ff113-504b-4133-8cef-d6ed43673538,18,Male,194833,78,,High Income - High Spending,1
+f93ff113-504b-4133-8cef-d6ed43673538,18,Male,194833,78,18-25,High Income - High Spending,1
 931b39e6-1073-4b40-8ed8-006838189506,49,Male,131854,23,46-55,High Income - Low Spending,2
 d716b75e-41e6-4a6f-9ad3-a25a42e7b16e,43,Female,137208,68,36-45,High Income - High Spending,2
 a7b2730b-6d70-499e-8571-8662bc28b550,85,Male,114164,73,76-90,High Income - High Spending,2
@@ -13819,7 +13819,7 @@ feaafc40-31dc-4e3f-a92c-4000d2ebd180,89,Male,190947,35,76-90,High Income - Low S
 f96c2d8f-6cc9-41b3-96ac-2d096d0da706,46,Male,30563,53,46-55,Low Income - High Spending,3
 ea05c943-d5c2-45e4-911c-e164c47e5fa0,33,Female,175841,49,26-35,High Income - Low Spending,1
 58d7eeb8-8a10-488f-b68c-8dfc762518ff,78,Male,117996,98,76-90,High Income - High Spending,2
-a582cf00-43ee-4aaf-97b9-a7a1a2da4d6b,18,Female,50860,12,,Low Income - Low Spending,3
+a582cf00-43ee-4aaf-97b9-a7a1a2da4d6b,18,Female,50860,12,18-25,Low Income - Low Spending,3
 26c5b825-aa51-43ee-8db3-9e9a1a0f07a1,71,Female,35924,38,66-75,Low Income - Low Spending,3
 983f60c4-ea05-4795-aec0-08da3854cd06,40,Male,24892,5,36-45,Low Income - Low Spending,3
 9d339e6d-b74e-4fb5-9714-a32b12bbd100,86,Female,41207,43,76-90,Low Income - Low Spending,3
@@ -13836,7 +13836,7 @@ b8a2f13d-e4ce-4393-a23d-ebe64e9c1499,74,Male,179662,66,66-75,High Income - High 
 4cf4ec37-0029-42fb-a014-5ecf66df8ce5,42,Male,175725,93,36-45,High Income - High Spending,1
 31a683a5-1b3d-437d-996d-d993ac088b51,20,Female,150406,89,18-25,High Income - High Spending,2
 2fa3c8f5-911d-445a-bd1d-ace97cd902b9,86,Female,25461,74,76-90,Low Income - High Spending,3
-0a91aab3-d603-4ee2-a589-2af6b0e4d124,18,Male,119353,43,,High Income - Low Spending,2
+0a91aab3-d603-4ee2-a589-2af6b0e4d124,18,Male,119353,43,18-25,High Income - Low Spending,2
 8d0e20df-1e6a-4d5f-bf5c-739acf8783cd,74,Male,175794,55,66-75,High Income - High Spending,1
 17a17645-2e16-46f4-a235-497bce3bd468,73,Female,160673,75,66-75,High Income - High Spending,1
 1382e216-8e21-44e8-b66d-e90434dc7019,73,Female,139557,97,66-75,High Income - High Spending,2
@@ -13851,7 +13851,7 @@ b839f5bb-560a-4666-988c-48986c8dd23c,23,Male,49505,18,18-25,Low Income - Low Spe
 d7aa96bf-31b1-4f0f-9776-a2c5b31e0d39,85,Female,149964,36,76-90,High Income - Low Spending,2
 71845470-7cd5-4b8b-a77c-45c9dd1200af,70,Male,21156,96,66-75,Low Income - High Spending,3
 a3fe3e37-6a02-4fde-8632-091b51e7c9c6,81,Female,185643,68,76-90,High Income - High Spending,1
-670a88a0-c21d-447b-928f-398bcb5ef7cd,18,Female,156848,97,,High Income - High Spending,1
+670a88a0-c21d-447b-928f-398bcb5ef7cd,18,Female,156848,97,18-25,High Income - High Spending,1
 99b36e83-3845-4e7e-a089-d2c55be2f46a,75,Female,167903,46,66-75,High Income - Low Spending,1
 fde57d98-fa4c-477a-9e25-7154fcc1b65e,34,Male,87004,2,26-35,Low Income - Low Spending,0
 bf0a20ae-608e-42df-ab6f-3f297e681eef,20,Female,43050,46,18-25,Low Income - Low Spending,3
@@ -13862,7 +13862,7 @@ b0f0a227-9ed9-4a9f-bb03-0a496590689c,34,Female,23791,35,26-35,Low Income - Low S
 ea7d0ca9-f343-40d3-9988-8ab4513a4166,83,Female,141749,48,76-90,High Income - Low Spending,2
 68f2b205-fc16-48e4-96c4-1eff01c158b0,86,Female,55576,89,76-90,Low Income - High Spending,3
 d01dbcfa-6617-4fec-a73d-66be0182a12e,60,Male,52977,83,56-65,Low Income - High Spending,3
-f2fcc54e-c45b-4c09-b007-a49d6e669aa9,18,Male,195268,50,,High Income - Low Spending,1
+f2fcc54e-c45b-4c09-b007-a49d6e669aa9,18,Male,195268,50,18-25,High Income - Low Spending,1
 8c967acf-c8d1-4ed0-9739-f14689d10680,86,Male,189696,24,76-90,High Income - Low Spending,1
 d84f4db6-5940-4f47-a5d6-08872706310a,31,Female,83289,87,26-35,Low Income - High Spending,0
 d7c755b4-85eb-4c9c-b803-c0858ff848f7,31,Female,127617,84,26-35,High Income - High Spending,2
@@ -13888,7 +13888,7 @@ d1675afe-2f98-4cbe-ab19-46f523ebefa1,42,Female,106055,46,36-45,Low Income - Low 
 1857262b-89f7-4dde-a92c-1297ccafdc63,47,Male,156912,41,46-55,High Income - Low Spending,1
 6407aaec-985c-4dcd-9dc2-5ee833901dd0,57,Female,21587,44,56-65,Low Income - Low Spending,3
 d71ff6a5-dba3-42bf-8548-0063a78d4e8c,36,Male,80895,43,36-45,Low Income - Low Spending,0
-fb28f231-8de0-4baa-87a2-753989115be3,18,Female,32229,13,,Low Income - Low Spending,3
+fb28f231-8de0-4baa-87a2-753989115be3,18,Female,32229,13,18-25,Low Income - Low Spending,3
 b07b5c98-6c67-491b-9404-2a0290a281de,33,Female,184914,22,26-35,High Income - Low Spending,1
 41c4049d-0c18-4ebe-b760-2ee26a09d856,51,Male,134065,72,46-55,High Income - High Spending,2
 9c649f9e-0d91-4b5f-acfc-9146eab7d0d2,46,Male,133960,92,46-55,High Income - High Spending,2
@@ -13910,7 +13910,7 @@ b23c8fbc-292d-4089-885c-18ed716aada7,59,Female,151713,48,56-65,High Income - Low
 56873757-7648-4c2a-8095-be358c22bac7,29,Female,132794,22,26-35,High Income - Low Spending,2
 496fdbf5-cd8f-4708-947b-6b9acfcec9ba,63,Female,138303,95,56-65,High Income - High Spending,2
 09395d3f-a110-4134-861b-e1629225494d,41,Male,95088,14,36-45,Low Income - Low Spending,0
-a968d445-d93d-439e-bd65-b180a220e877,18,Male,178391,55,,High Income - High Spending,1
+a968d445-d93d-439e-bd65-b180a220e877,18,Male,178391,55,18-25,High Income - High Spending,1
 b3c9cc86-024a-46c2-bf5a-a661a49d2039,37,Female,113238,57,36-45,High Income - High Spending,2
 0f4a18d9-1ce2-434f-878e-20036201c611,33,Female,69808,73,26-35,Low Income - High Spending,0
 eb2d1a79-155a-413a-9b1b-bf25c8447e4f,53,Male,145722,7,46-55,High Income - Low Spending,2
@@ -14047,7 +14047,7 @@ fa306643-1097-4a47-a447-ad56c93e6a54,19,Male,97108,69,18-25,Low Income - High Sp
 4ad46545-4a84-447d-8f36-d962f72fcc15,40,Female,83669,20,36-45,Low Income - Low Spending,0
 4c220062-6465-4c9c-aa9d-ed06b5c04e19,64,Female,184579,1,56-65,High Income - Low Spending,1
 ba611ef3-6ea1-4953-8c0d-6b8bfadf6092,50,Female,79562,74,46-55,Low Income - High Spending,0
-a424bcb8-acfe-40d8-8940-4f38edbbcc27,18,Male,100552,22,,Low Income - Low Spending,0
+a424bcb8-acfe-40d8-8940-4f38edbbcc27,18,Male,100552,22,18-25,Low Income - Low Spending,0
 82ab9967-9fcb-4df7-b262-2d7a74de8668,45,Male,64275,69,36-45,Low Income - High Spending,3
 16ea94b0-ad40-4658-a67a-f8304b9833d9,24,Male,145032,57,18-25,High Income - High Spending,2
 c732ed0c-3bce-4e97-a90a-dfff1fd57d38,83,Female,153805,64,76-90,High Income - High Spending,2
@@ -14142,7 +14142,7 @@ db51798a-d562-4b20-9829-4b43bdffc50c,83,Female,98291,53,76-90,Low Income - High 
 357ed27f-de66-468c-9c40-7b55a8c21792,24,Female,62251,24,18-25,Low Income - Low Spending,3
 01c03241-bb2e-4cce-8907-72c3a024aa6a,22,Male,49440,30,18-25,Low Income - Low Spending,3
 7b53ba74-bea3-4bd8-9e13-c3ecbdcf28bb,31,Male,123135,66,26-35,High Income - High Spending,2
-f419b2d0-bafa-4dfa-a640-82e8a62400ac,18,Male,177342,54,,High Income - High Spending,1
+f419b2d0-bafa-4dfa-a640-82e8a62400ac,18,Male,177342,54,18-25,High Income - High Spending,1
 f98274de-db13-4814-ac7c-889c8c1086e9,64,Female,45954,58,56-65,Low Income - High Spending,3
 d5b3dc4f-01a9-4084-ba4d-de0f8f71b4cb,88,Female,124084,19,76-90,High Income - Low Spending,2
 c1d448be-1853-4b97-81cd-baa5f25a4c4a,28,Female,194294,46,26-35,High Income - Low Spending,1
@@ -14245,8 +14245,8 @@ a6b9429e-28ff-46f6-801b-3b3ccad76344,33,Male,94175,15,26-35,Low Income - Low Spe
 b55cd1a1-cb5e-4e18-8b7f-31ec70e77931,33,Male,149815,48,26-35,High Income - Low Spending,2
 495a2962-d351-46e4-b898-b93f50c26a30,20,Male,93942,32,18-25,Low Income - Low Spending,0
 e06f7d21-0ff0-4263-8dad-6645058a6e03,63,Female,180490,58,56-65,High Income - High Spending,1
-559d6576-d205-43cd-a771-182624165516,18,Male,41842,77,,Low Income - High Spending,3
-f95af1e2-c637-4aab-8559-917ba12a30a9,18,Male,36133,86,,Low Income - High Spending,3
+559d6576-d205-43cd-a771-182624165516,18,Male,41842,77,18-25,Low Income - High Spending,3
+f95af1e2-c637-4aab-8559-917ba12a30a9,18,Male,36133,86,18-25,Low Income - High Spending,3
 40b81ba2-a488-4959-9590-73f14e6c7a53,39,Female,64717,20,36-45,Low Income - Low Spending,3
 dbd2b61a-04db-43a6-868f-1b1dfef47bd7,35,Male,168460,67,26-35,High Income - High Spending,1
 2c0dcc71-d5b3-4593-b608-caeabe60abbf,52,Male,24868,80,46-55,Low Income - High Spending,3
@@ -14270,7 +14270,7 @@ af44f820-3598-420e-b33b-1192014846fe,80,Female,61183,70,76-90,Low Income - High 
 1ed6df15-b665-4c3e-9ac8-a50d01f067bb,85,Male,20506,2,76-90,Low Income - Low Spending,3
 55e96c60-26af-4016-8cc1-eaec13f00f13,42,Male,195422,89,36-45,High Income - High Spending,1
 fe70a2e7-a113-4535-894c-73151ab557e9,48,Male,151493,5,46-55,High Income - Low Spending,2
-994b9349-2bf9-41e4-be38-641a280713f0,18,Female,153303,38,,High Income - Low Spending,2
+994b9349-2bf9-41e4-be38-641a280713f0,18,Female,153303,38,18-25,High Income - Low Spending,2
 c303fe8b-f416-4b96-a119-afde94d47aa1,20,Female,63122,59,18-25,Low Income - High Spending,3
 0cf8361e-5d87-4c80-9025-fc1ee8d6e122,88,Male,115244,44,76-90,High Income - Low Spending,2
 8a0bc7c7-8dd8-4827-93ed-7f2cb0e228ad,80,Male,55078,57,76-90,Low Income - High Spending,3
@@ -14311,7 +14311,7 @@ cd808f16-9729-414c-8a83-ed851feb59cc,39,Male,24409,40,36-45,Low Income - Low Spe
 a7b6c4d8-2b0e-4ed4-be3d-dea69639b70f,31,Male,84023,36,26-35,Low Income - Low Spending,0
 fc972da5-b93a-4c89-b939-62e868b0c121,56,Female,129199,47,56-65,High Income - Low Spending,2
 4b9d5e3b-c8b9-48c8-9ce6-87962302ceb4,80,Female,46046,35,76-90,Low Income - Low Spending,3
-cd6c53b5-2a60-417a-90e1-b38948536e31,18,Male,77457,53,,Low Income - High Spending,0
+cd6c53b5-2a60-417a-90e1-b38948536e31,18,Male,77457,53,18-25,Low Income - High Spending,0
 922885ce-373a-40f1-bf11-7da126af6d4b,27,Male,105566,49,26-35,Low Income - Low Spending,0
 eba11dae-c6e8-491c-bc2e-f0d3a7821e7c,69,Female,77330,60,66-75,Low Income - High Spending,0
 318eeec4-da13-449f-ab50-6161e4853baf,55,Male,59999,40,46-55,Low Income - Low Spending,3
@@ -14450,7 +14450,7 @@ a4ea5b0a-d989-4ccb-8021-29c240ab5831,54,Male,144393,100,46-55,High Income - High
 d4a36374-14f6-4c11-97cd-209e7d5501f0,20,Female,129301,19,18-25,High Income - Low Spending,2
 571ac52e-59f1-4398-a9d6-c5f2442adc2c,26,Female,72530,12,26-35,Low Income - Low Spending,0
 06b5b337-e10c-4e74-9e91-bfb8c2d1c55d,25,Female,136225,39,18-25,High Income - Low Spending,2
-11d8346e-291a-458b-9964-bcedb3759694,18,Male,128800,27,,High Income - Low Spending,2
+11d8346e-291a-458b-9964-bcedb3759694,18,Male,128800,27,18-25,High Income - Low Spending,2
 54bc9e8b-ab96-4d67-8929-2c953aa8c379,80,Male,46173,48,76-90,Low Income - Low Spending,3
 fdc92c86-6a13-49aa-a3e6-84c513c1ae2d,64,Male,149456,52,56-65,High Income - High Spending,2
 aeaac1ba-36f0-4a45-8fd3-729f86b4012f,82,Male,52446,69,76-90,Low Income - High Spending,3
@@ -14505,11 +14505,11 @@ dd778efc-6b0d-434b-9daa-c7bbb02789e4,81,Female,122060,46,76-90,High Income - Low
 8eca342a-2991-4876-ac22-ff560397847f,49,Female,172943,23,46-55,High Income - Low Spending,1
 ad4d14d7-a780-453e-9791-7b87e91648fe,46,Female,112312,55,46-55,High Income - High Spending,2
 0f3c975a-256b-4e44-8946-9644974f40f0,56,Female,128924,7,56-65,High Income - Low Spending,2
-921e19c0-ccfa-4466-9c5b-73bf5381bae2,18,Male,32159,95,,Low Income - High Spending,3
+921e19c0-ccfa-4466-9c5b-73bf5381bae2,18,Male,32159,95,18-25,Low Income - High Spending,3
 60e5841d-443f-423d-beac-569e381b33d1,72,Male,113665,72,66-75,High Income - High Spending,2
 f4669af7-8913-4e18-a412-bd4e9cc06f6c,40,Female,111964,92,36-45,High Income - High Spending,2
 4b42cc8d-29b4-4351-8a47-ff73821734e8,62,Female,177146,40,56-65,High Income - Low Spending,1
-0d1bd29f-8db8-444c-a022-5d6a13cc9ae6,18,Female,62281,44,,Low Income - Low Spending,3
+0d1bd29f-8db8-444c-a022-5d6a13cc9ae6,18,Female,62281,44,18-25,Low Income - Low Spending,3
 535f7c0b-9b56-4618-bce4-8fda23e82738,36,Male,152869,86,36-45,High Income - High Spending,2
 5411b65e-0c15-492e-9d50-37d0f64509b5,22,Female,152475,52,18-25,High Income - High Spending,2
 5608ab2a-429c-41c9-81fe-6a14f5e80784,23,Female,127932,86,18-25,High Income - High Spending,2
@@ -14595,7 +14595,7 @@ e1b7a47d-c1a1-4713-b39c-c356ede40037,63,Male,96378,54,56-65,Low Income - High Sp
 cf6c2e6d-d718-4b96-971a-8fed50de6cea,65,Female,131679,86,56-65,High Income - High Spending,2
 c34aaabf-907e-42a8-87d9-dc63780d4572,34,Female,114109,74,26-35,High Income - High Spending,2
 7f65c452-0eb1-4776-8a27-e8e094f51923,86,Female,93843,81,76-90,Low Income - High Spending,0
-1f69db4b-3abc-4410-a339-c972aa38293e,18,Male,193206,40,,High Income - Low Spending,1
+1f69db4b-3abc-4410-a339-c972aa38293e,18,Male,193206,40,18-25,High Income - Low Spending,1
 4d1e01fb-8f2d-400c-9d9c-dffe2fd6e536,20,Male,25964,31,18-25,Low Income - Low Spending,3
 4c251534-d6bd-4315-af97-240653bdb963,81,Female,32308,83,76-90,Low Income - High Spending,3
 f55b4a16-2a72-4ab2-b152-421ec36e1e2f,33,Female,31084,69,26-35,Low Income - High Spending,3
@@ -14731,7 +14731,7 @@ df8dd104-47a8-48a5-bcf4-b44844f0c6cf,36,Female,76603,6,36-45,Low Income - Low Sp
 2d2754bb-ad7a-4fec-8360-723eba6c933b,65,Male,66709,49,56-65,Low Income - Low Spending,0
 085f9c10-2475-46e3-bcb0-d52fc649fda5,74,Female,194614,99,66-75,High Income - High Spending,1
 293ffbf3-edb3-4760-9b07-90abbe90e1a6,53,Male,95310,32,46-55,Low Income - Low Spending,0
-bc148b1b-bcd2-4970-90be-2c54bfd8d090,18,Male,31766,94,,Low Income - High Spending,3
+bc148b1b-bcd2-4970-90be-2c54bfd8d090,18,Male,31766,94,18-25,Low Income - High Spending,3
 fc97d64a-7957-4dcf-a139-c777009c8bef,85,Female,58631,38,76-90,Low Income - Low Spending,3
 bd8b5c62-202c-4897-bc8b-f7cd14a61a27,31,Female,184908,41,26-35,High Income - Low Spending,1
 839f2ecd-9518-4330-838f-a400d9aaca38,69,Female,168597,24,66-75,High Income - Low Spending,1
@@ -14788,7 +14788,7 @@ de9a24dd-621b-4360-9b26-fac92e9b3192,19,Female,117857,89,18-25,High Income - Hig
 df242114-947f-40a0-a72e-1fde89563ef4,72,Female,88049,88,66-75,Low Income - High Spending,0
 6bacc9a9-827e-4f30-8406-a03609eb8e9d,81,Female,188175,12,76-90,High Income - Low Spending,1
 f0be3b28-cbee-4753-83b8-9a11adb6f63a,60,Female,120909,100,56-65,High Income - High Spending,2
-8e9af24e-fa76-4ce3-807c-d3c81662d7d6,18,Female,145393,33,,High Income - Low Spending,2
+8e9af24e-fa76-4ce3-807c-d3c81662d7d6,18,Female,145393,33,18-25,High Income - Low Spending,2
 a78c01f4-b11f-4f3b-aea4-dd5da175a398,35,Female,113748,80,26-35,High Income - High Spending,2
 45b9c2d5-0d91-4f2e-95b6-1eca02b88088,86,Male,42355,9,76-90,Low Income - Low Spending,3
 6e700f33-71b6-43df-8526-29e09c73b934,54,Female,175519,42,46-55,High Income - Low Spending,1
@@ -14808,7 +14808,7 @@ e16d732a-c43e-48c8-93c9-7cea53f63df9,63,Male,83626,9,56-65,Low Income - Low Spen
 6bcbf921-c778-478d-a16e-1c74cfe6508a,24,Male,126916,8,18-25,High Income - Low Spending,2
 18a0f161-8b9b-496a-8f4f-d28bbf91796c,87,Male,88422,83,76-90,Low Income - High Spending,0
 4fafd4b4-a6e3-4b64-b465-1958c5c32c4c,29,Female,132406,70,26-35,High Income - High Spending,2
-6d5136fb-33f2-4e22-8084-4e8c77e9fd96,18,Female,130173,18,,High Income - Low Spending,2
+6d5136fb-33f2-4e22-8084-4e8c77e9fd96,18,Female,130173,18,18-25,High Income - Low Spending,2
 5035fc62-9e44-4ee6-8273-32c619520f0a,22,Male,50221,46,18-25,Low Income - Low Spending,3
 d1b75ec8-48fe-48f5-825d-f9ccb772d8b7,89,Female,89495,91,76-90,Low Income - High Spending,0
 42853e4a-75b9-45dc-9891-9ee7b7a03964,20,Male,79700,31,18-25,Low Income - Low Spending,0
@@ -14857,7 +14857,7 @@ e4ceecb8-e779-423d-a165-33a85f91c853,48,Female,174975,30,46-55,High Income - Low
 593d8d71-380d-4a76-9480-fb90ea6462a3,64,Female,194370,29,56-65,High Income - Low Spending,1
 f3eaf2b8-90b2-4457-99e8-a4979e01a292,58,Female,157566,80,56-65,High Income - High Spending,1
 3ac6a77b-3854-4ecd-8400-64428a8e529b,84,Male,146882,74,76-90,High Income - High Spending,2
-971ae077-e987-42a2-96e5-3f8bc1e73816,18,Male,145431,4,,High Income - Low Spending,2
+971ae077-e987-42a2-96e5-3f8bc1e73816,18,Male,145431,4,18-25,High Income - Low Spending,2
 c8d9bd06-3086-4eb0-b5fe-e3c7e0a2d2c0,67,Female,176443,81,66-75,High Income - High Spending,1
 ec396066-e10e-4946-9593-8308b7d553b0,71,Female,49778,25,66-75,Low Income - Low Spending,3
 f7289dee-c6c3-4108-a2f5-41777e9b8645,84,Female,91880,48,76-90,Low Income - Low Spending,0
@@ -14998,9 +14998,9 @@ b784670d-9c05-416b-bd09-8b4e30de8e8f,74,Male,163830,96,66-75,High Income - High 
 9e979cb4-4732-402c-987f-6a50fdc03f8c,66,Male,99887,66,66-75,Low Income - High Spending,0
 90aaca1c-b0f6-4e57-a62d-10223bea1dae,89,Female,169293,42,76-90,High Income - Low Spending,1
 ba6c5144-f91c-4dc4-8e0c-368689e197e2,36,Male,97727,4,36-45,Low Income - Low Spending,0
-991d9975-eab9-4d37-ab25-cc52602bef49,18,Male,68947,13,,Low Income - Low Spending,0
+991d9975-eab9-4d37-ab25-cc52602bef49,18,Male,68947,13,18-25,Low Income - Low Spending,0
 6c839340-d05a-496f-9fed-9dc42c0a3055,64,Male,182320,17,56-65,High Income - Low Spending,1
-8f05d102-9073-474b-a5b5-d58aff587638,18,Male,128684,83,,High Income - High Spending,2
+8f05d102-9073-474b-a5b5-d58aff587638,18,Male,128684,83,18-25,High Income - High Spending,2
 fd05b627-15ec-46b1-8015-e23a273cec3a,30,Female,75517,39,26-35,Low Income - Low Spending,0
 b2b16e6f-e12e-4c3a-a1dc-2bba20b412fc,50,Female,155741,2,46-55,High Income - Low Spending,2
 fbf44dfa-8a90-4309-8afa-7d27f48040fe,53,Male,154076,68,46-55,High Income - High Spending,2
@@ -15075,6 +15075,6 @@ f7a9e3f8-4567-4fd9-82ae-00469fec391a,72,Female,173180,2,66-75,High Income - Low 
 21c26582-4425-4296-8305-4045edba61b8,70,Female,108936,6,66-75,Low Income - Low Spending,0
 a0504768-a85f-4930-ac24-55bc8e4fec9e,29,Female,97723,30,26-35,Low Income - Low Spending,0
 a08c4e0e-d1fe-48e7-9366-aab11ae409cd,22,Male,73361,74,18-25,Low Income - High Spending,0
-0e87c25a-268c-401a-8ba1-7111dcde6f1a,18,Female,112337,48,,High Income - Low Spending,2
+0e87c25a-268c-401a-8ba1-7111dcde6f1a,18,Female,112337,48,18-25,High Income - Low Spending,2
 5f388cbe-3373-4e16-b743-38f508f2249f,26,Female,94312,5,26-35,Low Income - Low Spending,0
 b8b8f561-ebca-4401-8afe-544c906554ba,19,Male,78045,2,18-25,Low Income - Low Spending,0
