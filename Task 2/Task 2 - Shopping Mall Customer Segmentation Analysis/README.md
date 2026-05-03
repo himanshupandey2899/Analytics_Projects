@@ -8,7 +8,7 @@ to support data-driven business decisions.
 - Python (Pandas, NumPy)
 - Power BI
 - Data Visualization (Matplotlib, Seaborn)
-- Business Analysis
+- Business Analysis (Scikit Learn)
 
 ## Project Workflow
 1. Data Cleaning
