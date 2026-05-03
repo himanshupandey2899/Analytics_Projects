@@ -18,4 +18,4 @@ to support data-driven business decisions.
 5. Business Recommendations
 
 ## Key Outcome
-Developed an interactive Power BI dashboard enabling customer behaviour monitoring and strategic marketing 
+Developed an interactive Power BI dashboard enabling customer behaviour monitoring and strategic marketing decisions.
