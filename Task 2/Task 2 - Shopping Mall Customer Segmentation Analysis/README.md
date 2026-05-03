@@ -7,7 +7,7 @@ to support data-driven business decisions.
 ## Tools Used
 - Python (Pandas, NumPy)
 - Power BI
-- Data Visualization (Matplotlib, Seaborn)
+- Data Visualisation (Matplotlib, Seaborn)
 - Business Analysis (Scikit Learn)
 
 ## Project Workflow
